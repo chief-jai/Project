@@ -1,0 +1,1950 @@
+A. Basiri Parsa	{"S. M. Sadri": 2, "O. Anwar Be9g": 2, "Mohammad Mehdi Rashidi": 2}
+A. F. Saleeb	{"J. S. Owusu-Danquah": 1, "B. Dhakal": 1}
+A. Gola Isasi	{"Amaia Me9ndez Zorrilla": 1, "Begof1a Garceda Zapirain": 1}
+A. J. Fernández-Rodríguez	{"C. Pe9rez-Rico": 1, "M. Ortiz del Castillo": 1, "Luciano Boquete": 1, "Eva M. Se1nchez-Morla": 1, "Roman Blanco": 1, "J. R. Garceda-Luque": 1, "Rafael Barea": 1, "Juan Manuel Miguel-Jime9nez": 1, "Luis de Santiago": 1, "Jose9 Manuel Rodredguez Ascariz": 1}
+A. Kandaswamy	{"S. Jayaraman": 1, "C. Sathish Kumar": 1, "Rm. Pl. Ramanathan": 1, "N. Malmurugan": 1}
+A. León	{"J. Pozo": 1}
+A. Mghari	{"Mohamed Majid Himmi": 1, "A. Amaloud": 1, "F. Regragui": 1}
+A. Naressi	{"Chantal Couturier": 1, "R. de Beer": 1, "I. Castang": 1, "Danielle Graveron-Demilly": 1}
+A. Rabinovitch	{"I. Aviram": 1, "Y. Biton": 1, "M. Gutman": 1}
+A. Resit Kavsaoglu	{"Kemal Polat": 1, "Mehmet Recep Bozkurt": 1}
+A. Terry Bahill	{"David G. Baldwin": 1}
+A. V. Kuznetsov	{"D. G. Blinov": 1, "I. A. Kuznetsov": 1, "A. A. Avramenko": 1}
+A. Vadivel	{"B. Surendiran": 1}
+A. Vlachopanos	{"A. S. Politou": 1, "E. Soupsana": 1, "G. V. Papamokos": 1}
+A. Yazdani	{"M. Normandie": 1, "M. Yousefi": 1, "Goodarz Ahmadi": 1, "M. S. Saidi": 1}
+Aaron W. Dennis	{"Andrew D. Michaels": 1, "Patti Arand": 1, "Dan Ventura": 1}
+Abba B. Gumel	{"Pei Yu": 1, "P. N. Shivakumar": 1, "T. D. Loewen": 1, "Beni M. Sahai": 1, "Mohammad Lawal Garba": 1}
+Abdel-Ouahab Boudraa	{"Jean-Pierre Roux": 1, "Sidi Mohammed Re9da Dehak": 1, "Chahin Pachai": 1, "Je9rf4me Grimaud": 1, "Marc Janier": 1, "Yong-Gang Bao": 1, "Yue-Min Zhu": 1, "Jacques Champier": 1, "Emmanuelle Canet": 1, "Didier Revel": 1, "Faiza Behloul": 1}
+Abdolhossein Fathi	{"Fardin Abdali Mohammadi": 1, "Ahmad Reza Naghsh-Nilchi": 1}
+Abdulhamit Subasi	{"Etem Koklukaya": 1, "Ahmet Alkan": 1, "Ergun Ere7elebi": 1}
+Abdulkader A. Murad	{}
+Abdulkadir Sengür	{}
+Abhigyan Nath	{"Radha Chaube": 1, "Karthikeyan Subbiah": 2}
+Abhishek M. Thote	{"Krishna Sharma": 1, "Rashmi V. Uddanwadiker": 1, "Sunita Shrivastava": 1}
+Abiodun Musa Aibinu	{"Muhammad Imran Iqbal": 1, "Amir Akramin Shafie": 1, "Momoh Jimoh El Salami": 1, "Mikael Nilsson": 1}
+Abolfazl Doostparast Torshizi	{"Mohammad Hossein Fazel Zarandi": 1}
+Abouzar Eslami	{"Tobias Preusser": 1, "Mehran Jahed": 1}
+Abouzar Zareei	{"Abbas Karimi": 1}
+Adam G. Polak	{"Janusz Mroczka": 1}
+Adas Gelzinis	{"Marija Bacauskiene": 1, "J. Staniulis": 1, "Sigitas Sulcius": 1, "E. Simoliunas": 1, "R. Paskauskas": 1, "Evaldas Vaiciukynas": 1, "Antanas Verikas": 1}
+Adel Hafiane	{"Pierre Vieyres": 1, "Alain Delbos": 1}
+Adi V. Gundlapalli	{"Qing Zeng-Treitler": 1, "Doug Redd": 1, "Chris Korhonen": 1, "Jonathan R. Nebeker": 1, "Bryan Smith Gibson": 1, "Matthew H. Samore": 1, "Marjorie Carter": 1}
+Adriane B. Schelin	{"Alessandro P. S. de Moura": 1, "Nuala Booth": 1, "Gyf6rgy Ke1rolyi": 1, "Celso Grebogi": 1}
+Adriano de Castro Leão	{"Maria Bernardete Cordeiro de Sousa": 1, "Adrie3o Duarte Df3ria Neto": 1}
+Aglaia G. Manousaki	{"Androniki D. Tosca": 1, "Evgenia I. Tsompanaki": 1, "Andreas G. Manios": 1}
+Agnieszka F. Szymanska	{"Rupsa Datta": 1, "Enrico Gratton": 1, "Christopher Heylman": 1, "Zoran Nenadic": 1}
+Agnès A. Dorion	{"Olivier Salomon": 1, "Michel Duyme": 1, "Christiane Capron": 1, "Michel Zanca": 1}
+Agostino Accardo	{"Fabrizio Monti": 1, "Monica Cusenza": 1}
+Agustina Garcés Correa	{"Lorena Orosco": 1, "Eric Laciar": 1, "Pablo F. Diez": 1}
+Ahmad Fadzil M. Hani	{"Azura Mohd. Affandi": 1, "Suraiya Hani Hussein": 1, "Hermawan Nugroho": 1, "Esa Prakasa": 1, "Vijanth Sagayan Asirvadam": 1}
+Ahmad Ghasemloonia	{"Garnette R. Sutherland": 1, "Kourosh Zareinia": 1, "Shalese Baxandall": 1, "Justin T. Lui": 1, "Joseph C. Dort": 1, "Sonny Chan": 1}
+Ahmad Taher Azar	{"Aboul Ella Hassanien": 1}
+Ahsan H. Khandoker	{"Chandan K. Karmakar": 1, "Marimuthu Palaniswami": 1}
+Aiguo Wang	{"Ning An": 1, "Guilin Chen": 1, "Lian Li 0001": 1, "Gil Alterovitz": 1}
+Ainara Garde	{"Pere Caminal": 1, "Salvador Benito": 1, "Beatriz F. Giraldo": 1, "Andreas Voss": 1}
+Akin Özçift	{}
+Alaeddin Malek	{"Ghasem Abbasi": 1}
+Alasdair G. Thin	{"Gabrielle E. Kelly": 1, "Leslie Daly": 1, "Paul McLoughlin": 1}
+Alauddin Bhuiyan	{"Tien Yin Wong": 1, "Chandan K. Karmakar": 1, "Yogesan Kanagasingam": 1, "Ecosse Lamoureux": 1, "Kotagiri Ramamohanarao": 1, "Ryo Kawasaki": 1}
+Alba Garín-Muga	{"Jorge Pla-Vidal": 1, "Diego Borro": 1}
+Albert K. Feeny	{"Mongkol Tadarati": 1, "Philippe Burlina": 1, "David E. Freund": 1, "Neil M. Bressler": 1}
+Alberto Olivares	{"J. M. Gf3rriz": 1, "Javier Ramedrez 0001": 1, "Gonzalo Olivares": 1}
+Alberto Porta	{"Tito Bassani": 1, "Nicola Montano": 1, "Aparecida Maria Catai": 1, "Anielle C. M. Takahashi": 1, "Vlasta Bari": 1, "Eleonora Tobaldini": 1}
+Alberto Seseña-Rubfiaro	{"Juan Carlos Echeverreda": 1, "Jose Rafael Godednez-Ferne1ndez": 1}
+Alejandro Rodríguez Aguilera	{"Alejandro Lef3n": 1, "Germe1n Arroyo": 1}
+Alejandro Rodríguez González	{"Javier Torres Nif1o": 1, "Miguel Angel Mayer": 1, "Rafael Valencia-Garceda": 1, "Giner Alor-Herne1ndez": 2}
+Aleksandar Boskovic	{"Nina Japundzic-Zigon": 1, "Olivera Sarenac": 1, "Tatjana Loncar-Turukalo": 1, "Dragana Bajic": 1}
+Aleksandar Kupusinac	{"Edita Stokic": 1, "Rade Doroslovacki": 1, "Dusan Malbaski": 1, "Biljana Srdic": 1}
+Ales Belic	{"Iztok Grabnar": 1, "Ales Mrhar": 1, "I. Belic": 1, "Rihard Karba": 1, "Katalin Monostory": 1, "Denis Pompon": 1, "Damjana Rozman": 1, "Steven Kelly 0002": 1, "Diane Kelly 0003": 1}
+Alessandra Lumini	{"Sheryl Brahnam": 1, "Loris Nanni": 1}
+Alessandra Retico	{"Maria Evelina Fantacci": 2, "A. Piccioli": 1, "Giorgio De Nunzio": 1, "A. Preite Martinez": 1, "Bruno Golosio": 1, "Sabina Sonia Tangaro": 1, "Piergiorgio Cerello": 1, "Ilaria Gori": 2, "Pasquale Delogu": 1, "Parnian Kasae": 1}
+Alessia Paglialonga	{"Federica Sibella": 1, "Paolo Ravazzani": 2, "Ferdinando Grandori": 2, "Giuseppe Baselli": 1, "Serena Fiocchi": 1, "Gabriella Tognola": 3, "Marta Parazzini": 1}
+Alexander C. Newsham	{"Galina Velikova": 1, "Aditya Vikram": 1, "Colin Johnston": 1, "Sheila E. Fisher": 1, "Aine M. Donnelly": 1, "Geoff Hall": 1, "Adam B. Smith": 1, "Michael G. Leahy": 1, "Peter J. Selby": 1}
+Alexandra I. Korda	{"Pantelis A. Asvestas": 1, "George K. Matsopoulos": 1, "Nikolaos P. Smyrnis": 1, "Errikos M. Ventouras": 1}
+Alexandre Millecamps	{"Kristin A. Lowry": 1, "Mark S. Redfern": 1, "Jennifer S. Brach": 1, "Ervin Sejdic": 1, "Subashan Perera": 1}
+Alexandre Savio	{"Carmen Herne1ndez 0001": 1, "A. Lf3pez de Munain": 1, "Jorge Villanfaa": 1, "Darya Chyzhyk": 1, "M. Teresa Garceda-Sebastie1n": 1, "Manuel Graf1a": 1, "A. Sistiaga": 1}
+Alexandros G. Valarakos	{"George A. Vouros": 1, "Elsa Papadimitriou": 1, "Vangelis Karkaletsis": 1, "Dimitra Alexopoulou": 1, "Constantine D. Spyropoulos": 1}
+Alexandros T. Tzallas	{"Arianna Di Molfetta": 1, "George Rigas": 1, "Yorgos Goletsis": 1, "John V. Terrovitis": 1, "Dimitrios I. Fotiadis": 1, "Libera Fresiello": 1, "Nikolaos S. Katertsidis": 1, "Markos G. Tsipouras": 1, "Gianfranco Ferrari": 1, "Krzysztof Zielinski": 1, "Evaggelos Karvounis": 1, "Maria Giovanna Trivella": 1}
+Alfonso Rojas Domínguez	{"Asoke K. Nandi": 1}
+Alfred Bruckmann	{"Andreas Uhl": 1}
+Alfredo Vellido	{"Paulo J. G. Lisboa": 1}
+Ali El-Zaart	{}
+Ali Ghaffari	{"Nasser Naserifar": 1}
+Ali Gunes	{"Ahmad Babanli": 1, "Yusuf Ozturk": 1}
+Ali Narin	{"Yalcin Isler": 1, "Mahmut Ozer": 1}
+Alireza Sharifi	{"Hamid Niazmand": 1}
+Alok Sutradhar	{"Diana Carrau": 1, "Jaejong Park": 1, "Michael J. Miller": 1}
+Amina Amri	{"Susan Helen Pulko": 1, "Ayda Saefdane": 1}
+Amine Naït-Ali	{"Patrick Siarry": 1}
+Amir Hossein Foruzan	{"Iman Kalantari Khandani": 1, "Shahriar Baradaran Shokouhi": 1}
+Amir Tahmasbi	{"Fatemeh Saki": 1, "Shahriar B. Shokouhi": 1}
+Amira Zaylaa	{"Jamal Charara": 2, "Souad Oudjemia": 1, "Jean-Marc Girault": 2}
+Amit Kumar	{"Mandeep Singh": 1}
+Amit Kumar Banerjee	{"Vadlamani Ravi": 1, "Anirudh P. Shanbhag": 1, "U. S. N. Murty": 1, "V. Lakshmi Prasanna": 1}
+Amr S. Elsawy	{"Seif Eldawlatly": 1, "Gamal M. Aly": 1, "Mohamed Taher": 1}
+Amy T. Neidhard-Doll	{"Chandler A. Phillips": 1, "David Reynolds": 1, "Daniel W. Repperger": 1}
+Ana Carolina Lorena	{"Andre9 Carlos Ponce de Leon Ferreira de Carvalho": 1}
+Ana Oliveira	{"Sandra Monteiro": 1, "Ce1tia Pinho": 1, "Alda Marques": 1, "Ana Marcos": 1}
+Anand Kumar 0005	{"Yum Lina Yip": 1, "Barry Smith 0001": 1, "Pierre Grenon": 1}
+Anastasios Koulaouzidis	{"Dimitrios K. Iakovidis": 1}
+Andjelka N. Hedrih	{"Mihailo P. Lazarevic": 1, "Ana Mitrovic-Jovanovic": 1}
+Andrea Anzalone	{"Marco Storace": 1, "Mauro Parodi": 1, "Federico Bizzarri": 1}
+Andrea Basilico	{"Francesco Pinciroli": 1, "Stefano Bonacina": 1, "Sara Marceglia": 1}
+Andrea Tura	{"Silvio Cavalcanti": 1}
+Andreas G. Manios	{"Androniki D. Tosca": 1, "Evaggelos Volakakis": 1, "Moshoula Leivadara": 1, "Dimitris Tsiftsis": 1}
+Andreas Karampatzakis	{"Theodoros Samaras": 1, "Niels Kuster": 1, "Esra Neufeld": 1, "Sven Kfchn": 1, "George Tsanidis": 1}
+Andreas Lintermann	{"Matthias Meinke": 1, "Wolfgang Schrf6der 0001": 1}
+Andreas Vécsei	{"Sebastian Hegenbart": 1, "G. Amann": 1, "Andreas Uhl": 1, "Michael Liedlgruber": 1}
+Andrew Grant	{"Ianik Plante": 1, "Fre9deric Leblanc": 1}
+Andrew Kusiak	{"Shital C. Shah": 1, "Thomas J. Persoon": 1, "Alex Burns": 1, "Fred S. Lamb": 1, "Michael D. Kelleher": 1, "Bradley Dixon": 1, "Christopher A. Caldarone": 1}
+Andrew L. Wit	{}
+Andrew Mackinnon	{}
+Andrew W. Lyon	{"Alex C. Chin": 1, "Martha E. Lyon": 1, "George A. Slotsve": 1}
+Andrey A. Toropov	{"Ivan Raska Jr.": 1, "Danuta Leszczynska": 1, "Alla P. Toropova": 1, "Jerzy Leszczynski": 1}
+Andrius Petrenas	{"Leif Sf6rnmo": 1, "Vaidotas Marozas": 1}
+Andriy Temko	{"Orla M. Doyle": 1, "William P. Marnane": 1, "Geraldine B. Boylan": 1, "Deirdre Murray": 1, "Gordon Lightbody": 1}
+Andrzej Jan Dyszkiewicz	{"Damian Chachulski": 1, "Pawel Polec": 1, "Ewa Nowak-Kostrzewska": 1, "Pawel Kepinski": 1}
+András Hartmann	{"Susana Vinga": 1, "Joe3o Miranda Lemos": 1}
+André G. R. Balan	{"Caetano Traina Jr.": 1, "Paulo Mazzoncini de Azevedo Marques": 1, "Marcela Xavier Ribeiro": 1, "Agma J. M. Traina": 1}
+André Kushniruk	{}
+Andrés Fraguela	{"c1ngel M. Ramos": 1, "Francisca D. Matlalcuatzi": 1}
+Andrés Maldonado	{"Francisco Vara": 1, "Antonio Sillero": 1}
+Andy H. Lee	{"Yun Zhao": 1, "Kelvin K. W. Yau": 1, "Shu-Kay Ng": 1}
+Andy N. D. Nguyen	{"Eugenio I. Banez": 1, "John D. Milam": 1, "Kathy A. Johnson": 1}
+Angelo S. Milazzo Jr.	{"J. Rene9 Herlong": 1, "Stephen P. Sanders": 1, "Mary Barrington": 1, "Jennifer S. Li": 1, "A. Resai Bengur": 1}
+Anita Alicante	{"Anna Corazza": 1, "Francesco Isgrf2": 1, "Stefano Silvestri": 1}
+Anjuman Shaheen	{"Kashif Rajpoot": 1}
+Ankush Jadhav	{"Vijayalakshmi Ezhilarasan": 1, "Archana Pan": 1, "Om Prakash Sharma": 1}
+Anna Fabijanska	{}
+Anna Gambin	{"Magda Bakun": 1, "Janusz Dutkowski": 1, "Michal Dadlez": 1, "Ewa Szczurek": 1}
+Anna Glinka	{"Sebastian Polak": 1}
+Anna Hundertmark-Zausková	{"Frank Mfcller 0007": 1, "Markus M. Hess": 1, "Ragnar Lehmann": 1}
+Anne Wei	{"Amine Naeft-Ali": 1}
+Anqi Qiu	{"Jing Bai": 1}
+Antanas Stasiunas	{"Marija Bacauskiene": 1, "Antanas Verikas": 2, "Povilas Kemesis": 1, "Kerstin Malmqvist": 1, "Rimvydas Miliauskas": 2, "Natalija Stasiuniene": 2}
+Antanas Verikas	{"Adas Gelzinis": 1, "Marija Bacauskiene": 1, "Virgilijus Uloza": 1, "Marius Kaseta": 1}
+Anthony J. McGoron	{"Michael F. Georgiou": 1, "Xuming Mao": 1, "John W. Kuluz": 1}
+Antonino Rinaudo	{"Giuseppe Maria Raffa": 1, "Cesare Scardulla": 1, "Francesco Scardulla": 1, "Michele Pilato": 1, "Salvatore Pasta": 1}
+Antonio Sillero	{"Andre9s Maldonado": 1}
+Antonis D. Savva	{"George K. Matsopoulos": 1, "Theodore L. Economopoulos": 1}
+Antonis Daskalakis	{"Dionisis A. Cavouras": 1, "Panagiota Spyridonos": 1, "Panagiota Ravazoula": 1, "Ioannis Kalatzis": 1, "Spiros Kostopoulos": 1, "George Nikiforidis": 1, "Dimitris Glotsos": 1, "Maria Kardari": 1}
+Antti Kulkas	{"Eero Huupponen": 1, "Antti Saastamoinen": 1, "J. Virkkala": 1, "Mirja Tenhunen": 1, "E. Rauhala": 1, "Sari-Leena Himanen": 1}
+Anup Kumar Keshri	{"Aishwarya Singh": 1, "Barda Nand Das": 1, "Rakesh Kumar Sinha": 1}
+Anurag Singh	{"L. N. Sharma": 1, "Samarendra Dandapat": 1}
+Anusha Achuthan	{"Dhanesh Ramachandram": 1, "Ibrahim Lutfi Shuaib": 1, "Mandava Rajeswari": 1, "Mohd Ezane Aziz": 1}
+Aqeel Sahi Khader	{"David Lai": 1, "Yan Li 0002": 1}
+Arash Naseri	{"Omid Abouali": 1, "Pejman Farhadi Ghalati": 1, "Goodarz Ahmadi": 1}
+Arash Taki	{"Seyed Kamaledin Setarehdan": 1, "Nassir Navab": 1, "Gf6zde B. dcnal": 1, "Alireza Roodaki": 1, "Sara Avansari": 1}
+Aravind Kailas	{"Fujio Watanabe": 1, "Chia-Chin Chong": 1}
+Arianeb Mehrabi	{"Axel Benner": 1, "Chistian Herfarth": 1, "Christine Glfcckstein": 1, "Bahram Hashemi": 1, "Friedrich Kallinowski": 1}
+Aristotelis Chatziioannou	{"Fragiskos N. Kolisis": 1, "Georgios Palaiologos": 1}
+Aritra Bej	{"Bikash Sahoo": 1, "Banikalyan Swain": 1, "Pallipuram Jayasankar": 1, "Mrinal Samanta": 1, "Madhubanti Basu": 1}
+Arka Bhowmik	{"Subhash C. Mishra": 1, "Ramjee Repaka": 1}
+Arkadiusz Gertych	{"Adriana Vele1squez-Vacca": 1, "Zhaoxuan Ma": 1, "Beatrice S. Knudsen": 1, "Jian Tajbakhsh": 1, "Ewa Pietka": 1}
+Arminée Kazanjian	{"Carolyn J. Green": 1}
+Arnaldo Batista	{"Fe1tima C. Serrano": 1, "Daniela M. Godinho": 1, "Shirin Najdi": 1, "Catarina Martins": 1, "Manuel Duarte Ortigueira": 1, "Raul Tello Rato": 1}
+Arso M. Vukicevic	{"Gordana R. Jovicic": 2, "Nenad Filipovic": 1, "Milos D. Radovic": 1, "Milena Djordjevic": 1, "Lazar U. Velicki": 1, "Nenad D. Filipovic": 1, "Tomislav Pejovic": 1, "Bojana R. Andjelkovic Cirkovic": 1, "Miroslav M. Stojadinovic": 2, "Nebojsa Jovicic": 1}
+Arthur Creane	{"Niamh Hynes": 1, "Eoghan Maher": 1, "Sherif Sultan": 1, "Caitredona Lally": 1, "Daniel J. Kelly": 1}
+Artur Cristea	{"Adrian Neagu": 1}
+Artur Przelaskowski	{"M. Biesiadko-Matuszewska": 1, "Jerzy Walecki": 1, "Pawel Bargiel": 1, "M. Kazubek": 1, "Katarzyna Sklinda": 1}
+Arturo Aquino	{}
+Arturo Sotelo	{"Enrique Guijarro": 1, "Luis N. Coria": 1, "Yuliana Martednez": 1, "Leonardo Trujillo": 1}
+Arun Balodi	{"M. L. Dewal": 1, "R. S. Anand": 1, "Anurag Rawat": 1}
+Arun V. Kolanjiyil	{"Clement Kleinstreuer": 1}
+Arunkumar Chinnasamy	{"Ankush Mittal": 1, "Wing-Kin Sung": 1}
+Ashfaqur Rahman	{"Daniel V. Smith": 1, "Andrew D. Hellicar": 1, "John M. Henshall": 1}
+Ashish N. Doshi	{"Bastiaan J. Boukens": 1, "Joris R. de Groot": 1, "Se9bastien P. Krul": 1, "Ruben Coronel": 1, "Igor R. Efimov": 1, "Richard D. Walton": 1, "Olivier Bernus": 1}
+Ashley A. Colletti	{"Reza Amini": 1, "David W. Kaczka": 1}
+Ashley A. Weaver	{"Samantha L. Schoell": 1, "Joseph A. Maldjian": 1, "Callistus M. Nguyen": 1, "Joel D. Stitzel": 1}
+Aslak Tveito	{"Ola Skavhaug": 1, "Glenn Terje Lines": 1, "Robert Artebrant": 1}
+Athanasios N. Papadopoulos	{"Dimitrios I. Fotiadis": 1, "Lena Costaridou": 1}
+Atiyeh Karimipour	{"Mohammad Reza Homaeinezhad": 1}
+Avi Ma\'ayan	{}
+Aymen Mouelhi	{"Mounir Sayadi": 1, "Khaled Ben Romdhane": 1, "Farhat Fnaiech": 1, "Karima Mrad": 1}
+Aysegül Güven	{"Sadik Kara": 1, "Kemal Polat": 1, "Salih Gfcnes": 1}
+Aytürk Keles	{"A. Samet Hasiloglu": 1, "Yilmaz Aksoy": 1, "Ali Keles": 1}
+Aziah Ali	{"Rajasvaran Logeswaran": 1}
+Azzam F. Taktak	{"Laura Antolini": 1, "Paulo J. G. Lisboa": 1, "Min S. Hane Aung": 1, "Ian Campbell": 1, "Emmanuel C. Ifeachor": 1, "Viktoriya Stalbovskaya": 1, "Nicola Lama": 1, "Christian Setzkorn": 1, "Bertil E. Damato": 1, "Elia Biganzoli": 1, "Patrizia Boracchi": 1}
+Azzam Fouad George Taktak	{"Anthony C. Fisher": 1, "Antonio Eleuteri": 1, "Stephen P. Lake": 1}
+Azzam Hazim	{"Stevan Dubljevic": 1, "Youssef Belhamadia": 1}
+B. Knap	{"Abraham Noordergraaf": 1, "A. F. Bren": 1, "G. Juznic": 1}
+B. Nayebifar	{"Hamid Abrishami Moghaddam": 1}
+B. Orgun	{"J. Vu": 1}
+B. R. Wienke	{"T. R. O\'Leary": 1}
+B. S. Raghavendra	{"D. Narayana Dutt": 1}
+B. Trzaskowski	{"K. Kochanek": 1, "E. Pilka": 1, "W. Wiktor Jedrzejczak": 1, "H. Skarzynski": 1}
+Babak Mohammadi	{"Bagher Larijani": 1, "Vahid Haghpanah": 1}
+Babita Pandey	{"R. B. Mishra": 1}
+Balázs Harangi	{"Andre1s Hajdu": 2}
+Baopu Li	{"Max Q.-H. Meng": 1}
+Barry R. Masters	{}
+Barry Robson	{"Ulysses J. Balis": 2, "Srinidhi Boray": 2, "Thomas P. Caruso": 2}
+Bashar Awwad Shiekh Hasan	{"John Q. Gan": 1}
+Bastikar Virupaksha	{"Gupte Alpana": 1}
+Beatrice A. Nadler	{"Friederike Neumann": 1, "Rudolf Karch": 1, "Seyedhossein Aharinejad": 1, "Wolfgang Schreiner": 1, "Martin Neumann": 1}
+Bee Ting Chan	{"Noor Azuan Abu Osman": 1, "Kok Han Chee": 1, "Einly Lim": 1}
+Begoña García	{"Ibon Ruiz": 1, "Amaia Me9ndez": 1, "M. Mendezona": 1}
+Behdad Dashtbozorg	{"Ana Maria Mendone7a": 1, "Aure9lio J. C. Campilho": 1}
+Behdad Pouran	{"Harrie Weinans": 1, "Vahid Arbabi": 1, "Amir Abbas Zadpoor": 1}
+Beiji Zou	{"Ye Liang": 1, "Xi Ding": 1, "Shijian Liu": 1, "Shenghui Liao": 1}
+Benjamin Bhattacharya-Ghosh	{"Selim Bozkurt": 1, "Marcel C. M. Rutten": 1, "Silvia Schievano": 1, "Vanessa Dedaz-Zuccarini": 2, "Frans N. van de Vosse": 1}
+Benjamin Griffel	{"Cesare Saponieri": 1, "Mohammad K. Zia": 1, "John L. Semmlow": 1, "Vladimir Fridman": 1}
+Benjamin M. Bloom	{"Chris Maimaris": 1, "Fiona Lecky": 1, "Rupert Pearse": 1}
+Benjamin Risse	{"Christian Kle4mbt": 1, "Dimitri Berh": 1, "Xiaoyi Jiang 0001": 1, "Nils Otto": 1}
+Bernard Chiu	{"Weifu Chen": 1, "Jieyu Cheng": 1}
+Betsabeh Tanoori	{"Zohreh Azimifar": 1, "Serajodin Katebi": 1, "Alireza Shakibafar": 1}
+Betul Akkoc	{"Ahmet Arslan": 1, "Hatice Kf6k": 1}
+Bian Wu	{"Xiaoxiang Zheng": 1, "Fan Yang": 1, "Ji-cai Zhang": 1, "Weidong Chen 0002": 1, "Yiwen Wang 0002": 1}
+Bijoy Laxmi Koley	{"Debangshu Dey": 1}
+Bin Bin Fu	{"X. L. Fei": 1, "Booma Devi Sekar": 1, "Ming-Chui Dong": 1}
+Bin Liu	{"Kun Huang": 1, "Youxi Luo": 1, "Fan Li": 1, "Fengfeng Zhou": 1, "Yang Zheng": 1, "Guoqing Wang": 1, "Jikui Liu": 1}
+Bin Yang 0017	{"Wei Zhang 0169": 1, "Chuandong Song": 1, "Yuehui Chen": 1, "Haifeng Wang": 1}
+Binbin Pan	{"James J. Xia": 1, "Qizhen He": 1, "Guangming Zhang": 1, "Xiaobo Zhou 0001": 1, "Philip K. M. Lee": 1, "Ben Chow": 1, "Horace H. S. Ip": 1, "Peng Yuan 0001": 1}
+Bing Nan Li	{"Ning An": 1, "Xiang Shan": 1, "Kui Xiang": 1, "Sam Chao": 1, "Weimin Huang": 1, "Bin Bin Fu": 1, "Stephen K. Y. Chang": 1, "Chee-Kong Chui": 1, "Sim Heng Ong": 1, "Jinzhang Xu": 1, "Ming-Chui Dong": 2, "Etsuko Kobayashi": 1}
+Bing-Ke Li	{"Xue-Gang Yang": 1, "Yong Cong": 1, "Ying Xue 0001": 1, "Yi-Zong Chen": 1}
+Binghan Liu	{"Yuhong Liu": 1, "Weizhi Wang": 1, "Yanjun Zeng": 1, "Jing Zhang": 1}
+Binh P. Nguyen	{"Chee-Kong Chui": 1, "Sim Heng Ong": 1, "Stephen K. Y. Chang": 1}
+Binhui Jiang	{"Haojie Mao": 1, "King H. Yang": 1, "Libo Cao": 1}
+Blaz Skrlj	{"Tanja Kunej": 1}
+Blesson Varghese	{"Gerard T. McKee": 1, "Vassil Alexandrov": 1}
+Bo Li 0002	{"De-Shuang Huang": 1, "Lei Zhang 0006": 1, "Kyungsook Han": 1, "Chun-Hou Zheng": 1}
+Bo Li 0035	{"Bei-Bei Tian": 1, "Xiaolong Zhang 0002": 1, "Xiao-Ping (Steven) Zhang": 1}
+Bob Zhang	{"Lei Zhang 0006": 1, "Fakhri Karray": 1, "Lin Zhang": 1}
+Bohui Li	{"Weiyang Tao": 1, "Piar Ali Shar": 1, "Yonghua Wang": 1, "Chao Huang": 1, "Yingxue Fu": 1, "Chunli Zheng": 1}
+Bollepalli S. Chandra	{"Challa S. Sastry": 1, "Soumya Jana": 1}
+Bomje Woo	{"Jinhoon Choi": 1}
+Bora Sul	{"Jaques Reifman": 1, "Anders Wallqvist": 1, "Vineet Rakesh": 1, "Michael J. Morris": 1}
+Borut Gersak	{"Roman Trobec": 1}
+Borut Kirn	{"Vito Starc": 1}
+Boyang Su	{"Ghassan S. Kassab": 1, "Liang Zhong": 1, "Yunlong Huo": 1, "Sangho Kim 0004": 1, "Hwa Liang Leo": 1, "Foad Kabinejadian": 1}
+Bradley Pliskow	{"Dorene O\'Hara": 1, "John K.-J. Li": 1, "Mehmet Kaya": 1}
+Brent Foster	{"Awais Mansoor": 1, "Ulas Bagci": 1, "Daniel J. Mollura": 1, "Ziyue Xu": 1}
+Brian D. Davison 0002	{"Ron Kikinis": 1, "B. Chung": 1, "E. K. Yucel": 1, "J. Rolnick": 1, "Kelly H. Zou": 1, "K. Yeshwant": 1}
+Brian Sweetman	{"Laura Zitella": 1, "Andreas A. Linninger": 1, "Michalis Xenos": 1}
+Bruce Bridgeman	{}
+Buket Kaya	{"Mustafa Poyraz": 1}
+Bum Ju Lee	{"Jong Yeol Kim": 1}
+Byung Hyung Kim	{"Sungho Jo": 1, "Minho Kim": 1}
+Bülent Yilmaz	{"Ugur Cunedioglu": 1, "Robert S. MacLeod": 1}
+C. C. Krischer	{"Wolfgang H. Zangemeister": 1}
+C. Narasimhan	{"Richard C. Ward": 1, "G. (Kumar) Mahinthakumar": 1, "Kara Kruse": 1, "Murthy N. Guddati": 1}
+C. Sudandiradoss	{"Rituraj Purohit": 1, "K. Ramanathan": 1, "Rao Sethumadhavan": 1, "R. Rajasekaran": 1, "C. George Priya Doss": 1}
+Cagla Akalanli	{"David Tay": 1, "James D. Cameron": 1}
+Cai Meng	{"Jun Zhang": 1, "Fugen Zhou": 1, "Tianmiao Wang": 1}
+Candido Cabo	{}
+Carla A. R. S. Fontoura	{"Gastone C. Castellani": 1, "Jose9 C. M. Mombach": 1}
+Carlo Barbieri	{"Emanuele Gatti": 1, "Flavio Mari": 1, "Jose9 Mareda Martednez-Martednez": 1, "Andrea Stopper": 1, "Pablo Escandell-Montero": 1, "Jose9 David Martedn-Guerrero": 1}
+Carlo Combi	{"Ugo Moretti": 1, "Francesco Amaddeo": 1, "Alberto Sabaini": 1, "Pietro Sala": 1, "Giuseppe Pozzi": 1, "Matteo Mantovani": 1}
+Carlos Alvarado-Serrano	{"Juan Ramos-Castro": 1, "Ramon Palle0s-Areny": 1}
+Carlos Cabral	{"Durval Campos Costa": 1, "Pedro Miguel Morgado": 1, "Margarida Silveira": 1}
+Carlos Cano	{"Armando Blanco": 1, "J. Lf3pez": 1, "L. Adarve": 1}
+Carlos Fernando Crispim Junior	{"Cesar Nonato Pederiva": 1, "Jose9 Marino Neto": 1, "Cilene Lino-de-Oliveira": 1, "Ricardo Chessini Bose": 1, "Vitor Augusto Garcia": 1}
+Carlos Sáez	{"Angel Alberich-Bayarri": 1, "Montserrat Robles": 1, "Luis Marted-Bonmated": 1, "Juan Miguel Garceda-Gf3mez": 1}
+Carmelo Militello	{"Giorgio Russo": 1, "Salvatore Vitabile": 1, "Massimo Midiri": 1, "Maria Carla Gilardi": 1, "Leonardo Rundo": 1}
+Carsten Lippold	{"Gholamreza Danesh": 1, "Kristina Schreiber": 1, "Christian Kirschneck": 1, "Amir Tahvildari": 1, "Tatjana Moiseenko": 1, "Saleh Abukiress": 1}
+Catalin Stoean	{"Monica Lupsor": 1, "Ruxandra Stoean": 1, "Horia Stefanescu": 1, "Radu Badea": 1}
+Caterina Guiot	{"Ganni Losano": 1, "Angelo Merletti": 1, "Pasquale Pagliaro": 1}
+Catherine Jessica Lai	{"Boon Hunt Tay": 1}
+Cees Neef	{"Wilbert L. IJzerman": 1, "S. A. van Gils": 1}
+Celia Varela	{"Pablo G. Tahoces": 1, "Arturo J. Me9ndez": 1, "Miguel Souto": 1, "Juan J. Vidal": 1}
+Cemal Köse	{"Okyay Gene7alioglu": 1, "Ugur Sevik": 1}
+Ceyda Nur Öztürk	{"Songfcl Albayrak": 1}
+Chaang-Ray Chen	{"Wei-Chung Cheng": 1, "Min-Lung Tsai": 1, "Ian C. Hsu": 1, "Wun-Yi Shu": 1}
+Chanchal Mondal	{"Nilanjan Adhikari": 1, "Amit Kumar Halder": 1, "Tarun Jha": 1}
+Chandler A. Phillips	{"David Kender": 1, "Rachel Kinsler": 1, "Daniel W. Repperger": 3, "Gavind Bharwani": 1, "David Reynolds": 1, "Amy T. Neidhard-Doll": 1}
+Chandrasekaran Raja	{"Narayanan Gangatharan": 1}
+Chandrasekhar Potluri	{"Steve C. Chiu": 1, "Alex Urfer": 1, "Marco P. Schoen": 1, "Madhavi Anugolu": 1, "D. Subbaram Naidu": 1}
+Chang-Sei Kim	{"Nima Fazeli": 1, "Jin-Oh Hahn": 1}
+Changiz Eslahchi	{"Hamid Pezeshk": 1, "Mehdi Sadeghi": 1, "Shahriar Arab": 1, "Amir Massoud Rahimi": 1, "Heydar Maboudi Afkham": 1}
+Changqing Cheng	{"Chen Kan": 1, "Hui Yang 0003": 1}
+Changsu Lee	{"Jinah Park": 1, "Jong C. Park": 1}
+Chantaratsamon Dansirikul	{"Stephen B. Duffull": 1, "Malcolm Choi": 1}
+Chao Liu	{"Hai Su": 1, "Lu Zhen": 1, "Zuhua Jiang": 1}
+Chao Tao	{"Jack J. Jiang": 1}
+Charalampos Dimoulas	{"A. Kalampakas": 1, "George Papanikolaou": 1, "George Kalliris": 1}
+Charalampos Doulaverakis	{"Ioannis Tsampoulatidis": 1, "Ioannis Kompatsiaris": 1, "George D. Giannoglou": 1, "Antonios P. Antoniadis": 1, "Andreas Giannopoulos": 1, "Yiannis S. Chatzizisis": 1}
+Charin Modchang	{"Wannapong Triampo": 1, "Yongwimon Lenbury": 1}
+Chelli N. Devi	{"Anupama Chandrasekharan": 1, "V. K. Sundararaman": 1, "Zachariah C. Alex": 1}
+Cheng Cheng	{"Xiaosheng Cheng": 1, "Ning Dai": 1, "Weiwei Li": 1, "Xiaotong Jiang": 1, "Yuchun Sun": 1}
+Cheng-Hsiung Wang	{"Pau-Choo Chung": 1, "Hewijin Christine Jiau": 1, "Fu-Jung Tsai": 1, "Tsung-Lung Yang": 1, "Kuo-Feng Ssu": 1}
+Cheng-Ying Chung	{"Ching-Hsing Luo": 1, "Yu-Wei Cheng": 1}
+Chengjie Sun	{"Lei Lin 0001": 1, "Xiaolong Wang 0001": 1, "Yi Guan": 1}
+Chengyu Li	{"M. Rex Cheung": 1}
+Chengyu Liu 0001	{"Shutang Liu": 1, "Feng Liu 0005": 1, "Ke Li 0002": 1, "Changchun Liu": 1, "Dingchang Zheng": 1, "Lina Zhao": 1}
+Chi-Kan Chen	{"Lung-Ying Lin": 1, "Po-Chou Chan": 1, "Tzy-Ling Kuo": 1}
+Chia-Hsuan Shen	{"Yuerong Chen": 1, "Fred K. Choy": 1, "Shengyong Wang": 1}
+Chien-Chang Hsu	{"Jie-Han Wu": 1, "Hou-Chang Chiu": 1, "Chia-Mo Lin": 1}
+Chien-Hung Huang	{"Szu-Yu Chou": 1, "Ka-Lok Ng": 1}
+Chih-Hsu Huang	{"Chou-Ching K. Lin": 1, "Ming-Shaung Ju": 1}
+Ching-Chuan Wei	{"Yin-Tzu Liao": 1, "Chin-Ming Huang": 1}
+Ching-Fen Jiang	{"Shuh-Ping Sun": 1, "Ti-Cheng Lu": 1}
+Chintanu Kumar Sarmah	{"Sandhya Samarasinghe": 1}
+Chisako Muramatsu	{"Takeshi Hara": 1, "Hiroshi Fujita 0001": 1, "Tokiko Endo": 1}
+Chong Fu	{"Wei-hong Meng": 1, "Francis Chung-Ming Lau": 1, "Hong-feng Ma": 1, "Zhiliang Zhu 0001": 1, "Yong-feng Zhan": 1, "Chi Kong Tse": 1}
+Chou-Ching K. Lin	{"Cheng-Wei Hsu": 1, "Yung-Nien Sun": 1, "Ming-Shaung Ju": 1}
+Chris D. Cantwell	{"Nicholas S. Peters": 1, "Jennifer H. Siggers": 1, "Caroline H. Roney": 1, "Spencer J. Sherwin": 1, "Fu Siong Ng": 1}
+Christel Rushing	{"Herbert I. Hurwitz": 1, "Andrew B. Nixon": 1, "Herbert Pang": 1, "Anuradha Bulusu": 1}
+Christian Freksa	{"Sven Bertel": 1}
+Christof Karmonik	{"Robert G. Grossman": 1, "Ekta Kakkar": 1, "David King": 1, "Hani Haykal": 1, "Krutina Patel": 1, "Michele York": 1}
+Christof Stieger	{"Rudolf He4usler": 1, "Jfcrgen Burger": 1, "Martin Kompis": 1, "Hans Bernhard": 1, "Daniela We4ckerlin": 1, "Andreas Stahel": 1}
+Christoforos C. Charalambous	{"George K. Matsopoulos": 1}
+Christoph S. Herrmann	{"H. C. Hopf": 1, "T. Arnold": 1, "A. Visbeck": 1, "H.-P. Hundemer": 1}
+Christopher J. Bailey	{}
+Christopher R. Conner	{"Andrew W. Potter": 1, "Nitin Tandon": 1, "Michael A. DiSano": 1, "Thomas A. Pieters": 1, "Timothy M. Ellmore": 1}
+Christos D. Katsis	{"Dimitrios I. Fotiadis": 1, "Themis P. Exarchos": 1, "Yorgos Goletsis": 1, "Ioannis Sarmas": 1, "Costas Papaloukas": 1}
+Christos Lampros	{"Costas Papaloukas": 2, "Yorgos Goletsis": 1, "Dimitrios I. Fotiadis": 2, "Costas P. Exarchos": 1, "Themis P. Exarchos": 1, "Dimitrios G. Tsalikakis": 1}
+Christos N. Zigkolis	{"Nikolaos A. Laskaris": 1}
+Christos P. Loizou	{"Constantinos S. Pattichis": 1, "Marios Pantziaris": 1, "Theodoros Lazarou": 1, "Takis Kasparis": 1}
+Chuang-Chien Chiu	{"Ching-Hsiu Chen": 1, "Shoou-Jeng Yeh": 2}
+Chuanlei Zhang	{"Shanwen Zhang": 1}
+Chuanqing Xu	{"Yanjun Zeng": 1, "Xiao Hu Xu": 1, "Yao Wen Chen": 1}
+Chun-Cheng Lin	{}
+Chun-Chih Liao	{"I-Jen Chiang": 1, "Furen Xiao": 1, "Jau-Min Wong": 1}
+Chun-Hou Zheng 0001	{"Wu Yang": 1, "Yanwen Chong": 1, "Junfeng Xia": 1}
+Chung-Chu Leung	{"Francis H. Y. Chan": 1, "Paul Chi-Kong Kwok": 1, "Kwan-Yat Zee": 1}
+Chung-Ming Lo	{"Yeun-Chung Chang": 1, "Ruey-Feng Chang": 1, "Ya-Wen Yang": 1, "Chiun-Sheng Huang": 1}
+Chunhua Dong	{"Tomoko Tateyama": 1, "Yen-Wei Chen 0001": 1, "Huiyan Jiang": 1, "Gang Xu": 1, "Lanfen Lin": 1, "Xian-Hua Han": 1, "Xing Wu": 1, "Amir Hossein Foruzan": 1}
+Chunlan Yang	{"Wangsheng Lu": 1, "Yanqing Xue": 1, "Weiwei Wu": 1, "Qian Wang": 1, "Shuicai Wu": 1}
+Ciara O\'Brien	{"Conor Heneghan": 1}
+Clare Jinks	{"Peter Croft": 1, "Kelvin Jordan": 1}
+Claudio De Lazzari	{"M. Guaragno": 1, "G. Tosti": 1, "Gianfranco Ferrari": 2, "Marek Darowski": 2, "Domenico M. Pisanelli": 1, "F. Clemente": 1}
+Claudio Eccher	{"Antonella Ferro": 1, "Alexis A. Miller": 1, "Alessandro Scipioni": 1, "Domenico M. Pisanelli": 2, "Massimo Battaglia": 1, "Barbara Purin": 1, "Stefano Forti 0001": 1, "Ivano Apolloni": 1}
+Clifton M. Schor	{"Christopher D. Burns": 1, "Shrikant R. Bharadwaj": 1}
+Clodoaldo Ap. M. Lima	{"Andre9 L. V. Coelho": 1, "Marcio Eisencraft": 1}
+Cláudia Lemelle Fernandes	{"Dif3genes Santiago Santos": 1, "Luiz Augusto Basso": 1, "Ardala Breda": 1, "Osmar Norberto de Souza": 1}
+Cong Liu	{"Xiao Yun Xu": 1}
+Congbo Cai	{"Xi Chen": 1, "Shuhui Cai": 1, "Weijun Liu": 1, "Delu Zeng": 1, "Xinghao Ding": 1}
+Conrad S. Tucker	{"Ishan Behoora": 1, "Xuemei Huang 0002": 1, "Nicholas W. Sterling": 1, "Harriet Black Nembhard": 1, "Mechelle Lewis": 1}
+Constantinos G. Loukas	{"Alf D. Linney": 1}
+Corneliu Henegar	{"Marie-Christine Jaulent": 1, "Patrice Degoulet": 1, "Ce9dric Bousquet": 1, "Agne8s Lillo-Le Louebt": 1}
+Costas S. Xydeas	{"Shih-Yang Chiao": 1, "Plamen P. Angelov": 1, "M. Reoullas": 1}
+Costas Sideris	{"Haik Kalantarian": 1, "Mohammad Pourhomayoun": 1, "Majid Sarrafzadeh": 1}
+Cristina C. R. Sady	{"Ubiratan S. Freitas": 1, "Antf4nio L. P. Ribeiro": 1, "Adriana Portmann": 1, "Christophe Letellier": 1, "Jean-Frane7ois Muir": 1, "Luis Antonio Aguirre": 1}
+Cristóbal Fresno	{"Elmer Andre9s Ferne1ndez": 1, "Mareda P. Valacco": 1, "Mf3nica Balzarini": 1, "Osvaldo L. Podhajcer": 1, "Mareda R. Girotti": 1, "Juan A. Lf3pez del Olmo": 1, "Andrea S. Llera": 1, "Federico Prada": 1}
+Cynthia Jongen	{"Paul H. J. Nederkoorn": 1, "Wiro J. Niessen": 1, "Josien P. W. Pluim": 1, "Max A. Viergever": 1}
+Cátia Pinho	{"Joe3o Dinis": 1, "Ana Oliveira": 1, "Alda Marques": 1, "Daniela Oliveira": 1}
+D. Borghetti	{"F. Sartucci": 1, "A. Bruni": 1, "M. Fabbrini": 1, "L. Murri": 1}
+D. Christopher Durairaj	{"Murali C. Krishna": 1, "Ramachandran Murugesan": 1}
+D. Faulke	{"Paulo J. G. Lisboa": 1, "M. J. Harrison": 1, "Terence A. Etchells": 1}
+D. Hecquet	{"Heather J. Ruskin": 2, "Martin Crane": 2}
+D. Narayana Dutt	{"N. Srinivasan": 1, "Shankar M. Krishnan": 1}
+D. Rangaprakash	{}
+D. Schang	{"Elisabeth Bellard": 1, "J. Victor": 1, "G. Leftheriotis": 1, "J. M. Dupuis": 1, "G. Plantier": 1}
+Da Xu	{"Yuanyuan Wang": 1}
+Dae Hoe Kim	{"Jae Young Choi": 1, "Yong Man Ro": 1}
+Dae-Seung Kim	{"Soon-Jung Hwang": 1, "Won-Jin Yi": 1, "Min-Suk Heo": 1, "Seong-Ha Kim": 1, "Soon-Chul Choi": 1, "Kyung-Hoe Huh": 1, "Sam-Sun Lee": 1}
+Daisuke Hirayama	{"Yuzuru Sakai": 1, "Norihisa Akiba": 1, "Manabu Kanazawa": 1, "Shunsuke Minakuchi": 1}
+Dake Yang	{"Guy N. Brock": 1, "Rudolph S. Parrish": 1}
+Damanpreet Singh	{"Vladimir Poroikov": 1, "Tanveer Singh": 1, "Dinesh Y. Gawande": 1, "Rajesh Kumar Goel": 1}
+Damien Zufferey	{"Rolf Ingold": 1, "Jean Hennebert": 1, "Michael Ignaz Schumacher": 1, "Thomas Hofer": 1, "Stefano Bromuri": 1}
+Dan Brüllmann	{"Steven Sander": 1, "Irene Schmidtmann": 1, "Julia Mennickheim": 1, "Bernd d\'Hoedt": 1}
+Dan Hou	{"Yajun Yin": 1, "Zheng Zhong": 1, "Hongxiao Zhao": 1}
+Dan Li	{"Ranu Jung": 1}
+Dan R. Jørgensen	{"Erik B. Dam": 1, "Martin Lillholm": 1}
+Dan Wu	{"Dezhong Yao 0001": 1}
+Daniel Claude	{}
+Daniel Drzisga	{"Rainer Helmig": 1, "Ulrike Pohl": 1, "Tobias Kf6ppl": 1, "Barbara I. Wohlmuth": 1}
+Daniel J. Strauss	{"Wolfgang Delb": 1, "Peter K. Plinkert": 1}
+Daniel Pérez-Marcos	{"Galina Ivanova 0001": 1, "Jens-Uwe Knote": 1, "Reinhard Both": 1}
+Daniel Rodrigues Ericeira	{"Marcelo Gattass": 1, "Anselmo Cardoso de Paiva": 1, "Aristf3fanes Correaa Silva": 1}
+Daniel Spulák	{"Roman Cmejla": 1, "Petr Novotnfd 0003": 1, "Radka Bace1kove1": 1, "Bronislav Kracmar": 1, "Lenka Satrapove1": 1}
+Daniel Sánchez Morillo	{"Antonio Lef3n Jime9nez": 1, "Sonia Astorga Moreno": 1, "Miguel c1ngel Ferne1ndez Granero": 1}
+Daniel Welfer	{"Laura W. B. Ludwig": 1, "Jacob Scharcanski": 1, "Cleyson M. Kitamura": 1, "Diane Ruschel Marinho": 1, "Melissa M. Dal Pizzol": 1}
+Daniele Bertaccini	{"Daniela Calvetti": 1}
+Daniele Soria	{"Paulo J. G. Lisboa": 1, "Andrew R. Green": 1, "Roger W. Blamey": 1, "Jonathan M. Garibaldi": 1, "Des Powe": 1, "Federico Ambrogi": 1, "Emad A. Rakha": 1, "Graham R. Ball": 1, "Terence A. Etchells": 1, "R. Douglas Macmillan": 1, "Elia Biganzoli": 1, "Ian O. Ellis": 1, "Patrizia Boracchi": 1}
+Danilo Ribeiro	{"Jose9 Mauricio Pinto": 1}
+Danilo Samuel Jodas	{"Joe3o Manuel R. S. Tavares": 1, "Aledir Silveira Pereira": 1}
+Danni Li	{"Fatima A. Merchant": 1, "Michelle Fingeret": 1, "Audrey Cheong": 1, "Melissa A. Crosby": 1, "Gregory P. Reece": 1}
+Danè Dabirrahmani	{"Peter Walker": 1, "Ronald Mark Gillies": 1, "Michael Christopher Hogg": 1, "Daniel Biggs": 1}
+Daria Hemmerling	{"Janusz Gajda": 1, "Andrzej Skalski": 1}
+Dariusz S. Radomski	{}
+Darren Craven	{"Liam Kilmartin": 1, "Edward Jones": 1, "Brian McGinley": 1, "Martin Glavin": 1}
+Darryl A. de Cunha	{"Leila Eadie": 1, "John L. Barbur": 1, "David J. Hawkes": 1, "Alexander M. Seifalian": 1}
+David Gordon	{"Gary L. Aistrup": 1, "Jeffrey J. Goldberger": 1, "Jason Ng": 1, "Rishi Arora": 1}
+David Molina-García	{"Carlos Vele1squez": 1, "Estanislao Arana": 1, "Juan Martino": 1, "Julie1n Pe9rez-Beteta": 1, "Alicia Martednez-Gonze1lez": 1, "Vedctor M. Pe9rez-Garceda": 1}
+David Pérez-Rey	{"Fernando Martedn-Se1nchez": 1, "A. Sousa": 1, "Miguel Garceda-Remesal": 1, "Holger Billhardt": 1, "Rafal Alonso-Calvo": 1, "Victor Maojo": 1}
+David T. J. Liley	{"Nicholas C. Sinclair": 1, "Martin Feckie": 1, "Kate Leslie": 1}
+Davood Karimi	{"Rabab K. Ward": 1}
+Davy Laroche	{"Elizabeth Thomas": 1, "J. F. Maillefert": 1, "Paul Ornetti": 1, "Robert M. French": 1, "A. Tolambiya": 1, "C. Morisset": 1}
+Dawid Gradolewski	{"Grzegorz Redlarski": 1}
+Debi Prosad Dogra	{"Jayanta Mukherjee 0001": 1, "Shamik Sural": 1, "Arun K. Majumdar": 1, "Suchandra Mukherjee": 1, "A. Singh": 1}
+Debra Parker Oliver	{"Davina Porock": 1, "George Demiris": 1}
+Denis J. Protti	{}
+Dennis O. Frank-Ito	{"David L. Witsell": 1, "Kristine Schulz": 1, "Gina Vess": 1}
+Der-Chiang Li	{"Susan C. Hu": 1, "Chiao-Wen Liu": 1}
+Derek F. Wong	{"Lidia S. Chao": 1, "Xiaodong Zeng": 1, "Mang I Vai": 1, "Heng-Leong Lam": 1}
+Dezhong Yao 0001	{"Li Wang": 1, "Lars Arendt-Nielsen": 1, "Andrew C. N. Chen": 1}
+Dharshini Sreenivasan	{"Maureen Watson": 1, "Justin Fernandez 0001": 1, "Raj Das": 1, "Jillian Cornish": 1, "Pao Ting Tu": 1, "Michelle Dickinson": 1, "Anne Blais": 1}
+Dhivya Ravichandran	{"Rengarajan Amirtharajan": 1, "Padmapriya Praveenkumar": 1, "John Bosco Balaguru Rayappan": 1}
+Di Liu	{"Xiaomin Han": 1, "Haipeng Wang": 1, "Longwang Wang": 1, "Yan Ma": 1, "Fuqing Zeng": 1, "Bing Li": 1, "Yajun Xiao": 1, "Xiaoping Zhang": 1, "Feng Pan": 1}
+Di Zhang 0001	{"Yun Zhao": 1, "Jianping Yao": 1, "Minghui Du": 2, "Yuequan Wu": 1, "Jiazhong He": 2}
+Diego Alexander Garzón-Alvarado	{"Jose9 Manuel Garceda Aznar": 1, "Carlos A. Narve1ez-Tovar": 1, "Marco A. Velasco": 1, "Manuel Doblare9": 1}
+Diego F. Cuadros	{"Susanne F. Awad": 1, "Gisela Garceda-Ramos": 1, "Laith J. Abu-Raddad": 1}
+Diego S. Benítez	{"A. Zaidi": 1, "Patrick Gaydecki": 1, "A. P. Fitzpatrick": 1}
+Diego Salas-Gonzalez	{"J. M. Gf3rriz": 1, "Elmar Wolfgang Lang": 1, "Matthias Schloegl": 1, "Javier Ramedrez 0001": 1, "Andre9s Ortiz": 1}
+Diego Álvarez-Estévez	{"Vicente Moret-Bonillo": 1}
+Dilan Ustek	{"Bogdan Krstic": 1, "Abraham Kohrman": 1, "Karissa Fernandez": 1}
+Dimitra D. Dionysiou	{"Konstantina S. Nikita": 1, "Georgios S. Stamatakos": 1, "Nikolaos K. Uzunoglu": 1}
+Dimitrios G. Tsalikakis	{"Lampros K. Michalis": 1, "Dimitrios I. Fotiadis": 1, "Henngui G. Zhang": 1, "George P. Kremmydas": 1}
+Dimitrios K. Iakovidis	{"Stavros A. Karkanis": 1, "Dimitrios E. Maroulis": 1}
+Dimitrios P. Sokolis	{}
+Dimitris K. Tasoulis	{"Michael N. Vrahatis": 1, "Vassilis P. Plagianakos": 1}
+Dinesh Kumar	{"P. Kumar": 1, "K. N. Rai": 1}
+Ding-Yu Fei	{"Ou Bai": 1, "Xiaoming Zhao": 1, "Esther Hughes": 1, "Azhar Rafiq": 1, "Cosmin Boanca": 1, "Ronald C. Merrell": 1}
+Dinora Araceli Morales	{"Pedro Larraf1aga": 1, "Endika Bengoetxea": 1}
+Dipali Bansal	{"Ashok Kumar Salhan": 2, "Munna Khan": 2}
+Dirk Cysarz	{"Nicola Montano": 1, "Friedrich Edelhe4user": 1, "Alberto Porta": 1, "Peter Van Leeuwen": 1}
+Dirk Hoyer	{"Stefan Ludwig": 1, "Anja Rudoph": 1, "Stephan Bauer": 1, "Uwe Schneider 0001": 1, "Franziska Jaenicke": 1, "Ekkehard Schleudfner": 1, "Samuel Nowack": 1, "Liviu Moraru": 1, "Ulrike Wallwitz": 1, "Florian Tetschke": 1, "Jens Haueisen": 1}
+Dmitry Belov	{"Viktor Lezhnev": 1}
+Dominique Barbolosi	{"Athanassios Iliadis": 1}
+Dominique Breilh	{"Jean-Maurice Vergnaud": 1, "Pascal Maire": 1, "Roger W. Jelliffe": 1, "Marie-Claude Saux": 1}
+Donato Cascio	{"Rosario Magro": 1, "Giuseppe Raso": 1, "Marius Iacomi": 1, "Francesco Fauci": 1}
+Dong Liu	{"Sheng-sheng Wang": 1, "Dezhi Huang": 1, "Fantao Zeng": 1, "Gang Deng": 1, "Huiling Chen": 1}
+Dong Xu Ji	{"Sim Heng Ong": 1, "Kelvin Weng Chiong Foong": 1}
+Dong-Liang Hu	{"Jianhua Yang 0002": 1, "Xian-Bin Liu": 1}
+DongYoub Lee	{"Anthony S. Wexler": 1}
+Donggang Yu	{"Tuan D. Pham": 1, "Xiaobo Zhou 0001": 1}
+Donggyun Shin	{"Daeryook Yang": 1, "Jinhoon Choi": 1}
+Dongli Ma	{"Huirong Mai": 1, "Cheng Xu": 1, "Fengfeng Zhou": 1, "Guoqin Mai": 1, "Shan Zhong": 1, "Xiaorong Liu": 1}
+Doug Redd	{"Tracy M. Frech": 1, "Qing T. Zeng": 1, "Julia Rhiannon": 1, "Maureen A. Murtaugh": 1}
+Désiré Sidibé	{"Ibrahim Sadek 0002": 1, "Fabrice Me9riaudeau": 1}
+E. A. Ovcharenko	{"Y. A. Kudryavtseva": 1, "V. I. Ganyukov": 1, "I. N. Sizova": 1, "K. U. Klyshnikov": 2, "A. E. Yuzhalin": 2, "I. U. Zhuravleva": 1, "G. V. Savrasov": 1, "D. V. Nushtaev": 1, "A. R. Vlad": 1, "A. V. Batranin": 1, "A. N. Kokov": 2}
+E. Gerardo Mendizabal-Ruiz	{"Ioannis A. Kakadiaris": 1}
+E. Shalman	{"C. Barak": 1, "Shmuel Einav": 2, "Moshe Rosenfeld 0002": 2, "H. Noskowitcz": 1, "E. Dgany": 2}
+E. Y. K. Ng	{"W. Kee Ng": 1, "U. Rajendra Acharya": 1, "L. S. J. Sim": 1, "Ean-Hin Ooi": 1}
+Ean-Hin Ooi	{"E. Y. K. Ng": 1, "Eddie-Yin-Kwee Ng": 2, "Whye-Teong Ang": 2}
+Ebadollah Kheirati Roonizi	{"Reza Sameni": 1}
+Ebenezer Daniel	{"J. Anitha 0001": 1}
+Ebrahim Barzegari Asadabadi	{"Seyyed Mohsen Hosseini Barkooie": 1, "Mohammad Ali Rezaei": 1, "Samad Jahandideh": 1, "Parviz Abdolmaleki": 1}
+Edith Stokic	{"Vladimir Brtka": 1, "Biljana Srdic": 1}
+Edmond Zahedi	{"Gan Kok Beng": 1}
+Eduardo Miranda Dantas	{"Christine Pereira Gone7alves": 1, "Marcelo Perim Baldo": 1, "Jose9 Geraldo Mill": 1, "Elis Aguiar Morra": 1, "Se9rgio Lameago Rodrigues": 1, "Marcela Lima Sant\'Anna": 1, "Rodrigo Vareje3o Andree3o": 1}
+Eduardo Ros 0001	{"Sonia Mota": 1, "F. J. Ferne1ndez": 1, "Francisco de Toro": 1, "Jose9 Luis Bernier": 1}
+Eduardo Sant\'Ana da Silva	{"He9lio Pedrini": 1}
+Edward J. Ciaccio	{"Elliot R. McVeigh": 2, "Hasan Garan": 6, "Vivek Iyer": 1, "Hiroshi Ashikaga": 2, "Govind Bhagat": 3, "Suzanne K. Lewis": 3, "Daniel O. Cervantes": 2, "Nicholas S. Peters": 3, "Angelo B. Biviano": 3, "Peter H. R. Green": 3, "James Coromilas": 3, "Andrew L. Wit": 3}
+Efthymios Ntasis	{"Miltos Gletsos": 1, "Theofanis A. Maniatis": 1, "Christos E. Vasios": 1, "Evangelia I. Zacharaki": 1, "Konstantina S. Nikita": 1, "Nicolaos A. Mouravliansky": 1, "Spyretta Golemati": 1}
+Ehsan Abolfazli	{"Nasser Fatouraee": 1, "Amir Saeed Seddighi": 1}
+Ehsan Lotfi	{"Azita Keshavarz": 1}
+Eileen McMahon	{"Josef Korinek": 1, "Partho P. Sengupta": 1, "Marek Belohlavek": 1, "Armando Manduca": 1, "Shiro Yoshifuku": 1}
+Elahe Moghimirad	{"Hamid Soltanian-Zadeh": 1, "Seyed Hamid Rezatofighi": 1}
+Elena Prieto	{"P. Lecumberri": 1, "Jose9 c1ngel Richter": 1, "Puy Garrastachu": 1, "Ine9s Domednguez-Prado": 1, "Josep Mareda Marted-Climent": 1, "Gemma Quincoces": 1, "M. Jose9 Garceda-Velloso": 1, "Marisol Gf3mez-Ferne1ndez": 1, "Javier Arbizu": 1}
+Eleni Ch. Georgiadi	{"Norbert M. Graf": 1, "Dimitra D. Dionysiou": 1, "Georgios S. Stamatakos": 1}
+Eleonora Atzeni	{"Luca Iuliano": 1, "Alessandro Salmi": 1, "Paolo Minetola": 1}
+Elham Abbasi	{"Mohammad Ebrahim Shiri": 1, "Mehdi Ghatee": 1}
+Elham Sattarinezhad	{"Abdol-Khalegh Bordbar": 1, "Najmeh Fani": 1}
+Elharith M. Ahmed	{"Frederick J. Barrera": 1, "Michael L. Denton": 1, "Dhiraj K. Sardar": 1, "C. D. Clark": 1, "Edward A. Early": 1}
+Elias D. Berdouses	{"Dimitrios I. Fotiadis": 1, "Evanthia E. Tripoliti": 1, "George K. Matsopoulos": 1, "Constantine J. Oulis": 1, "Georgia D. Koutsouri": 1}
+Elias Zintzaras	{"Panayiotis Kanavaros": 1, "Maria Bai": 1, "Nigel P. Brown": 1, "Christos Douligeris": 1, "Axel Kowald": 3}
+Elif Derya Übeyli	{"Gul Ilbay": 1, "Inan Gfcler": 8, "Deniz Sahin": 1, "Nurbay Ates": 1}
+Elisabeta Vergu	{"Jean-Louis Golmard": 1, "Alain Mallet": 1}
+Elizabeth Guruceaga	{"Fernando J. Corrales": 1, "Victor Segura": 2, "Angel Rubio": 1}
+Elmer Andrés Fernández	{"Mf3nica Balzarini": 1}
+Emanuele Torti	{"D. Koliopoulos": 1, "M. Matraxia": 1, "Giovanni Danese": 1, "Francesco Leporati": 1}
+Emin Çagatay Güler	{"Sarunas Raudys": 1, "Bfclent Sankur": 1, "Yasemin P. Kahya": 1}
+Emma Muñoz-Moreno	{"Marcos Martedn-Ferne1ndez": 1}
+Emmanouil G. Sifakis	{"Andriana Prentza": 1, "Dimitris Koutsouris": 1, "Aristotelis A. Chatziioannou": 1}
+Emmanuel Prestat	{"Aure9lie Thollet": 1, "Alex Aussem": 1, "Sergio Rodrigues de Morais": 1, "Pascale A. Cohen": 1, "Julie A. Vendrell": 1, "Christian Gautier": 1}
+Emmanuelle Dantony	{"C. Couchoud": 1, "Rene9 c9cochard": 1, "E. Villar": 1, "M.-H. Elsensohn": 1, "Antoine Dany": 1}
+Emran Mohammad Abu Anas	{"Soo Yeol Lee": 2, "Md. Kamrul Hasan": 2}
+Emre Çomak	{"Ahmet Arslan": 1, "Ibrahim Tfcrkoglu": 1}
+Engin Akar	{"Sadik Kara": 1, "Hidayet Akdemir": 1, "Adem Kiris": 1}
+Engin Tekin	{"Mehmet Engin": 1, "Erkan Zeki Engin": 1, "Tayfun Dalbasti": 1}
+Enrique Alegre	{"Nicolai Petkov": 1, "Michael Biehl": 1, "Lidia Se1nchez": 1}
+Erdal Dayak	{"Ulus c7evik": 1}
+Ergin Soysal	{"Ilyas Cicekli": 1, "Nazife Baykal": 1}
+Ergun Erçelebi	{}
+Erik Bojorges-Valdez	{"Juan Carlos Echeverreda": 1, "Oscar Ye1f1ez-Sue1rez": 1}
+Eros Comunello	{"Sady Selamen Costa": 1, "Vilson Heck Junior": 1, "Cristina C. Dornelles": 1, "Aldo von Wangenheim": 1}
+Errikos M. Ventouras	{"Pantelis A. Asvestas": 1, "Irene S. Karanasiou": 1, "George K. Matsopoulos": 1}
+Ervin Sejdic	{"Briar Findlay": 1, "Catriona M. Steele": 1, "Celeste Merey": 1, "Tom Chau": 2}
+Erwin Tafeit	{"Karl Sudi": 1, "Gilbert Reibnegger": 1, "Reinhard Mf6ller 0002": 1}
+Eréndira Valencia	{"Erik R. Silva": 1, "Homero V. Redos-Figueroa": 1, "Jesfas Herne1ndez": 1, "If1igo Verdalet": 1, "Rosa Herrera": 1, "Sergio Jue1rez Ve1zquez": 1}
+Esmail M. Saber	{"G. Heydari": 1}
+Essam A. Rashed	{"Hiroyuki Kudo": 1, "Mohammad al-Shatouri": 1}
+Estefanía Peña	{"Begof1a Calvo": 2, "Manuel Doblare9": 2, "Miguel c1ngel Martednez": 2}
+Esther Florin	{"Johannes Pfeifer": 1}
+Eugenij Moiseevich Mirkes	{"R. Tuli": 1, "Jeremy Levesley": 1, "I. Alexandrakis": 1, "K. Slater": 1, "T. J. Coats": 1, "Alexander N. Gorban": 2}
+Eva S. V. Eijk	{"Reinier Timman": 1, "Marijke Wefers Bettink-Remeijer": 1, "Jan J. V. Busschbach": 1}
+Eva Villamón	{"Rosa Noguera": 1, "Marta Piqueras": 1, "Vicente Herne1ndez": 1, "Ignacio Blanquer": 1, "Ana P. Berbegall": 1, "Samuel Navarro": 1, "Irene Tadeo": 1, "Fco. Javier Meseguer Anaste1sio": 1}
+Evaggelos Spyrou	{"Stavros Niafas": 1, "Dimitrios K. Iakovidis": 1, "Anastasios Koulaouzidis": 1}
+Everthon Silva Fonseca	{"Carlos Dias Maciel": 1, "Jose Carlos Pereira": 1, "Paulo Roge9rio Scalassara": 1, "Rodrigo Capobianco Guido": 1}
+Evgin Göçeri	{"Metin N. Gurcan": 1, "Zarine K. Shah": 1, "Metin Nafi Gfcrcan": 1, "Oguz Dicle": 1, "Xia Jiang": 1, "Rick R. Layman": 1}
+F. A. Probst	{"A. P. Litzenburger": 1, "M. J. Richter": 1, "A. C. Mehl": 1}
+F. H. H. Al-Ghorabie	{"S. H. A. Al-Lyhiani": 1, "S. S. A. Natto": 1}
+F. Shojaie	{"Maryam Dehestani": 1}
+Fabien Cardinaux	{"Simon Brownsell": 1, "Mark S. Hawley": 1, "David Bradley": 1}
+Fabio Gibiino	{"Giulio Giovannetti": 1, "Vincenzo Positano": 1, "Florian Wiesinger": 1, "Luigi Landini": 1, "Maria Filomena Santarelli": 1}
+Fabrizio Guarneri	{"Salvatore Benvenga": 1, "Serafinella Patrizia Cannavf2": 1}
+Faezeh Jahanmiri-Nezhad	{"Paul E. Barkhaus": 1, "William Zev Rymer": 1, "Ping Zhou 0002": 1}
+Faiza Bourhaleb	{"F. Marchetto": 1, "A. Attili": 1, "J. Pardo": 1, "Diana Massai": 1, "A. La Rosa": 1, "M. Krengli": 1, "M. Donetti": 1, "A. Pecka": 1, "G. Pitte0": 1, "R. Cirio": 1, "Simona Giordanengo": 1, "C. Peroni": 1, "S. Iliescu": 1, "N. Givehchi": 1}
+Faizal Mahananto	{"Nobuki Murayama": 1, "Tomohiko Igasaki": 1}
+Fan Yang	{"Yan He": 1, "Zhen Sheng Deng": 1, "Ang Yan": 1}
+Fang-Bao Tian	{"Pak-Wing Fok": 1, "Luoding Zhu": 1, "Xi-Yun Lu": 1}
+Faraz Akram	{"Tae-Seong Kim": 2, "Hee-Sok Han": 1, "Seung Moo Han": 1}
+Faraz Oloumi	{"Paola Casti": 1, "Rangaraj M. Rangayyan": 1, "Anna L. Ells": 1}
+Farid Yaghouby	{"Amir Hossein Alavi": 1, "Maryam Yaghouby": 1, "Ahmad Ayatollahi": 1, "Sridhar Sunderam": 1, "Reihaneh Bahramali": 1}
+Farshid Soheili Najafabadi	{"Mohd. Alauddin Mohd. Ali": 1, "Edmond Zahedi": 1}
+Fatemeh Abdolali	{"Yoshinobu Sato": 1, "Yoshito Otake": 1, "Reza Aghaeizadeh Zoroofi": 1}
+Fatemeh Dorri	{"Paeiz Azmi": 1, "Faezeh Dorri": 1}
+Fatemeh Moayedi	{"Zohreh Azimifar": 1, "Serajodin Katebi": 1, "Reza Boostani": 1}
+Fatemeh Safara	{"Azreen Azman": 1, "Shyamala Doraisamy": 1, "Azrul Jantan": 1, "Asri Ranga Abdullah Ramaiah": 1}
+Fatemeh Saki	{"Shahriar B. Shokouhi": 1, "Amir Tahmasbi": 1, "Hamid Soltanian-Zadeh": 1}
+Faten M\'hiri	{"Luc Duong": 1, "Christian Desrosiers": 1, "Mohamed Leye": 1, "Mohamed Cheriet": 1, "Joaquim Mirf3": 1}
+Fatih Abut	{"Mehmet Fatih Akay": 1, "James D. George": 1}
+Fatih Basçiftçi	{"d6mer Faruk Hatay": 1}
+Fatma Dirgenali	{"Sadik Kara": 2, "Sfckrfc Okkesim": 1, "Nuri Erdogan": 1, "Mustafa Okandan": 1}
+Fatma Latifoglu	{"Halife Kodaz": 1, "Sadik Kara": 1, "Salih Gfcnes": 1}
+Fayyaz ul Amir Afsar Minhas	{"Amina Asif": 1, "Muhammad Arif": 1}
+Fazle Sadi	{"Soo Yeol Lee": 1, "Md. Kamrul Hasan": 1}
+Federica Boschetti	{"Maria Laura Costantino": 1, "Sara Mantero": 1, "Roberto Fumero": 1, "Franco M. Montevecchi": 1, "Ferrucio Miglietta": 1}
+Federico Aletti	{"Anna M. Bianchi": 1, "Giuseppe Baselli": 1, "Alessandro Torricelli": 1, "Davide Contini": 1, "Rebecca Re": 1, "Lorenzo Spinelli": 1, "Vincenzo Pace": 1, "Rinaldo Cubeddu": 1, "Erika Molteni": 1, "Sergio Cerutti": 1}
+Federico Cabitza	{"Carla Simone": 1, "Giorgio De Michelis": 1}
+Federico Divina	{"Rafal Gire1ldez": 1, "Beatriz Pontes": 1, "Jesfas S. Aguilar-Ruiz": 1}
+Federico Riva	{"Maria Cristina Bisi": 1, "Rita Stagni": 1}
+Fei Liu 0006	{"Monika Heiner": 1, "Mary Ann Ble4tke": 1, "Ming Yang": 1}
+Fei-Hung Hung	{"Hung-Wen Chiu": 1, "Yo-Cheng Chang": 1}
+Feiyang Yu	{"Horace Ho-Shing Ip": 1}
+Felipe Donoso	{"Esteban J. Pino": 1, "Rosa L. Figueroa": 1, "Eduardo A. Lecannelier": 1, "Alejandro J. Rojas": 1}
+Femke De Backere	{"Stijn Verstichel": 1, "Hendrik Moens": 1, "Kirsten Colpaert": 1, "Kristof Steurbaut": 1, "Johan Decruyenaere": 1, "Floris Van Den Abeele": 1, "Jeroen Hoebeke": 1, "Eli Clement": 1, "Jelle Nelis": 1, "Pieter Bonte": 1, "Femke Ongenae": 1, "Filip De Turck": 2, "Ann Ackaert": 1, "Matthew Philpott": 1}
+Femke Ongenae	{"Wannes Kerckhove": 1, "Thomas Dupont": 1, "Maxim Claeys": 1, "Piet Verhoeve": 1, "Filip De Turck": 1}
+Feng Chen 0014	{"Yi-Ping Phoebe Chen": 1, "Yuhong Zhang": 1}
+Feng Jin	{"Farook Sattar": 1, "Daniel Y. T. Goh": 1}
+Feng Xiong	{"Stanley Nattel": 1, "Philippe Comtois": 1, "Xiaoyan Qi": 1}
+Feng Xu 0003	{"Tianjian Lu": 1, "Min Lin": 1}
+Fengying Xie	{"Zhiguo Jiang": 1, "Rusong Meng": 1, "Yang Li": 1}
+Ferdinando Auricchio	{"Jip L. Tolenaar": 1, "Santi Trimarchi": 1, "Carolina Ferrazzano": 1, "Michele Conti": 2, "Gregory A. Sgueglia": 1, "Alessandro Reali": 1, "Stefania Marconi": 1}
+Ferenc Kovács	{"Ge1bor Hosszfa": 1, "K. Ke1de1r": 1, "N. Kersner": 1}
+Fernando Soares Sérvulo de Oliveira	{"Antonio Oseas de Carvalho Filho": 1, "Marcelo Gattass": 1, "Anselmo Cardoso de Paiva": 1, "Aristf3fanes Correaa Silva": 1}
+Filip Caron	{"Bart Baesens": 1, "Jan Vanthienen": 1, "Jochen De Weerdt": 1, "Erik van Limbergen": 1, "Kris Vanhaecht": 1}
+Filip De Turck	{"Kirsten Colpaert": 1, "Chris Danneels": 1, "Johan Decruyenaere": 1, "Bruno Volckaert": 1, "Georges De Moor": 1, "Sofie Van Hoecke": 1, "Pieter Thysebaert": 1}
+Filippo Molinari	{"U. Rajendra Acharya": 1, "Roshan Joy Martis": 1, "Kristen M. Meiburger": 1, "Giuliana Petraroli": 1, "William Liboni": 1, "Riccardo De Luca": 1}
+Fiona Browne	{"Francisco Azuaje": 1, "Huiru Zheng": 1, "Haiying Wang 0001": 1}
+Firat Hardalaç	{"Hanefi Yildirim": 1, "Selami Serhatlioglu": 1}
+Fleur T. Tehrani	{"Soraya Abbasi": 1}
+Florian Berton	{"Marie-Claude Miron": 1, "Farida Cheriet": 1, "Catherine Laporte": 1}
+Florian Dubuisson	{"Claude Kauffmann": 1, "Emilie Pe9ry": 1, "Lemlih Ouchchane": 1, "Ge9raud Souteyrand": 1, "Nicolas Combaret": 1, "Pascal Motreff": 1, "Laurent Sarry": 1}
+Florian Tetschke	{"Ekkehard Schleudfner": 1, "Otto W. Witte": 1, "Uwe Schneider 0001": 1, "Dirk Hoyer": 1}
+Flávio Luiz Seixas	{"De9bora Christina Muchaluat-Saade": 1, "Jerson Laks": 1, "Bianca Zadrozny": 1, "Aura Conci": 1}
+Foad Ghaderi	{"Elsa Andrea Kirchner": 1, "Su Kyoung Kim": 1}
+Francesco Cauteruccio	{"Giorgio Terracina": 1, "Claudio Stamile": 1, "Dominique Sappey-Marinier": 1, "Domenico Ursino": 1}
+Francesco Pinciroli	{"Claudia Pagliari": 1, "Domenico M. Pisanelli": 1}
+Francisco J. Sánchez-Marín	{"Jose9 Alfredo Padilla-Medina": 1}
+Francisco López-Cánovas	{"Paula J. F. Gomes": 1, "Antonio Sillero": 1}
+Francisco Maciá Pérez	{"Roberto Sepfalveda Lima": 1, "Leandro Zambrano-Me9ndez": 1, "Jose9 Vicente Berne1-Martednez": 1}
+Francisco Martinez-Martinez	{"Zuzana Meckove1": 1, "Luke1s Lambert": 1, "Jan Kybic": 1}
+Francisco Prosdocimi	{"Jose9 Miguel Ortega": 1, "Mauredcio de Alvarenga Mudado": 1}
+Frank Castro	{"Kimbroe J. Carter": 1, "Edward Kessler": 1, "Samer A. Kseibi": 1, "Barbara A. Erickson": 1}
+Frank Gilfeather	{"Robert Veroff": 1, "Vikas Hamine": 1, "Paul Helman": 1, "Terry Loring": 1, "C. Rick Lyons": 1, "Julie Hutt": 1}
+Frederic Sampedro	{"Anna Domenech": 1, "Ignasi Carrio": 1, "Sergio Escalera": 1}
+Frédéric Bousefsaf	{"Choubeila Maaoui": 1, "Alain Pruski": 1}
+Fuk-hay Tang	{"Daniel H. K. Chow": 1, "Douglas K. S. Ng": 1}
+Fulvio Barbarito	{"Francesco Pinciroli": 1, "Luca Mazzola": 1, "Fabrizio Pizzo": 1, "Stefano Bonacina": 1, "Sara Marceglia": 1, "Antonio Barone": 1, "John Mason": 1, "Riccardo Ranza": 1}
+Fumikazu Miwakeichi	{"Ruben Ramirez-Padron": 1, "Tohru Ozaki": 1, "Pedro A. Valde9s-Sosa": 1}
+Furen Xiao	{"I-Jen Chiang": 1, "Jau-Min Wong": 1, "Hsin-Yi Tsai": 1, "Chun-Chih Liao": 1, "Ke-Chun Huang": 1}
+Fusong Yuan	{"Pei-jun Lv": 1, "Yong Wang": 1, "Yuchun Sun": 1}
+Fuyou Liang	{"Hisashi Taniguchi": 1, "Hao Liu 0016": 1}
+Félix Fanjul-Vélez	{"Jose9 L. Arce-Diego": 1, "Oleg G. Romanov": 1}
+G. C. Sharma	{"Madhu Jain": 1}
+G. Ibrahim	{"Aldo Rona": 1, "S. V. Hainsworth": 1}
+G. Jayalalitha	{"V. Shanthoshini Deviha": 1, "R. Uthayakumar": 1}
+G. Mihaela Ungureanu	{"S. Guid Oei": 1, "Werner Wolf": 1, "Johannes W. M. Bergmans": 1, "Alexandru Ungureanu": 1}
+G. Witten	{"G. Poulter": 1}
+Gabriel M. Gauthier	{"Shiro Usui": 1, "Bob Kenyon": 1, "Jean Blouin": 1, "Jean-Louis Vercher": 1, "Larry Young": 1, "Christophe Bourdin": 1, "Doug Hansmann": 1, "John Semmlow": 1}
+Gabriele Becattini	{"Darwin G. Caldwell": 1, "Leonardo S. Mattos": 1}
+Gabriele Cevenini	{"Pietro Rubegni": 1, "Gianluca Borzelli": 1, "Maria Rita Massai": 1, "Paolo Barbini": 1, "Lucio Andreassi": 1}
+Gandhi Hernández-Chan	{"Yuliana Pe9rez-Gallardo": 1, "Alejandro Rodredguez Gonze1lez": 1, "Edgar Eduardo Ceh-Varela": 1, "Marisol Villanueva-Escalante": 1, "Jose9 Luis Se1nchez-Cervantes": 1}
+Gang Chen 0008	{"Daniel R. Glen": 1, "Ziad S. Saad": 1, "Robert W. Cox": 1, "J. Paul Hamilton": 1, "Ian H. Gotlib": 1, "Moriah E. Thomason": 1}
+Gang Du	{"Xiaodi Diao": 1, "Yang Yao": 1, "Zhibin Jiang": 1}
+Gang Liu	{"Guozheng Yan": 1, "Yongbing Wang": 1, "Shuai Kuang": 1}
+Gaoxiang Ouyang	{"Yan Li": 1, "Xinping Guan": 1, "Xiaoli Li 0002": 1}
+Garry Higgins	{"Edward Jones": 1, "Brian McGinley": 1, "Martin Glavin": 1}
+Gatien Hocepied	{"Antoine Nonclercq": 1, "Benjamin Legros": 1, "Francis Grenez": 1, "Patrick Van Bogaert": 1}
+Geert J. Postma	{"c0ngel Moreno-Torres": 1, "Albert J. Idema": 1, "Jan Luts": 1, "Sabine Van Huffel": 1, "Margarida Julie0-Sape9": 1, "Johan A. K. Suykens": 1, "Lutgarde M. C. Buydens": 1, "Witek Gajewicz": 1, "Arend Heerschap": 1}
+Gennady P. Chuiko	{"Olga V. Dvornik": 1, "S. Irina Shyian": 1, "Yevgen A. Baganov": 1}
+Geoffrey Koh	{"Dong-Yup Lee": 1}
+Geoffrey Roman-Jimenez	{"Antoine Simon": 1, "Pierre Terve9": 1, "Anne Devillers": 1, "Renaud de Crevoisier": 1, "Julie Leseur": 1, "Oscar Acosta": 1, "Juan David Ospina": 1}
+George D. Giannoglou	{"Eirini Parissi": 1, "Maria Papadogiorgaki": 1, "Nicos Maglaveras": 1, "Michael G. Strintzis": 1, "Yiannis S. Chatzizisis": 1, "Ioannis Kompatsiaris": 1, "Vassilis Koutkias": 1, "George Louridas": 1, "George E. Parcharidis": 1, "Panagiotis Diamantopoulos": 1, "Vasileios Mezaris": 1}
+George D. Magoulas	{"Georgios Dounias": 1}
+George Hripcsak	{"Genevieve B. Melton": 1, "Adam B. Wilcox": 1, "Li Zhou": 1, "Charles Knirsch": 1}
+George K. Hung	{"Faisal Mohammad": 1, "Kenneth J. Ciuffreda": 1, "Kausalendra Mahadas": 1}
+George Manis	{"Stavros Nikolopoulos": 1, "Anastasia Alexandridi": 1, "Constantinos H. Davos": 1}
+George S. K. Fung	{"K. W. Chow": 1, "S. K. Lam": 1, "Stephen W. K. Cheng": 1}
+George Tzanis	{"Ioannis P. Vlahavas": 1, "Christos Berberidis": 1}
+George W. Dombi	{"J. P. Rosbolt": 1, "Richard K. Severson": 1}
+George Zorbas	{"Theodoros Samaras": 1}
+Georgia D. Tourassi	{"R. Edward Coleman": 1, "Erik D. Frederick": 1, "Carey E. Floyd Jr.": 1}
+Georgia Giannakopoulou	{"Flora Zagouri": 1, "George M. Filippakis": 1, "Ioannis Andreadis": 1, "Afroditi Nonni": 1, "George M. Spyrou": 1, "Konstantina S. Nikita": 1, "George C. Zografos": 1, "Argyro Antaraki": 1, "Dimitra Koulocheri": 1, "Panos A. Ligomenides": 1}
+Georgios Ch. Sirakoulis	{"Ioannis Karafyllidis": 1, "Philippos Tsalides": 1, "Ch. Mizas": 1, "Vasilios A. Mardiris": 1, "Adonios Thanailakis": 1}
+Georgios Hadjigeorgiou	{}
+Georgios Leontidis	{"Bashir Al-Diri": 1, "Andrew Hunter": 1}
+Georgios S. Stamatakos	{"Vassilis P. Antipas": 1, "Nikolaos K. Uzunoglu": 1}
+Geraldo Braz Junior	{"Anselmo Cardoso de Paiva": 1, "Alexandre Ce9sar Muniz de Oliveira": 1, "Aristf3fanes Correaa Silva": 1}
+Gerard Fortuny	{"Javier Rodredguez-Navarro": 1, "Antonio Susedn": 1, "Manuel Armengol-Carrasco": 1, "Manuel Lf3pez-Cano": 1}
+Gergely Bárdossy	{"Ge1bor Hale1sz": 1, "Tibor Gondos": 1}
+Ghazaleh Ghavami	{"Soroush Sardari": 1, "Mohammad Ali Shokrgozar": 1}
+Ghazaleh Vaziri	{"Farshad Almasganj": 1, "Roozbeh Behroozmand": 1}
+Giacomo Veneri	{"Alessandra Rufa": 1, "Pamela Federighi": 1, "Francesca Rosini": 1, "Antonio Federico": 1}
+Giancarlo Candini	{}
+Gianluca Ianiro	{"Giovanni Cammarota": 1, "Stefano Bibbf2": 1, "Antonio Gasbarrini": 1, "Silvia Pecere": 1}
+Gideon Praveen Kumar	{"Lazar Mathew": 1}
+Gilbert Deléage	{"Gilbert Combet": 1, "Christophe Blanchet": 1, "Christophe Geourjon": 1}
+Giorgio Corani	{"Luca Maria Gambardella": 1, "Alessandro Giusti": 1, "Luca Gianaroli": 1, "Cristina Magli": 1}
+Giovani Guimaraes Rodrigues	{"Christophe Letellier": 1, "Jean-Frane7ois Muir": 1, "Luis Antonio Aguirre": 1, "Antoine Cuvelier": 1}
+Giovanni Comandé	{"Luca Nocco": 1, "Violette Peigne9": 1}
+Giovanni Luca Masala	{"Bruno Golosio": 1, "R. Cutzu": 1, "Roberto Pola": 1}
+Giovanni Maria Farinella	{"Sebastiano Battiato": 1, "Filippo Stanco": 1, "Dario Allegra": 1, "Marco Moltisanti": 1}
+Gisele Helena Barboni Miranda	{"Joaquim Cezar Felipe": 1}
+Giuseppe Boccignone	{"Paolo Napoletano": 1, "Antonio Picariello": 1, "Mario Ferraro": 1, "Vittorio Caggiano": 1, "Angelo Chianese": 1}
+Giuseppe Emiliano La Cara	{"Mauro Ursino": 1}
+Giuseppe Placidi	{"Luigi Cinque": 1, "Danilo Avola": 1, "Daniela Iacoviello": 1}
+Gleb V. Tcheslavski	{"Fahrettin Firat Gonen": 1}
+Golnaz Baghdadi	{"Ali Motie Nasrabadi": 1}
+Gongfa Chen	{"Adam El-Atem": 1, "Sanjay Mishra": 1, "Michael A. Schuetz": 1, "Wei Fan": 1, "Yin Xiao": 1}
+Gonzalo Álvarez	{"Luis Herne1ndez Encinas": 1, "Shujun Li": 1}
+Gopinath Sundaramurthy	{"Hamid R. Eghbalnia": 1}
+Graham W. Griffiths	{"William E. Schiesser": 2, "Lukasz Plociniczak": 2}
+Grainne Kerr	{"Padraig Doolan": 1, "Heather J. Ruskin": 1, "Martin Crane": 1}
+Gregory Cohen	{"Philip de Chazal": 1}
+Grzegorz J. Blinowski	{"Dariusz Wawer": 1, "Maciej Kaminski": 1}
+Grzegorz Ostrek	{"Artur Przelaskowski": 1, "Rafal Jf3zwiak": 1}
+Grzegorz Redlarski	{"Jacek Jaworski": 1}
+Grégory Apou	{"Nadine S. Schaadt": 1, "Benoeet Naegel": 1, "Germain Forestier": 1, "Friedrich Feuerhake": 1, "Anne Grote": 1, "Ce9dric Wemmert": 1, "Ralf Schf6nmeyer": 1}
+Guang-Quan Zhou	{"Zhen-Qiu Chen": 1, "Wei He": 1, "Lei-Lei Chen": 1, "Zhi-Hui Pang": 1, "Qin-Qun Chen": 1, "Zi-Qi Li": 1}
+Guanghua Xu	{"Sicong Zhang": 1, "Jing Wang 0067": 1, "Qing Zhang": 1, "Junming Zhu": 1}
+Guanghui Huang	{"Jianping Wan": 1, "Hui Chen": 1}
+Guanjin Wang	{"Kin-Man Lam": 1, "Kup-Sze Choi": 1, "Zhaohong Deng": 1}
+Guillaume Becq	{"Ste9phane Bonnet": 1, "Michel Antonakios": 1, "Lorella Minotti": 1, "Re9gis Guillemaud": 1, "Philippe Kahane": 1}
+Guillaume Euvrard	{"Michel Pe2ques": 1, "Jose9-Alain Sahel": 1, "Isabelle Rivals": 1, "Pascale Massin": 1, "Ame9lie Collet": 1, "Olivier Genevois": 1}
+Guillaume Kom	{"Alain Tiedeu": 1, "Martin Kom": 1}
+Guillaume Lemaitre	{"Jordi Freixenet": 1, "Joan Carles Vilanova": 1, "Paul Michael Walker": 1, "Fabrice Me9riaudeau": 1, "Robert Marti": 1}
+Guiying Liu	{"Kelvin Kian Loong Wong": 1, "Dhanjoo N. Ghista": 1, "Jianhuang Wu": 1, "Wenhua Huang": 1}
+Guo-Zheng Li 0001	{"Dao-Ying Geng": 1, "Chenzhou Ye": 1, "Jie Yang": 1}
+Guoting Chen	{"Wei Wu": 1, "Ning Han": 1, "Xin Li": 1, "Guang Li": 1, "Yangzhou Liu": 1, "Guofeng Li": 1, "Guixin Sun": 1, "Yong Wang": 1, "Yanxi Chen": 1, "Qinchuan Li": 1, "Zengchun Li": 1}
+Guoyan Liu	{"Jie Li": 1, "Hongjun Liu": 1}
+Gurman Gill	{"Reinhard R. Beichel": 1}
+Guy Dori	{"Shmuel Fishman": 1, "Michal Gershinsky": 1, "Yaron Denekamp": 1, "Haim Bitterman": 2, "Simona Ben-Haim": 1, "Arie Rosenthal": 1, "Basil S. Lewis": 2}
+György Surján	{"Tame1s Kove1ts": 1, "c9va Szile1gyi": 1}
+Gábor Janiga	{}
+Gökhan Ertas	{"Halil d6zcan Gfcle7fcr": 1, "Memduh Dursun": 1, "Mehtap Tunaci": 1, "Onur Osman": 1, "Osman N. Ue7an": 1}
+Gülay Tohumoglu	{"K. Erbil Sezgin": 1}
+Gürsel Serpen	{"E. I. Parsai": 1, "M. Orra": 1, "H. M. Elsamaloty": 1, "R. Iyer": 1, "D. K. Tekkedil": 1}
+H. G. van Steenis	{"W. L. J. Martens": 1, "J. H. M. Tulen": 1}
+H. Irem Türkmen	{"M. Elif Karsligil": 1, "Ismail Kocak": 1}
+H. K. Chatterjee	{"Mandar Mitra": 1, "R. Gupta": 1}
+H. Naseri	{"H. Pourkhajeh": 1, "Mohammad Reza Homaeinezhad": 1}
+Hadar Cohen-Duwek	{"Hedva Spitzer": 1, "Sara Apter": 1, "Rony Weitzen": 1}
+Hadi Kalani	{"Alireza Akbarzadeh Tootoonchi": 1, "Sahar Moghimi": 1}
+Hadrien Calmet	{"Alberto M. Gambaruto": 1, "Alister J. Bates": 1, "Mariano Ve1zquez": 1, "Guillaume Houzeaux": 1, "Denis J. Doorly": 1}
+Hai Vu	{"Yasushi Yagi": 1, "Masatsugu Shiba": 1, "Ryusuke Sagawa": 1, "Kazuhide Higuchi": 1, "Tomio Echigo": 1, "Keiko Yagi": 1, "Tetsuo Arakawa": 1}
+Haik Kalantarian	{"Nabil Alshurafa": 1, "Tuan Le": 1, "Majid Sarrafzadeh": 2}
+Hakan Bulu	{"Pinar Balci": 1, "Adil Alpkocak": 1}
+Hakan Isik	{"Mustafa Cihat Avunduk": 1, "Evren Sezgin": 1}
+Haluk Küçük	{}
+Hamed Malek	{"Alireza Razavi": 1, "Mohammad Mehdi Ebadzadeh": 1, "Jalal Zaringhalam": 1, "Reza Safabakhsh": 1}
+Hamed Moradi	{"Mojtaba Sharifi": 1, "Gholamreza Vossoughi": 1}
+Hamid R. Marateb	{"Elham Faghihimani": 1, "Masoud Amini": 1, "Dario Farina": 1, "Marjan Mansourian": 1}
+Hamid Soltanian-Zadeh	{"Michael Chopp": 1, "Ali Shahrokni": 1, "Mohammad Mehdi Khalighi": 1, "Reza Aghaeizadeh Zoroofi": 1, "Zheng Gang Zhang": 1, "Mahnaz Maddah": 1}
+Hamidreza Namazi	{"Vladimir V. Kulish": 1}
+Han G. Jo	{"Chung K. Lee": 1, "Jin Young Park": 1, "Sun K. Yoo": 1, "Suk K. An": 1}
+Han-Lin Li	{"Yao-Huei Huang": 1, "Ming-Hsien Chen": 1}
+Hang Sik Shin	{"Myoungho Lee": 1, "Chungkeun Lee": 1}
+Hanie Moghaddasi	{"Saeed Nourian": 1}
+Hans C. van Houwelingen	{"Maurizio Capannesi": 1, "Hendriek C. Boshuizen": 1}
+Hansang Lee	{"Helen Hong": 1, "Junmo Kim": 1}
+Hao Gu	{"Li Ma": 1, "Yanjiang Qiao": 1, "Yun Wang": 1, "Yinglong Ren": 1, "Wenjing He": 1}
+Harish Bhaskar	{"Peng Wang 0002": 1, "David C. Hoyle": 1}
+Harun Pirim	{"Burak Eksioglu": 1, "Andy D. Perkins": 1}
+Hassan B. Kazemian	{"Syed A. Yusuf": 1, "Kenneth White": 1}
+Hassan U. Kalsum	{"Hishammuddin Asmuni": 1, "Razib M. Othman": 1, "Shafry M. Rahim": 1, "Zuraini Ali Shah": 1, "Zalmiyah Zakaria": 1, "Jumail Taliba": 1, "Rohayanti Hassan": 1}
+Hei-Chia Wang	{"Shaw-Jenq Tsai": 1, "Shih Chieh Lin": 1, "Tock-Kheng Kooi": 1, "Hung-Yu Kao": 1}
+Heike Rudolph	{"Michael H. Walter": 1, "Ralph G. Luthardt": 1}
+Heikki Hyyrö	{"Martti Juhola": 1, "Mauno Vihinen": 1}
+Helen Hong	{"Jeongjin Lee": 1, "Yeny Yim": 1, "Stefan Grosskopf": 1, "Myoung-Hee Kim": 1}
+Helena Brunel	{"Alexandre Perera": 1, "Joan-Josep Gallardo-Chacf3n": 1, "Pere Caminal": 1, "Montserrat Vallverdfa": 1}
+Hemant Sharma	{"Om Lata Bhagat": 1, "K. K. Sharma": 2}
+Heng-Di Zhang	{"Jun Zhang": 1, "Li-Zhong Mu": 1, "Hong-Wei Shao": 1, "Xue Wang": 1, "Ying He": 1}
+Heng-Li Huang	{"Chi-Sheng Chien": 1, "Lih-Jyh Fuh": 1, "Dan-Jae Lin": 2, "Michael Y. C. Chen": 1, "Ming-Tzu Tsai": 1, "Jui-Ting Hsu": 2}
+Hengyun Lu	{"Genke Yang": 1, "Lam Fat Yeung": 1}
+Herbert F. Jelinek	{"Andrew Stranieri": 1, "Andrew Yatsko": 1, "Sitalakshmi Venkatraman": 1}
+Hernâni Gonçalves	{"Joana Chaves": 1, "Diogo Ayres-de-Campos": 1, "Antf3nia Costa": 1, "Joe3o Bernardes": 1}
+Hideaki Shono	{"Hajime Sugimori": 1, "Ary L. Goldberger": 1, "Chung-Kang Peng": 1, "Mayumi Shono": 1}
+Hilmi M. Muda	{"Puteh Saad": 1, "Razib M. Othman": 1}
+Hiroshi Hirose	{"Ikuo Saito": 1, "Shigenari Hozawa": 1, "Toshifumi Hibi": 1, "Tetsuro Takayama": 1}
+Hiroyuki Hamada	{"Akihiro C. Yamashita": 2, "Abdullah Al Mamun": 1, "Masahiro Okamoto": 2, "Shinji Namoto": 2, "Ryo Yamada": 2, "Makoto Ishizaki": 2}
+Ho Dong Park	{"Kyoung Joung Lee": 1, "Hak Hyun Nam": 1, "Hyung Ro Yoon": 1}
+Ho Lee	{"Jeongjin Lee": 2, "Namkug Kim": 2, "Yeong-Gil Shin": 2, "In Kyoon Lyoo": 1, "Sang Joon Kim": 1}
+Hojat Bahmanzadeh	{"Omid Abouali": 1, "Mohammad Faramarzi": 1, "Goodarz Ahmadi": 1}
+Hong Tang 0001	{"Jinhui Zhang": 1, "Jian Sun": 1, "Tianshuang Qiu": 2, "Chengjie Ruan": 1, "Yongwan Park": 2, "Jiao Gao": 1}
+Hong-Tzong Yau	{"Tsan-Jui Yang": 1, "Yi-Chen Chen": 1}
+Hongfei Wang	{"Yunyan Zhao": 1, "Fei Yan": 1, "Hui Liu": 1}
+Hongliang Ren 0001	{"Wan Cheng Lim": 1, "Shuzhi Sam Ge": 1, "Weian Guo": 1}
+Hongqing Zhu	{"Huazhong Shu": 1, "Xu Dong Bao": 1, "Limin Luo": 1, "Jian Zhou 0001": 1}
+Hossein Khadivi Heris	{"Babak Seyed Aghazadeh": 1, "Mansour Nikkhah Bahrami": 1}
+Hossein Rahmani	{"Andreas Bender": 1, "Oscar Me9ndez-Lucio": 1, "Gerhard Weiss": 1}
+Hossein Yousefi-Banaem	{"Saeed Kermani": 1, "Sasan Asiaei": 1, "Hamid Sanei": 1}
+Hsiao Piau Ng	{"Kelvin Weng Chiong Foong": 1, "Wieslaw Lucjan Nowinski": 1, "S. H. Ong 0001": 1, "Poh-Sun Goh": 1}
+Hsiao-Yu Lee	{"Chi-Hsuan Lin": 1, "Rong-Ju Cherng": 1}
+Hsu-Chih Huang	{"Chou-Ching K. Lin": 1, "Ming-Shaung Ju": 1}
+Hsuan-Hung Lin	{"Ren-Hao Pan": 1, "Yuan-Nian Hsu": 1, "Yung-fu Chen": 1, "Jiin-Chyr Hsu": 1, "Lin-Yu Tseng": 1}
+Hu Huang 0004	{"Hui-Juan Chen": 1, "Hong-Bo Xie": 1, "Jing-Yi Guo": 1}
+Hua Chai	{"Yong Liang 0001": 1, "Xiao-Ying Liu": 1}
+Hua-zhen Wang	{"Fan Yang": 1, "Cheng-de Lin": 1, "Xueqin Hu": 1}
+Huafu Chen	{"Xu Lei": 1, "Dezhong Yao 0001": 1}
+Hugo Fernando Maia Milan	{"Kifle G. Gebremedhin": 1}
+Huhe Dai	{"Shouda Jiang": 1, "Ye Li 0002": 1}
+Hui Chen	{"Chao Tan": 2, "Yuanbo Diao": 1, "Zan Lin": 2, "Tong Wu": 2}
+Hui Ding 0005	{"Zhi-Yong Liang": 1, "Feng-Biao Guo": 1, "Jian Huang 0004": 1, "Hao Lin 0001": 1, "Wei Chen 0064": 1}
+Hui Liu	{"Liping Gai": 1}
+Hui Yang 0003	{"Fabio Leonelli": 1}
+Huiting Qiao	{"Yingmao Chen": 1, "Jiahe Tian": 1, "Jing Bai": 1}
+Hung-Jung Ho	{"Tien-Chi Chen": 1}
+Huong Q. Nguyen	{"Michael S. Stulbarg": 1, "Sally H. Rankin": 1, "Virginia Carrieri-Kohlman": 1, "Robert Slaughter": 1}
+Hussein Mansy	{"Thomas J. Royston": 1, "Joshua Grahe": 1, "Richard Sandler": 1}
+Hyatt E. Moore IV	{"Olivier Andlauer": 1, "Emmanuel Mignot": 1, "Noah Simon": 1}
+Hyeoneui Kim	{"Roberto A. Rocha": 1, "Linda A. Winfield": 1, "Patricia C. Dykes": 1, "Debra Thomas": 1}
+Hyonyoung Han	{"Jung Kim": 1}
+Hyun Hee Jo	{"Helen Hong": 1, "Jin Mo Goo": 1}
+Hyun Joong Yoon	{"Seong Youb Chung": 1}
+Hyun-Gyu Lee	{"Byeong-Seok Shin": 1, "Min-Kook Choi": 1, "Sang-Chul Lee": 1}
+Hyun-Ju Choi	{"Heung-Kook Choi": 1}
+Hyunjin Kim	{"Youngmi Yoon": 1, "Chihyun Park": 1, "Sanghyun Park": 1, "Jaegyoon Ahn": 1}
+Hyunjin Park	{"Kun-ho Lee": 1, "Jin-Ju Yang": 1, "Jongbum Seo": 1, "Yu Yong Choi": 1, "Jong-Min Lee": 1}
+Héctor Alfonso Castro-Abril	{"Diego Alexander Garzf3n-Alvarado": 1, "Mareda Lucia Gutie9rrez": 1}
+Héctor Miguel Trujillo-Arriaga	{"Rube9n Rome1n-Ramos": 1}
+Héctor-Gabriel Acosta-Mesa	{"Nicandro Cruz-Ramedrez": 1, "Rodolfo Herne1ndez-Jime9nez": 1}
+Hüseyin Demirel	{"Bfcnyamin Ciylan": 1, "H. Haldun Gf6ktas": 1, "Bilgehan Erkal": 1}
+I. A. Moneim	{}
+I. Ashida	{"S. Kawakami": 1, "Y. Miyaoka": 1}
+I. González	{"Antonio Eblen-Zajjur": 1}
+I. González-Valverde	{"Jose9 Manuel Garceda Aznar": 1, "C. Semino": 1}
+Ibrahim Türkoglu	{"Ahmet Arslan": 1, "Erdogan Ilkay": 1}
+Ibrahim Youssef	{"Guoqiang Yu": 1, "Yue Joseph Wang": 1, "Ie-Ming Shih": 1, "Robert Clarke": 1}
+Ignacio Larrabide	{"Rafal A. Feijf3o": 1, "S. A. Urquiza": 1, "Pablo J. Blanco": 1, "Marcelo J. Ve9nere": 1, "E. A. Dari": 1, "N. A. de Souza e Silva": 1}
+Igor Rojdestvenski	{}
+Igor Sevo	{"Jacob Bergsland": 1, "Ole Jakob Elle": 1, "Aleksej Avramovic": 1, "Ilangko Balasingham": 1, "Lars Aabakken": 1}
+Ilhan Umut	{}
+Ilias K. Kitsas	{"Leontios J. Hadjileontiadis": 1, "Stavros M. Panas": 1}
+Iman Beheshti	{"Hasan Demirel": 1}
+Imdadur Rahman	{"Praful Patel": 1, "Nadeem Ahmad Afzal": 1}
+Imon Banerjee	{"Giuseppe Patane8 0001": 1, "Michela Spagnuolo": 1}
+Inan Güler	{"Necaattin Barise7i": 1, "Memduh Kaymaz": 1, "Mehmet Akin": 1, "M. Kemal Kiymik": 1, "Serdar Mfcldfcr": 2, "Elif Derya dcbeyli": 5, "Firat Hardalae7": 4, "Ahmet Alkan": 1}
+Indika S. Walimuni	{"Khader M. Hasan": 1, "Humaira Abid": 1}
+Insung Ahn	{"Ha-Yeon Kim": 1, "Hyeon Seok Son": 1, "Sunghoon Jung": 1, "Ji-Hae Lee": 1}
+Ioannis Boniatis	{"Lena Costaridou": 1, "George Panayiotakis": 1, "Ioannis Kalatzis": 1, "Dionisis A. Cavouras": 1, "Elias E. Panagiotopoulos": 1}
+Ioannis Kavakiotis	{"Evangelos Konstantinidis": 1, "Ioannis P. Vlahavas": 1, "Nikoletta Karaiskou": 1, "Patroklos Samaras": 1, "Antonios Voulgaridis": 1, "Alexandros Triantafyllidis": 1}
+Ioannis Marras	{"Nikolaos Nikolaidis 0001": 1, "Ioannis Pitas": 1}
+Iosif-Daniel Rosca	{"Jean-Maurice Vergnaud": 1}
+Irene Díaz	{"Monserrat Espuf1a-Pons": 1, "Elena Montaf1e9s": 1, "Jose9 Ranilla": 1}
+Irene M. Mullins	{"Sholom M. Weiss": 1, "Rudy Muller": 1, "Jason A. Lyman": 1, "Simona Cohen": 1, "W. Greg Miller": 1, "Barry Robson": 1, "Ken Scully": 1, "Daniel E. Platt": 1, "Chid Apte9": 1, "Carleton T. Garrett": 1, "Mir S. Siadaty": 1, "William A. Knaus": 1, "Isidore Rigoutsos": 1}
+Irfan Mehmood	{"Sung Wook Baik": 1, "Naveed Ejaz": 1, "Muhammad Sajjad": 1}
+Irini Genitsaridi	{"Lefteris Koumakis": 1, "Haridimos Kondylakis": 1, "Manolis Tsiknakis": 1, "Kostas Marias": 1}
+Isabel Jurado	{"Pablo Velarde": 1, "Jose9 Mareda Maestre Torreblanca": 1, "B. Isla Tejera": 1, "Carlos Ocampo-Martinez": 1, "J. R. del Prado Llergo": 1, "I. Fernandez": 1}
+Isabel Mateos-Garcia	{"Juan Albino Me9ndez Pe9rez": 1, "Jose9 Antonio Reboso-Morales": 1, "Jose9 Francisco Gf3mez Gonze1lez": 1}
+Isabel N. Figueiredo	{"S. Kumar": 1, "Sunil Kumar": 1, "Joe3o Diogo Ramos": 2, "Jfalio S. Neves": 1, "Lueds Pinto 0002": 1, "Bjf6rn Engquist": 1, "Susana D. Moura": 1, "Carlos Manta Oliveira": 2}
+Isar Nejadgholi	{"Miodrag Bolic": 1, "Mohammad Hassan Moradi": 1, "Fatemeh Abdolali": 1}
+Ismail Cantürk	{"M. Feyzi Sahin": 1, "Fethullah Karabiber": 1, "Safa c7elik": 1, "Fatih Yagmur": 1, "Sadik Kara": 1}
+István Lázár	{"Andre1s Hajdu": 1}
+Itai Lang	{"Miri Sklair-Levy": 1, "Hedva Spitzer": 1}
+Iva Jestrovic	{"Bo Luan": 1, "James L. Coyle": 1, "Ervin Sejdic": 1, "Joshua M. Dudik": 1}
+Iván Gómez-Conde	{"Susana S. Caetano": 1, "Carlos E. Tadokoro": 1, "David N. Olivieri": 1}
+Iván Macía	{"Manuel Graf1a": 1, "Josu Maiora": 1, "Mariano de Blas": 1, "Ce9line Paloc": 1}
+Iztok Lebar Bajec	{"Primoz Trunk": 1, "Nikolaj Zimic": 1, "D. Oseli": 1}
+J. B. Jeeva	{"Megha Singh": 1}
+J. C. Cortés	{"Rafael J. Villanueva": 1, "Francisco-Jose9 Santonja": 1, "Almudena Se1nchez-Se1nchez": 1}
+J. C. Vanegas-Acosta	{"Diego Alexander Garzf3n-Alvarado": 2, "V. Lancellotti": 1, "N. S. Landinez P.": 1}
+J. E. Gardi	{"H. J. G. Gundersen": 1, "J. R. Nyengaard": 1}
+J. F. Wang	{"Z. R. Li": 1, "Yu Zong Chen": 1, "C. Z. Cai": 1}
+J. Fortin	{"F. Skrabal": 1, "H. Passath": 1, "W. Habenbacher": 2, "R. Pacher": 1, "W. Marte": 1, "R. Grfcllenberger": 2, "A. Hacker": 2, "Doris Flotzinger": 1, "A. Heller": 2, "G. Haitchi": 1, "P. Wach": 2, "J. Innerhofer": 1, "Ch. Wagner": 2}
+J. J. Evans	{}
+J. Jabez Christopher	{"Arputharaj Kannan": 1, "Harichandran Khanna Nehemiah": 1}
+J. Marcé-Nogué	{"F. Carreras": 1, "M. Ballester-Rode9s": 1, "Gerard Fortuny": 1, "Ferran Roure": 1}
+Jaafar Abduo	{"Marc Tennant": 1, "John McGeachie": 1, "Mohammed Bennamoun": 1}
+Jaak Talts	{"Rein Raamat": 1, "Kersti Jagome4gi": 1}
+Jacek Jaworski	{"Grzegorz Redlarski": 1}
+Jacob S. Calvert	{"Ritankar Das": 2, "Jasmine Jan": 1, "Qingqing Mao": 1, "Mitchell D. Feldman": 1, "Uli K. Chettipally": 1, "Jana L. Hoffman": 1, "Thomas Desautels": 1, "Daniel A. Price": 1, "Melissa Jay": 2, "Angela J. Rogers": 1, "Christopher W. Barton": 2, "Hamid Mohamadlou": 1}
+Jacqueline Fairley	{"George K. Georgoulas": 1, "Petros S. Karvelis": 1, "David B. Rye": 1, "Chrysostomos D. Stylios": 1, "Donald L. Bliwise": 1, "George Dimakopoulos": 1, "Otis L. Smart": 1}
+Jae-Hwan Kang	{"Sung-Phil Kim": 1, "Yoon Gi Chung": 1}
+Jae-Won Song	{"Ju-Hong Lee": 1, "Seok-Ju Chun": 1, "Joon-Hyuk Choi": 1}
+Jaegyoon Ahn	{"Youngmi Yoon": 2, "Chihyun Park": 1, "Sanghyun Park": 2, "Hookuen Lee": 1, "Yunku Yeu": 1}
+Jaeyeon Shin	{"Sungpil Cho": 1, "Kyoung-Joung Lee": 1, "Hodong Park": 1, "Hakhyun Nam": 1}
+Jafar Razmara	{"Safaai Bin Deris": 1, "Sepideh Parvizpour": 1}
+Jaganathan Palanichamy	{"Kuppuchamy Ramasamy": 1}
+Jakob Wikström	{"George Georgoulas": 1, "Aris Seferiadis": 1, "Thucydides Moutsopoulos": 1}
+James G. Anderson	{}
+James G. McDaniel	{}
+James N. Watson	{"A. S. Shah": 1, "Neil R. Grubb": 1, "N. Uchaipichat": 1, "Paul S. Addison": 1}
+James W. Kay	{"Rachel J. Steven": 1, "Hugh Y. Elder": 1, "John A. S. McGuigan": 1}
+James W. Woods	{"Charles Sneiderman": 1, "Charlie Hatton": 1, "Kamran Hameed": 1, "Michael J. Ackerman": 1}
+Jamileh Yousefi	{"Andrew Hamilton-Wright": 1}
+Jan F. Gummert	{"Stephan Jacobs": 1, "Friedrich W. Mohr": 1, "Jf6rg Kempfert": 1, "Thomas Walther": 1, "Volkmar Falk": 1, "U. Opfermann": 1}
+Jan Freudenberg	{"Thomas Schiemann": 1, "Ulf Tiede": 1, "Karl Heinz Hf6hne": 1}
+Jana Milenkovic	{"Maja Marolt Music": 1, "Jurij Franc Tasic": 1, "Olga Chambers": 1}
+Jana Svehlíková	{"Milan Tysler": 1, "Michal Teplan": 1}
+Janez Dolensek	{"Marjan Kordas": 2, "Franc Runovc": 2, "Tomaz Podnar": 1}
+Jasmien Lismont	{"Seppe vanden Broucke": 1, "Irina Odnoletkova": 1, "Jan Vanthienen": 1, "Filip Caron": 1, "Anne-Sophie Janssens": 1}
+Jason D. Gibbs	{"Michael W. Graham": 1, "William E. Higgins": 1}
+Jaspal Singh	{"Rajender K. Sharma": 1, "Anil K. Gupta": 1}
+Javier Asensio-Cubero	{"John Q. Gan": 1, "Ramaswamy Palaniappan": 1}
+Javier Fernández de Cañete	{"D. Moreno-Boza": 1, "P. Del Saz Huang": 1, "Joaquedn A. Ferne1ndez-Luque": 1, "Julio Barbancho": 1, "Victor Muf1oz": 1, "Pablo del Saz-Orozco": 1, "E. Duran-Venegas": 1}
+Jay Urbain	{"Nazli Goharian": 1, "Ophir Frieder": 1}
+Je-Gun Joung	{"Sok June Oh": 1, "Byoung-Tak Zhang": 1}
+Jean Charlet	{"Bruno Bachimont": 1, "Marie-Christine Jaulent": 1}
+Jean I. Garcia-Gathright	{"Marshall L. Spiegel": 1, "Mary Han": 1, "Edward B. Garon": 1, "William Sago": 1, "Phillip A. Abarca": 1, "Brian Wolf": 1, "Denise R. Aberle": 1, "Alex A. T. Bui": 1, "Andrea Oh": 1}
+Jean Provost	{"Elaine Y. Wan": 1, "Alexandre Costet": 1, "William Whang": 1, "Alok Gambhir": 1, "Elisa E. Konofagou": 1, "Hasan Garan": 1}
+Jean X. Gao	{"Lipo Wang": 1}
+Jean-Baptiste Fasquel	{"Christine Cavaro-Me9nard": 1, "Alde9ric Le9cluse": 1, "Serge Willoteaux": 1}
+Jean-Louis Dillenseger	{"Simon Esneault": 1, "c9ric Delabrousse": 1, "Soizic Laguitton": 1}
+Jefferson William Teixeira	{"Joaquim Cezar Felipe": 1, "Luana Peixoto Annibal": 1, "Ricardo Rodrigues Ciferri": 1, "Cristina Dutra de Aguiar Ciferri": 1}
+Jeffrey L. Olson	{"Masoud Asadi-Zeydabadi": 1, "Randall Tagg": 1}
+Jeffry A. Florian Jr.	{"Robert S. Parker": 1, "Julie L. Eiseman": 1}
+Jelena V. Zivkovic	{"Goran M. Nikolic": 1, "Jovana B. Veselinovic": 1, "Natasa V. Trutic": 1, "Aleksandar M. Veselinovic": 1}
+Jemal H. Abawajy	{"Morshed U. Chowdhury": 1, "Andrei V. Kelarev": 1, "Andrew Stranieri": 1, "Herbert F. Jelinek": 1}
+Jen-Ming Yang	{"Jong-Shyan Wang": 1, "Szi-Wen Chen": 1, "Chih-Chin Hsu": 1, "Jhe-Hao Yang": 1}
+Jenna Marie Reps	{"Richard B. Hubbard": 1, "Uwe Aickelin": 1}
+Jennifer Frattolin	{"Marjan Molavi Zarandi": 1, "Catherine Pagiatakis": 1, "Rosaire Mongrain": 1, "Olivier F. Bertrand": 1}
+Jennifer K. W. Chesnutt	{"Hai-Chao Han": 1}
+Jennifer N. Cooper	{"Lai Wei": 1, "Soledad A. Fernandez": 1, "Peter C. Minneci": 1, "Katherine J. Deans": 1}
+Jens Meier	{"Stefan Wf6lkhammer": 1, "Oliver Habler": 1}
+Jens U. Wurthner	{"Claus-Jfcrgen Peimann": 1, "Amal K. Mukhopadhyay": 1}
+Jeongjin Lee	{"Ho Lee": 1, "Gyehyun Kim": 1, "Byeong-Seok Shin": 1, "Yeong-Gil Shin": 1}
+Jerzy Cieniawa	{"Grazyna Olchowik": 1, "Jacek Baszak": 1, "Justyna Widomska": 1}
+Ji Won Yoon	{}
+Ji-Xia Ren	{"Huo-Lian Qian": 1, "Shu-Yi Si": 1, "Yong Xie": 1, "Yu-Xin Huang": 1, "Ning-Yu Zhu": 1}
+Jia-Yann Huang	{"Yung-Sheng Chen": 1, "Kun-Ju Lin": 1}
+Jian Zhang	{"Xiaohua Qian": 1, "Maode Wang": 1, "Xiaobo Zhou 0001": 1, "Anna Paulsson": 1, "Ge Wang 0001": 1, "Hengyong Yu": 1, "King Chuen Li": 1, "Waldemar Debinski": 1, "Michael D. Chan": 1, "Hua Tan": 1, "Tielin Yang": 1, "Keqin Liu": 1}
+Jian-Jun Shu	{"Yajing Li": 1}
+JianBing Yi	{"Xuan Yang": 1, "Hao Yang": 1, "Guoliang Chen 0005": 1}
+Jiang Tian	{"Hong Gu": 1, "Wenqi Liu": 1, "Chiyang Gao": 1}
+Jianhua Ao	{"Kaijin Hu": 1, "Guofeng Wu": 1, "Yanpu Liu": 1, "Tao Li": 1, "Yin Ding": 1, "Liang Kong": 1}
+Jianhua Ma	{"Qianjin Feng": 1, "Jing Huang 0018": 1, "Yanqiu Feng": 1, "Wufan Chen": 1}
+Jianhua Zhou	{"Yuwen Zhang": 1, "J. K. Chen": 1}
+Jianjun Yuan	{"Qingmao Hu": 1, "Lipei Liu": 1}
+Jianping Huang	{"Hong Fang": 1, "Xiao-hui Fan": 1}
+Jiayin Zhou	{"Jing Huang": 1, "Tuan-Kay Lim": 1, "Vincent Chong": 1}
+Jidong Yu	{"Jingbo Zhao": 1, "Hans Gregersen": 1, "Yanjun Zeng": 1, "Donghua Liao": 1}
+Jie Li	{"Xianglong Tang": 1}
+Jie Lv 0001	{"Fang Wang": 1, "Jianzhong Su": 1, "Hongbo Liu 0004": 1, "Yunfeng Qi": 1, "Yan Zhang 0016": 1}
+Jie Song	{}
+Jie Zhou 0023	{"Jie Deng": 1, "Jun Yao": 1, "Julius P. A. Dewald": 1}
+Jihae Baek	{"Eunyoung Kim": 1, "Hyeyoung Min": 2, "Hyeyoung Byeon": 1, "Heeyoung Lee": 1, "Kwang Woo Hwang": 2, "Soowon Kang": 1}
+Jihye Kim	{"Jeongjin Lee": 1, "Jin-Wook Chung": 1, "Yeong-Gil Shin": 1}
+Jimin Lee	{"Sejong Oh": 1, "Nomin Batnyam": 1}
+Jin Sun Oh	{"Kyung Ho Lee": 1, "Yong Seok Kwon": 1, "Sang Kug Chung": 1, "Woowon Jeong": 1, "Kyehan Rhee": 1}
+Jin-Xing Liu	{"Chun-Hou Zheng 0001": 1, "Yong Xu 0001": 1}
+Jin-Zhi Lei	{"Chang-Yi Wang": 2}
+Jing Hu 0003	{"Xiaoming Liu 0004": 1, "Xiaolong Zhang 0002": 1, "Jinshan Tang": 1}
+Jing Huang 0018	{"Hua Zhang 0007": 1, "Nan Liu": 1, "Qianjin Feng": 1, "Zhaoying Bian": 1, "Wufan Chen": 1, "Jianhua Ma": 1, "Yanqiu Feng": 1}
+Jing Jin Shen	{"Wen-An Yang": 1, "Feng Yu Xu": 1}
+Jing Luo 0006	{"Jun Zhang": 1, "Zuren Feng": 1, "Na Lu": 1}
+Jing Zhang 0008	{"Chye Hwang Yan": 1, "Chee-Kong Chui": 1, "Sim Heng Ong": 1}
+Jing-Jing Fang	{"Tai-Hong Kuo": 1}
+Jingliang Dong	{"Jiyuan Tu": 1, "Kiao Inthavong": 1}
+Jingyan Wang	{"Jiaju Man": 1, "Xinge You": 1, "Quanquan Wang": 1, "Xin Gao 0001": 1, "Chao Wang 0053": 1, "Yongping Li": 1}
+Jinlong Shi	{"Zhigang Luo": 1}
+Jinting Guan	{"Mingcheng Wu": 1, "Guoli Ji": 1, "Jingyi Fu": 1, "Longteng Chen": 1, "Xiaohui Wu": 1, "Qingshun Quinn Li": 1}
+Jinxiang Xi	{"Xiuhua April Si": 1, "Jiayao Eddie Yuan": 1}
+Jiun-Tze Lai	{"Ting-Wei Hou": 2, "Chien-Min Chao": 1, "Chiun-Lin Yeh": 1}
+Jixiang Guo	{"Yim-Pan Chui": 1, "Pheng-Ann Heng": 1, "Jing Qin 0001": 1, "Shun Li": 1}
+Jiyo S. Athertya	{"Gurunathan Saravana Kumar": 1}
+Joan Climent	{"Roberto A. Hexsel": 1}
+Joanna Szaleniec	{"Krzysztof Oles": 1, "Jacek Skladzien": 1, "Ryszard Tadeusiewicz": 1, "Maciej Wiatr": 1, "Maciej Szaleniec": 1, "Jerzy Tomik": 1}
+Jochen R. Moehr	{}
+Joe-Air Jiang	{"Chih-Feng Chao": 1, "Ren-Guey Lee": 1, "Ming-Jang Chiu": 1, "Chwan-Lu Tseng": 1, "Robert Lin": 1}
+Johan Musaeus Bruun	{"Nermina Vejzagic": 1, "Christian M. O. Kapel": 1, "Allan Roepstorff": 1, "Jens Michael Carstensen": 1, "Svend Christensen": 1}
+Johanne Bézy-Wendling	{"Marek Kretowski": 1, "Yan Rolland": 1}
+Johannes V. Soulis	{"George Louridas": 1, "George D. Giannoglou": 1, "George E. Parcharidis": 1}
+John Chiverton	{"Chao Chen": 1, "Kevin Wells": 1, "Emma Lewis": 1, "Declan Johnson": 1, "Barbara Podda": 1}
+John F. Magnotti	{"Nedret Billor": 1}
+John Fox	{"Tony Rose": 1, "Vivek Patkar": 1, "Alyssa Alabassi": 1, "Elizabeth Black": 1}
+John L. Semmlow	{"Tara L. Alvarez": 1, "Claude Pedrono": 1}
+John L. Sfondouris	{"Alberto E. Musto": 1, "Tabitha M. Quebedeaux": 1, "Chris Holdgraf": 1}
+John M. Easton	{"Mark R. Viant": 1, "Andrew Peet": 1, "Lisa M. Harris": 1, "Theodoros N. Arvanitis": 1}
+John Newell	{"K. McMillan": 2, "T. C. Aitchison": 1, "J. W. Kay": 1, "S. Grant": 1, "G. McCabe": 2}
+John P. Corradi	{"Jyoti Chhabra": 1, "Christine M. Waszynski": 1, "Robert S. Dicks": 1, "Jeffrey F. Mather": 1}
+John Puentes	{"Gouenou Coatrieux": 1, "Abdelhamid Zemirline": 1, "Christian Roux": 1, "Be9ne9dicte Batrancourt": 1, "Jamal Atif": 1, "Laurent Lecornu": 1, "Isabelle Bloch": 1, "Elsa D. Angelini": 1}
+John Semmlow	{}
+Jonatan Lerga	{"Nicoletta Saulig": 1, "Vladimir Mozetic": 1}
+Jonathan F. Easton	{"Maia Angelova": 1, "Christopher R. Stephens": 1}
+Jonathan Murphy	{"Fergal Boyle": 1}
+Jong-Min Lee	{"Kwang-Suk Park": 1, "Kyoungsuk Rhee": 1, "Jung-Hyun Kim": 1, "Sun I. Kim": 3, "Uicheul Yoon": 1, "In-Young Kim": 2, "Dae-Jin Kim": 1, "Kee-Joon Choi": 1, "Gi-Byoung Nam": 1, "Sang Hee Nam": 1, "You-Ho Kim": 1}
+Jong-Won Kim 0002	{"Kwang Suk Park": 1, "Young-Jin Koo": 1, "ByungHun Choi": 1, "Do-Un Jeong": 1, "Hong-Beom Shin": 1, "Eui-Joong Kim": 1}
+Joon-Ho Shin	{"Seong Ho Jang": 1, "Si Bog Park": 1}
+Joong Yull Park	{"Chang Mo Hwang": 1, "Chan Young Park": 2, "Jeong Min Lee": 1, "Byoung Goo Min": 1, "Kyung Sun": 1}
+Jorge Juan Suárez-Cuenca	{"Jacques Remy": 1, "Martine Remy-Jardin": 1, "Miguel Souto": 1, "Juan J. Vidal": 1, "Mareda J. Lado": 1, "Pablo G. Tahoces": 1}
+Jorge M. Arevalillo	{"Hilario Navarro": 1}
+Jorge Mateo Satos	{"Jose9 Joaquedn Rieta": 1}
+Jorma Laurikkala	{"Seppo Lammi": 1, "Pauliina Aukee": 1, "Martti Juhola": 1, "Jorma Penttinen": 1}
+Jose Juan Garcia-Hernandez	{"Javier Rubio-Loyola": 1, "Wilfrido Gf3mez-Flores": 1}
+Jose R. Zamacona	{"Jacob D. Furst": 1, "Daniela Stan Raicu": 1, "Ronald Niehaus": 1, "Alexander Rasin": 1}
+Josef P. Barnes	{"Peter R. Johnston": 1}
+Joselene Marques	{"Rabia Granlund": 1, "Paola Pettersen": 1, "Erik B. Dam": 1, "Martin Lillholm": 1}
+Joseph E. Langenderfer	{"Amy Mell": 1, "Richard E. Hughes": 1, "John E. Kuhn": 1, "Suzanne LaScalza": 1, "James E. Carpenter": 1}
+Joshua Farber	{"Saara M. S. Totterman": 1, "Antonio Martednez-Torteya": 1, "Jose9 G. Tamez-Pef1a": 1}
+Joshua M. Dudik	{"James L. Coyle": 1, "Ervin Sejdic": 1, "Atsuko Kurosu": 1}
+José Abel de la Fuente-Arriaga	{"Eduardo Garduf1o-Calderf3n": 1, "Edgardo Manuel Felipe Riverf3n": 1}
+José Alfredo Padilla-Medina	{"Javier Dedaz-Carmona": 1, "Norma Amador-Licona": 1, "Juan Prado-Olivarez": 1, "Delia Galicia-Resendiz": 1, "Luz M. Cardona-Torres": 1}
+José C. M. Mombach	{"Rejane A. Ferreira": 1, "Ney Lemke": 1, "Eduardo Isaia": 1, "Norma M. da Silva": 1, "Cle1udia K. Barcellos": 1}
+José Carlos Dafonte Vázquez	{"Bernardino Arcay Varela": 1, "Alfonso Castro Martednez": 1, "c1ngel Gf3mez": 1}
+José David Martín-Guerrero	{"Emilio Soria-Olivas": 1, "Juan Jose9 Pe9rez-Ruixo": 1, "Gustavo Camps-Valls": 1, "N. Vedctor Jime9nez-Torres": 1, "Antonio J. Serrano-Lf3pez": 1}
+José Gómez-Tames	{"Siyu He": 1, "Koichi Ito": 1, "Kazuyuki Saito": 1, "Wenwei Yu": 1, "Yuto Fukuhara": 1}
+José Luis García Arroyo	{"Begof1a Garceda Zapirain": 1}
+José M. Urquiza	{"Ignacio Rojas": 1, "J. P. Florido": 1, "Maria del Mar Cepero": 1, "Luis Javier Herrera": 1, "He9ctor Pomares": 1, "Olga Valenzuela": 1}
+José María Mateos-Pérez	{"Santiago Pef1a-Zalbidea": 1, "Juan Jose9 Vaquero": 1, "Mareda Luisa Soto-Montenegro": 1, "Manuel Desco": 1}
+Joubin Nasehi Tehrani	{"Alistair Lee McEwan": 1, "Tong In Oh": 1, "Craig T. Jin": 1, "Aravinda Thiagalingam": 1}
+João Carlos Setubal	{"Sergio Verjovski-Almeida": 1}
+João Dallyson Sousa de Almeida	{"Jorge Antonio Meireles Teixeira": 2, "Marcelo Gattass": 1, "Anselmo Cardoso de Paiva": 2, "Aristf3fanes Correaa Silva": 2}
+Ju Hwan Lee	{"Sung Min Kim": 1}
+Juan Antonio Martínez-Mera	{"Jorge Juan Sue1rez-Cuenca": 1, "Pablo G. Tahoces": 1, "Miguel Souto": 1, "Jose9 M. Carreira-Villamor": 1}
+Juan Caravaca	{"Antonio J. Serrano": 1, "Luis Such-Miquel": 1, "Joan Vila-France9s": 1, "Manuel Bataller": 1, "Emilio Soria-Olivas": 1, "Juan-Francisco Guerrero-Martednez": 1}
+Juan Carlos Cuevas-Tello	{"Christian Alberto Garcia-Sepulveda": 1, "Daniel Herne1ndez-Ramedrez": 1}
+Juan Carlos Dibene	{"Oliver Schfctze": 1, "Carlos Vera": 1, "Yazmedn Maldonado": 1, "Leonardo Trujillo": 1, "Mauredcio C. de Oliveira": 1}
+Juan Cedano	{"Pedro Delicado": 1, "Enrique Querol": 1, "Mario Huerta": 1, "Irene Estrada": 1, "Oscar Conchillo": 1, "Frederic Ballllosera": 1}
+Juan Cruz Rodriguez	{"Germe1n Gonze1lez": 1, "Andrea S. Llera": 1, "Cristf3bal Fresno": 1, "Elmer Andre9s Ferne1ndez": 1}
+Juan D. García-Arteaga	{"Jan Kybic": 1, "Wenjing Li": 1}
+Juan Miguel García-Gómez	{"Juan Gf3mez-Sancheds": 1, "Emilio Soria-Olivas": 1, "Elies Fuster-Garceda": 1, "Pablo Escandell-Montero": 1}
+Juan Xu	{"Opas Chutatape": 1}
+Juan Zhang	{"Qianjin Feng": 1, "Zhentai Lu": 1, "Vadim Pigrish": 1, "Wufan Chen": 1}
+Judy R. James	{"Karmen K. Yoder": 1, "Olaniiyi Osuntokun": 1, "Andrew Kalnin": 1, "Evan D. Morris": 1, "Askiel Bruno": 1}
+Jui-Chen Huang	{}
+Julia Tzu-Ya Weng	{"Andrew T. A. Cheng": 1, "Paul Wei-Che Hsu": 1, "Lawrence Shih-Hsin Wu": 1, "Chau-Shoun Lee": 1}
+Juliana H. K. Kim	{"Mark L. Trew": 1, "Oliver Rf6hrle": 1, "Andrew J. Pullan": 1}
+Jun Feng 0006	{"Horace Ho-Shing Ip": 2, "Po K. Chan": 1, "Shuk Han Cheng": 1}
+Jun Jiang	{"Yadong Liu": 1, "Dewen Hu": 1, "Erwei Yin": 1, "Yang Yu 0014": 1, "Zongtan Zhou": 1}
+Jun Won Lee	{"Christophe G. Giraud-Carrier": 1}
+Jun Zhang 0011	{"Jin-Xing Liu": 1, "Hong-Qiang Wang": 1, "Chun-Hou Zheng 0001": 1}
+June Sic Kim	{"Jong-Min Lee": 1, "Yong-Hee Lee": 1, "Jae Seok Kim": 1, "Sun I. Kim": 1, "Kwang Suk Park": 1, "In-Young Kim": 1, "Joo Man Han": 1, "Chun Kee Chung": 1}
+June-Goo Lee	{"Hee Sun Park": 1, "Jong Hyo Kim": 1, "Se Hyung Kim": 1, "Byung Ihn Choi": 1}
+Jung Hun Oh	{"Joseph O. Deasy": 1}
+Jung-Leng Foo	{"Eliot H. Winer": 2, "Thom Lobe": 2, "Go Miyano": 2}
+Junhai Wen	{"Cuifen Li": 1, "Kangping Zhang": 1, "Zhengrong Liang": 1}
+Junhua Zhang 0001	{"Yuanyuan Wang": 1, "Yi Dong": 1, "Yi Wang": 1}
+Junior Barrera	{"Joe3o Eduardo Ferreira": 1, "Roberto Marcondes Cesar Jr.": 1, "Marco Dimas Gubitoso": 1}
+Junjie Zhang	{"Zhong Li": 1, "Shan Hu": 1, "Yan Liu": 1, "Zhengyu Li": 1, "Zhongdao Wu": 1, "Zhiyuan Liu": 1, "Yunyu Lin": 1, "Dandan Lin": 1}
+Junpeng Zhang	{"Lei Ma 0010": 1, "Jianfeng He 0001": 1, "Jiuyong Li": 1, "Bing Liu 0002": 1}
+Jurij Matija Kalisnik	{"Roman Trobec": 1, "Viktor Avbelj": 1, "Borut Gersak": 1}
+Jus Ksela	{"Piotr Suwalski": 1, "Gaj Vidmar": 1, "Grzegorz Suwalski": 1, "Viktor Avbelj": 2, "Borut Gersak": 1, "Jurij Matija Kalisnik": 2, "Kazimierz Suwalski": 1}
+Justus Adamson	{"Tingliang Zhuang": 1, "Fang-Fang Yin": 1}
+Justyna Wlodarczyk	{"Zbislaw Tabor": 1, "Wadim Wojciechowski": 1, "Andrzej Urbanik": 1, "Kamila Czaplicka": 1}
+Juyoung Park	{"Kyungtae Kang": 1}
+Jyoti Prakash Medhi	{"Samarendra Dandapat": 1}
+Jyrki Rasku	{}
+Jérémy Terrien	{"Thora Steingrimsdottir": 1, "Brynjar Karlsson": 1, "Catherine Marque": 1, "Jean Gondry": 1}
+Jörn Kretschmer	{"Alexander Wahl": 1, "Knut Mf6ller": 1}
+K. Han Kim	{"R. Brent Gillespie": 1, "Bernard J. Martin": 1}
+K. J. Chua	{}
+K. P. Indiradevi	{"Elizabeth Elias": 1, "P. S. Sathidevi 0001": 1, "S. Dinesh Nayak": 1, "K. Radhakrishnan": 1}
+K. S. Sim	{"S. S. Chong": 1, "A. K. Chong": 1, "M. E. Nia": 1, "F. K. Chia": 1, "Siti Fathimah Abbas": 1, "C. P. Tso": 1}
+K. Sudarshan Vidya	{"E. Y. K. Ng": 2, "U. Rajendra Acharya": 2, "Dhanjoo N. Ghista": 2, "Ru San Tan": 2, "Siaw Meng Chou": 2}
+K. Vidya Sudarshan	{"U. Rajendra Acharya": 2, "Hamido Fujita": 1, "Vinod Chandran": 1, "Dhanjoo N. Ghista": 1, "Siaw Meng Chou": 1, "Kwan Hoong Ng": 1, "Muthu Rama Krishnan Mookiah": 1, "E. Y. K. Ng": 1, "Filippo Molinari": 1, "Ru San Tan": 1}
+Ka-Lok Ng	{"Jin-Shuei Ciou": 1, "Chien-Hung Huang": 1}
+Kai Xie	{"Jie Yang 0002": 1, "Gang Sun": 1, "Yue Min Zhu": 1}
+Kai-Cheng Hsu	{"Sung-Nien Yu": 1}
+Kalenia Márquez-Florez	{"Estevam Barbosa de Las Casas": 1, "Enrique Vergara-Amador": 1, "Diego Alexander Garzf3n-Alvarado": 1}
+Kamal Aboutabikh	{"Nader Aboukerdah": 1}
+Kamila Czaplicka	{"Wadim Wojciechowski": 1, "Zbislaw Tabor": 1, "Justyna Wlodarczyk": 1, "Andrzej Urbanik": 1}
+Karel Sedlár	{"Martin Vedtek": 1, "Helena Skutkova": 1, "Ivo Provaznik": 1}
+Karl Magtibay	{"Farbod Hosseyndoust Foomany": 1, "Patrick F. H. Lai": 1, "Kumaraswamy Nanthakumar": 1, "Mohammadali Beheshti": 1, "Nima Zamiri": 1, "Sridhar Krishnan 0001": 1, "Ste9phane Masse9": 1, "Karthikeyan Umapathy": 1, "John Asta": 1, "David A. Jaffray": 1}
+Karol Mikula	{"Olga Stasove1": 1, "Nadine Peyrie9ras": 1, "Mariana Remesedkove1": 1}
+Karthik Seetharaman	{"Vladimir V. Kulish": 2, "Hamidreza Namazi": 2}
+Karuppana Gounder Somasundaram	{"T. Kalaiselvi": 2}
+Katarzyna Pentos	{"Deta Luczycka": 1, "Radoslaw Wrf3bel": 1}
+Katharina Kuhn	{"Michael Ostertag": 1, "Michael H. Walter": 1, "Silke Ostertag": 1, "Ralph G. Luthardt": 1, "Heike Rudolph": 1}
+Kathrin Tertel	{"Nitin Tandon": 1, "Timothy M. Ellmore": 1}
+Kaushik Majumdar	{}
+Kazutsuna Yamaji	{"Shiro Usui": 1, "Hiroyuki Sakai 0005": 1, "Yoshihiro Okumura": 1}
+Ke Huang	{"Venkata Yellapantula": 1, "Valentin Dinu": 1, "Leslie Baier": 1}
+Kenichiro Koshiyama	{"Shigeo Wada": 1}
+Kenneth J. Ciuffreda	{"Bin Wang": 1, "Balamurali Vasudevan": 1}
+Keylla S. U. Aita	{"Semiramis Jamil Hadad do Monte": 1, "Me1rio S. C. Marroquim": 1, "Antf4nio Gilberto B. Coelho": 1, "Luiz Cle1udio Demes da Mata Sousa": 1, "Adalberto S. Silva": 1}
+Khader M. Hasan	{"Indika S. Walimuni": 1, "Humaira Abid": 1, "Klaus Hahn": 1}
+Khantharat Anekboon	{"Chidchanok Lursinsap": 1, "Suthat Fucharoen": 1, "Suphakant Phimoltares": 1, "Sissades Tongsima": 1}
+Kiao Inthavong	{"Jiyuan Tu": 1, "Z. F. Tian": 1, "Charlie Xue": 1, "William Yang": 1}
+Kimbroe J. Carter	{"Frank Castro": 1, "Edward Kessler": 1, "Barbara A. Erickson": 1}
+Kimia Kiani	{"Ahmad R. Sharafat": 1}
+Kin Foon Kevin Wong	{"Okito Yamashita": 1, "Andreas Galka": 1, "Tohru Ozaki": 1}
+Kishore Nannapaneni	{"Michael J. Welsh": 1, "Henry L. Keen": 1, "Todd E. Scheetz": 1, "Yehuda Ben-Shahar": 1, "Thomas L. Casavant": 1}
+Kiwan Han	{"Kwanguk Kim": 1, "Jae-Jin Kim": 3, "Jeonghun Ku": 1, "Min-Hyung Choi": 1, "Sun I. Kim": 1, "Junyoung Park": 1, "In-Young Kim": 2, "Hee Jeong Jang": 1, "Dong-Pyo Jang": 1, "Jungeun Shin": 1, "Chan-Hyung Kim": 1, "Sang Young Yoon": 1}
+Kiwoong Kim	{"Yong-Ho Lee": 1, "Jin-Mok Kim": 1, "Jang-Ho Bae": 1, "Hyukchan Kwon": 1}
+Koen A. Vermeer	{"Hans G. Lemij": 2, "Barrick Lo": 1, "Albert M. Vossepoel": 2, "Frans M. Vos": 2, "Qienyuan Zhou": 1}
+Kondo Claude Assi	{"Hubert Labelle": 1, "Farida Cheriet": 1}
+Kongkuo Lu	{"William E. Higgins": 1}
+Konstantin Levinski	{"Alexei Sourin": 1, "Vitali Zagorodnov": 1}
+Konstantina Kourou	{"George Rigas": 1, "Yorgos Goletsis": 1, "Steven Jacobs": 1, "Bart Meyns": 1, "Dimitrios I. Fotiadis": 1, "Konstantinos P. Exarchos": 1, "Themis P. Exarchos": 1, "Maria Giovanna Trivella": 1}
+Konstantinos K. Delibasis	{"Pantelis A. Asvestas": 1, "George K. Matsopoulos": 1, "Aristides I. Kechriniotis": 1}
+Konstantinos Kalpakis	{"Peter Fu-Ming Hu": 1, "Shiming Yang": 1, "Deborah M. Stein": 1, "Colin F. Mackenzie": 1, "Thomas M. Scalea": 1, "Lynn G. Stansbury": 1}
+Konstantinos Sidiropoulos	{"Dionisis A. Cavouras": 1, "Panagiota Ravazoula": 1, "Ioannis Kalatzis": 1, "Spiros Kostopoulos": 1, "Dimitris Glotsos": 1, "T. John Stonham": 1}
+Koo-Joo Kwon	{"Byeong-Seok Shin": 2, "Dong-Su Kang": 1, "Eun-Seok Lee": 1}
+Kouroush Sadegh Zadeh	{}
+Kristin R. Munch	{"Jose9 V. Pardo": 1, "Joel T. Lee": 1, "John V. Carlis": 1}
+Kristina Bliznakova	{"Zoi Kolitsi": 1, "J. Horrocks": 1, "Alberto Bravin": 1, "Giovanni Mettivier": 1, "Ivan Buliev": 1, "P. Liaparinos": 1, "Paolo Russo": 1, "Nicolas Pallikarakis": 1, "Herwig Requardt": 1, "Robert D. Speller": 1, "Peycho Popov": 1}
+Kristina Haase	{"Gholamreza Rouhi": 1}
+Kui Xiang	{"Chang-Xin Wang": 1, "Bing Nan Li": 1, "Xia Li Zhu": 1}
+Kumiko Ohashi	{"Sakiko Ota": 1, "Hiroshi Tanaka": 1, "Lucila Ohno-Machado": 1}
+Kun-Chang Yu	{"William E. Higgins": 1, "Erik L. Ritman": 1}
+Kun-Lin Hsieh	{"I-Ching Yang": 1}
+Kun-hong Liu	{"Bo Li 0002": 1, "Jun Zhang 0011": 1, "De-Shuang Huang": 1, "Guo-Yan Liu": 1, "Qingqiang Wu 0001": 1, "Ji-Xiang Du": 1}
+Kung-Jeng Wang	{"Bunjira Makond": 1, "Kung-Min Wang": 1}
+Kup-Sze Choi	{"Fu-Lai Chung": 1, "Vico Chung-Lim Chiang": 1, "Xuejian He": 1, "Zhaohong Deng": 1, "Sophia Soo": 1}
+Kurt Manal	{"David G. Lloyd": 1, "Roger V. Gonzalez": 1, "Thomas S. Buchanan": 1}
+Kuteesa R. Bisaso	{"Jackson K. Mukonzo": 1, "Ene I. Ette": 1}
+Kwanguk Kim	{"Sun I. Kim": 1, "Daeyoung Roh": 1, "Chan-Hyung Kim": 1}
+Kyun Bum Lee	{"Young Sun Jeon": 1, "Sung Kyun Kim": 1, "Seung-Kyu Chung": 1}
+Kyung Koh	{"Yoon Hyuk Kim": 1, "Won Man Park": 1, "Kyungsoo Kim": 1}
+Kyungmoo Lee	{"Thomas D. Scholz": 1, "Yin Yin": 1, "Milan Sonka": 1, "Andreas Wahle": 1, "Ryan K. Johnson": 1, "Mark E. Olszewski": 1}
+Kyungsook Han	{"Yanga Byun": 1}
+Kálmán Palágyi	{"Milan Sonka": 1, "Juerg Tschirren": 1, "Eric A. Hoffman": 1}
+L. Zhang	{"W. Qian": 1, "Ravi Sankar": 1}
+Laetitia Fradet	{"Fre9de9ric Marin": 1}
+Lambros S. Athanasiou	{"Daniele Panetta": 1, "George A. Rigas": 1, "Oberdan Parodi": 1, "Gualtiero Pelosi": 1, "Panagiotis K. Siogkas": 1, "Antonis I. Sakellarios": 1, "Lampros K. Michalis": 1, "Katerina K. Naka": 1, "Dimitrios I. Fotiadis": 1, "Themis P. Exarchos": 1, "Federico Vozzi": 1}
+Lara Harrison	{"Pirkko-Liisa Kellokumpu-Lehtinen": 1, "Hannu Eskola": 1, "Hannu Pertovaara": 1, "Ritva Je4rvenpe4e4": 1, "Prasun Dastidar": 1, "Seppo Soimakallio": 1, "Tiina Luukkaala": 1}
+Larisa G. Tereshchenko	{"Jonathan W. Waks": 1, "Elyar Ghafoori": 1, "Mark E. Josephson": 1, "Alexei Shvilkin": 1, "Muammar M. Kabir": 1}
+Lars Ole Schwen	{"Tobias Preusser": 1, "Andrea Schenk": 1, "Michael Schwier": 1, "Uta Dahmen": 1, "Olaf Dirsch": 1, "Andre9 Homeyer": 1, "Arne Schenk": 1, "Lars Kuepfer": 1}
+Lassi Autio	{"Jorma Laurikkala": 1, "Martti Juhola": 1}
+Laura Cercenelli	{"Emanuela Marcelli": 1, "Giuseppe Giannaccare": 1, "Ivan Corazza": 1, "Michela Fresina": 1, "Guido Tiberi": 1}
+Laura Donoghue	{"Maeve Leonard": 1, "Tiago Elias": 1, "David Meagher": 1, "Dimitrios Adamis": 1, "James Meagher": 1, "Colum Dunne": 1, "Chris Exton": 1}
+Laurens E. Howle	{"Paul W. Weber": 1, "Richard D. Vann": 1}
+Lawrence T. Wang	{"Paul M. Medin": 1, "Timothy D. Solberg": 1, "Rex Boone": 1}
+Lei Chen 0053	{"Shihong Wang": 1}
+Lei Hu	{"Lihai Zhang": 1, "Liquan Wang": 1, "Hailong Du": 1, "Jie Zhang": 1, "Yun Wang": 1, "Changsheng Li": 1, "Yan Yang": 1, "Peifu Tang": 1, "Liming Fang": 1}
+Lei Zhong	{"Qing-Qing Xie": 1, "Lin-Li Li": 1, "Hua-Lin Wan": 1, "Chang-Ying Ma": 1, "Li-Jun Yang": 1, "Sheng-Yong Yang": 1, "Hui Zhang 0007": 1}
+Leiner Barba-J	{"Ernesto Moya-Albor": 1, "Jorge Brieva": 1, "Boris Escalante-Ramedrez": 1, "Enrique Vallejo 0002": 1}
+Leonardo Ciocca	{"Paolo Baldissara": 1, "Ilaria Gallina": 1, "Eugenio Navacchia": 1, "Roberto Scotti": 1}
+Leslie S. Prichep	{"William Koppes": 2, "J. Stephen Huff": 2, "Arnaud E. Jacquin": 2, "Samanwoy Ghosh-Dastidar": 2, "Thomas Radman": 1, "Jonathan Miller 0004": 2, "Rosanne Naunheim": 2, "Brian O\'Neil": 2}
+Lezheng Yu	{"Yizhou Li": 1, "Xuemei Pu": 1, "Jiesi Luo": 1, "Yanzhi Guo": 1, "Menglong Li": 1}
+Li Liu	{"Zhaofang Yin": 1, "Shao-Dan Zhou": 1, "Rui Lu": 1, "Xueyun Ma": 1, "Fen Xie": 1, "Choi-Hong Lai": 1}
+Li Liu 0024	{"Weikai Lin": 1, "Mingwu Jin": 1}
+Li Lu 0007	{"Guozheng Yan": 1, "Jingjing Sun": 1}
+Li Zhang 0004	{"Liqiang Qian": 1, "Chuntao Ding": 1, "Weida Zhou": 1, "Fanzhang Li": 1}
+Li-Yeh Chuang	{"Cheng-Huei Yang": 1, "Cheng-Hong Yang 0001": 1, "Kuo-Chuan Wu": 1}
+Lian En Chai	{"Safaai Deris": 1, "Mohd Saberi Mohamad": 1, "Swee Thing Low": 1, "Swee Kuan Loh": 1, "Zalmiyah Zakaria": 1}
+Lian Gao	{"Kexin Zhang": 1, "Junhua Zhang 0001": 1, "Xinling Shi": 1, "Yufeng Zhang 0002": 1, "Guanghui Cai": 1}
+Liang-Yu Shyu	{"Chun-Peng Liu": 1, "Yuh-Shii Lin": 1, "Chih Wei Hu": 1}
+Lichun Ma	{"Victor H. F. Lee": 1, "Hong Yan 0001": 1, "Maria P. Wong": 1, "Yiqing Huang": 1, "Debby Dan Wang": 1}
+Lida Zhu	{"Juan Liu": 1}
+Lidia Ogiela	{"Ryszard Tadeusiewicz": 1, "Marek R. Ogiela": 1}
+Lidong Wang	{}
+Lili Xiong	{"Zhiyun Guo": 1, "Wei Jiang": 1, "Rui Zhou": 1, "Canquan Mao": 1}
+Lili Zhao	{"En Zhu": 1, "Jianping Yin": 1, "Chengkun Wu": 1, "Siqi Wang 0001": 1, "Kuan Li": 1, "Mao Wang": 1, "Chengzhang Zhu": 1}
+Lin Cheng	{"Veronica Morgan": 1, "Matthew D. Blackledge": 1, "Thorsten Feiweier": 1, "David J. Collins": 1, "Mihaela Rata": 1, "Matthew R. Orton": 1, "Nina Tunariu": 1, "Neil P. Jerome": 1, "Martin O. Leach": 1, "Dow-Mu Koh": 1}
+Lina El Khansa	{"Amine Naeft-Ali": 1}
+Linda Achour	{"Christophe Letellier": 1, "Jean-Frane7ois Muir": 1, "Antoine Cuvelier": 1, "Eric Ve9rin": 1}
+Linfei Xiong	{"Chee-Kong Chui": 1, "Yao Li": 1, "Chee Leong Teo": 1, "Yabo Fu": 1}
+Ling Chen 0005	{"Wei Liu 0010": 1}
+Lingyun Zou	{"Yongxian Wang": 1, "Fuquan Hu": 1, "Zhengzhi Wang": 1}
+Linkai Luo	{"Ling-Jun Ye": 1, "Dengfeng Huang": 1, "Fan Yang 0010": 1, "Meixiang Luo": 1, "Hong Peng": 1}
+Linping Xiong	{"Weidong Tang": 1, "Wenhua Tian": 1}
+Linwei Wang	{}
+Liping Zhang	{"Xueliang Zhang": 1, "Yujian Zheng": 1, "Yanling Zheng": 1, "Kai Wang 0004": 1}
+Liqun Qiu	{"Thomas Sick": 1, "Weizhao Zhao": 1}
+Lisheng Xu	{"Naimin Li": 1, "David Zhang 0001": 1, "Kuanquan Wang": 1, "Xiaoyun Wang": 1}
+Lixin Guo	{"Ming Zhang 0002": 1, "Yimin Zhang 0003": 1, "Bangchun Wen": 1, "Zhao-Wen Wang": 1, "Jin-Li Li": 1}
+Lorena Orosco	{"Pablo F. Diez": 1, "Eric Laciar": 1, "Agustina Garce9s Correa": 1}
+Lu Li	{"Hu Peng": 1, "Xun Chen": 1, "Dayong Gao": 1, "Juan Cheng": 1}
+Lu Wang 0001	{"Dazhe Zhao": 1, "Dan Song 0003": 1, "Kuanquan Wang": 1, "Lisheng Xu": 2, "Shuting Feng": 1, "Yang Yao": 1, "Max Q.-H. Meng": 1}
+Lu-Chou Huang	{"Chia-Hung Hsiao": 1, "Huei-Chung Chu": 1, "Chung-Yueh Lien": 1, "Tsair Kao": 1}
+Luan F. R. Costa	{"Eduardo S. da Silva": 1, "Marcelino M. de Andrade": 1, "Ivone Vaz-Moreira": 1, "Olga C. Nunes": 1, "Victor T. Noronha": 1}
+Luc Pronzato	{"Andrej Pe1zman": 1}
+Luca Cattani	{"Francesco Pisani": 1, "Davide Alinovi": 1, "Carlotta Spagnoli": 1, "Gianluigi Ferrari": 1, "Riccardo Raheli": 1, "Elena Pavlidis": 1}
+Luca Di Angelo	{"Paolo Di Stefano": 1, "Maria Adelaide Continenza": 1, "Sara Bernardi": 1}
+Luca Faes	{"Alberto Porta": 1, "Giandomenico Nollo": 1}
+Luca Mesin	{}
+Luca Saba	{"Nobutaka Ikeda": 1, "U. Rajendra Acharya": 1, "Harman S. Suri": 1, "Kristen M. Meiburger": 1, "Jasjit S. Suri": 2, "Klaudija Viskovic": 1, "Andrew Nicolaides": 2, "Ajay Gupta": 1, "Sumit K. Banchhor": 1, "Narendra D. Londhe": 1, "John R. Laird": 1, "Filippo Molinari": 1, "Shoaib Shafique": 1, "Tadashi Araki": 1}
+Lucas Frighetto-Pereira	{"Rangaraj Mandayam Rangayyan": 1, "Guilherme Augusto Metzner": 1, "Paulo Mazzoncini de Azevedo Marques": 1, "Marcello Henrique Nogueira-Barbosa": 1}
+Lucia Dettori	{"Lindsay Semler": 1}
+Ludmila I. Kuncheva	{"Victor J. del Rio Vilas": 1, "Juan J. Rodredguez Diez": 1}
+Lufeng Hu	{"Guangliang Hong": 1, "Jianshe Ma": 1, "Xianqin Wang": 1, "Huiling Chen": 1}
+Luigi Gallo	{"Giuseppe De Pietro": 1, "Aniello Minutolo": 1}
+Luigi Yuri Di Marco	{"Daniel Raine": 1, "John P. Bourke": 1, "Philip Langley": 1}
+Luis Antonio Aguirre	{"c1lvaro V. P. Souza": 1}
+Luis Guimarães	{"Maria P. C. Schneider": 1, "Anderson Miyoshi": 1, "Jerf4nimo Lameira": 1, "Nate1lia F. Silva": 1, "Davi S. B. Brasil": 1, "Artur Silva": 1, "Cle1udio Nahum Alves": 1, "Vasco Azevedo": 1}
+Luis de Santiago	{"M. Ortiz del Castillo": 1, "Luciano Boquete": 1, "Alexander Klistorner": 1, "A. J. Ferne1ndez-Rodredguez": 1, "Rafael Barea": 1, "Juan Manuel Miguel-Jime9nez": 1, "Jose9 Manuel Rodredguez Ascariz": 1}
+Luiz Carlos Bertucci Barbosa	{"Saulo Santesso Garrido": 1, "Reinaldo Marchetto": 1}
+Luiz Cláudio Demes da Mata Sousa	{"Fernando da Fonseca de Souza": 1, "Semiramis Jamil Hadad do Monte": 1, "Pedro de Alce2ntara dos Santos Neto": 1}
+Luiz Felipe Mendes	{"Ely Edison Matos": 1, "Regina M. M. Braga": 1, "Laryssa Machado da Silva": 1, "Fernanda Campos": 1}
+Lukasz Jelen	{"Michal Jelen": 1, "Thomas Fevens": 1, "Adam Krzyzak": 1}
+Lukasz Plociniczak	{"Graham W. Griffiths": 1, "William E. Schiesser": 1}
+Lukás Zach	{"Lenka Kuncicke1": 1, "Radim Kocich": 1, "Pavel Ruzicka": 1}
+Luminita Moraru	{"Anjan Biswas": 1, "Dorin Bibicu": 1}
+Lun-chien Lo	{"Ker-Cheng Lin": 1, "Yuan-Nian Hsu": 1, "Tsung-Po Chen": 1, "Yung-fu Chen": 1, "John Y. Chiang": 1, "Yin-Tso Liu": 1}
+Lynda Dib	{}
+M. A. Pérez	{"N. Nuf1o": 1, "Jose9 Manuel Garceda Aznar": 1, "A. Madrala": 1, "Manuel Doblare9": 1}
+M. Alper Selver	{"Aykut Kocaoglu": 1, "Hatice Dogan": 1, "Oguz Dicle": 1, "Gfcleser Kalayci Demir": 1, "Cfcneyt Gfczelis": 1}
+M. B. A. Mansour	{}
+M. B. Sanjay Pande	{"K. S. Jagannatha Rao": 1, "Murlidhar L. Hegde": 1, "T. S. Sathyanarayana Rao": 1, "P. Nagabhushan": 1}
+M. Diciolla	{"H. Suzuki": 1, "Francesco Paolo Schena": 1, "A. M. Ve5gane": 1, "David Naso": 1, "R. Bjf8rneklett": 1, "Giulio Binetti": 1, "Francesco Pesce": 1, "Y. Tomino": 1, "Tommaso Di Noia": 1}
+M. Emre Cek	{"F. Acar Savaci": 1, "Murat d6zgf6ren": 1}
+M. Finck	{"I. Wlokas": 1, "D. He4nel": 1}
+M. Gammuto	{"S. Martelli": 1, "A. Russo": 1, "C. Trozzi": 1, "L. Bragonzoni": 1}
+M. H. Ahmad Fadzil	{"Hanung Adi Nugroho": 1, "Lila Iznita Izhar": 1}
+M. Julián	{"Rafal Alcaraz": 1, "Jose9 Joaquedn Rieta": 1}
+M. Kemal Kiymik	{"Alper Dizibfcyfck": 1, "Mehmet Akin": 1, "Inan Gfcler": 1}
+M. Keuchel	{"N. Kurniawan": 1, "P. Baltes": 1, "Anastasios Koulaouzidis": 1, "Dirk Bandorski": 1}
+M. M. Zheng	{"S. M. Krishnan": 1, "Marta P. Tjoa": 1}
+M. Muthu Rama Krishnan	{"Chandan Chakraborty": 1, "Mousumi Pal": 1, "Suneel K. Bomminayuni": 1, "Jyotirmoy Chatterjee": 1, "Ajoy Kumar Ray": 1, "Ranjan Rashmi Paul": 1}
+M. Sahihi	{"Y. Ghayeb": 1}
+M. Usman Akram	{"Shehzad Khalid": 1, "Anam Tariq": 1, "Shoab Ahmad Khan": 1, "Farooque Azam": 1}
+M. V. K. Karthik	{"M. V. K. N. Satya Deepak": 1, "Pratyoosh Shukla": 1}
+M. W. Roos	{"Martin Berggren": 1, "Eddie Wadbro": 1}
+Maciej Kozarski	{"Marek Darowski": 1, "Arkadiusz Tokarz": 1, "Krystyna Gf3rczynska": 1, "Krzysztof Zielinski": 1, "Gianfranco Ferrari": 1, "Krzysztof J. Palko": 1}
+Magnus W. Roos	{}
+Mahdi Jalili	{"Marjan Yaghmaie": 1, "Kamran Alimoghaddam": 1, "Ardeshir Ghavamzadeh": 1, "Ali Salehzadeh-Yazdi": 1, "Maria G. Knyazeva": 1}
+Mahdi Khezri	{"Mehran Jahed": 1}
+Mahendra Kumar Prajapat	{"Supreet Saini": 1}
+Mahsa Akhbari	{"Christian Jutten": 1, "Mohammad Bagher Shamsollahi": 1, "Omid Sayadi": 1, "Antonis A. Armoundas": 1}
+Maja Cic	{"Josko Soda": 1, "Mirjana Bonkovic": 1}
+Maja Pohar	{"Janez Stare": 1}
+Majdi Al-Qdah	{"Abdul Rahman Ramli": 1, "Rozi Mahmud": 1}
+Majid Mahrooghy	{"Jack A. Tuszynski": 1, "Vahid Rezania": 1, "Shantia Yarahmadian": 1, "Vineetha Menon": 1}
+Majid Mohammadi	{"Ghosheh Abed Hodtani": 1}
+Malar Elangeeran	{"D. Chakravarthy": 1, "A. Kandaswamy": 1, "A. Giri Dharan": 1}
+Mamadou Bilo Doumbouya	{"Hugues Kenfack": 1, "Clovis Foguem": 1, "Bernard Kamsu-Foguem": 1}
+Maneesh Shrivastav	{"Paul Anthony Iaizzo": 1}
+Manne Hannula	{"Tuomo Leino": 1, "Kerttu Huttunen": 1, "Tomi Laitinen": 1, "Jukka Koskelo": 1}
+Manuel Blanco-Velasco	{"Binwei Weng": 1, "Kenneth E. Barner": 1}
+Manuel Carlos Díaz-Galiano	{"Mareda Teresa Martedn-Valdivia": 1, "Luis Alfonso Uref1a Lf3pez": 1}
+Manuel Chica	{"Rube9n Rodredguez": 2, "Pascual Campoy Cervera": 2, "d3scar Valdemoros": 2, "Mareda A. Pe9rez": 2, "Tome1s Rodredguez": 2}
+Manuel Graña	{"Sebastie1n A. Redos": 1, "Carlos Toro 0001": 1, "Darya Chyzhyk": 1}
+Manuel López-Cano	{"Manuel Armengol-Carrasco": 1, "Antonio Susedn": 1, "Alfonso Rodredguez-Baeza": 1, "Javier Rodredguez-Navarro": 1}
+Marc Garbey	{"Claude O. Clerc": 1, "Vid Fikfak": 1, "Remi Salmon": 1}
+Marc Puls	{"Simon D. Steppacher": 1, "Moritz Tannast": 1, "Jens Kowal": 1, "Klaus-Arno Siebenrock": 1, "Timo Ecker": 1}
+Marcel Betsch	{"Mohssen Hakimi": 1, "Joachim Windolf": 1, "Thomas Horstmann": 1, "Michael Wild": 1, "Walter Rapp": 1, "Pascal Jungbluth": 1, "Bart Haex": 1}
+Marcela A. Vizcay	{"Manuel A. Duarte-Mermoud": 1, "Mareda de la Luz Aylwin": 1}
+Marcelo Cezar Pinto	{"Luciana Foss": 1, "Jose9 Carlos Merino Mombach": 1, "Leila Ribeiro 0001": 1}
+Marcelo Cicconet	{"Michelle Gutwein": 1, "Davi Geiger": 1, "Kristin C. Gunsalus": 1}
+Marcelo Emílio Beletti	{"Matheus Palhares Viana": 1, "Luciano da Fontoura Costa": 1}
+Marcin Binkowski	{"Wim J. G. Oyen": 1, "M. Barink": 1, "Nico Verdonschot": 1, "E. Tanck": 1, "Andrzej Jan Dyszkiewicz": 1, "Zygmunt Wrf3bel": 2}
+Marcin Ciecholewski	{"Jakub Chocholowicz": 1}
+Marcin Ochab	{"Wieslaw Wajs": 1}
+Marco Masseroli	{"Francesco Pinciroli": 2, "Alberto Visconti": 1, "Simone Giovanni Bano": 1}
+Marco Scianna	{"Eleonora Bassino": 1, "Luca Munaron": 1, "Luigi Preziosi": 1}
+Marcos A. Knewitz	{"Jose9 C. M. Mombach": 1}
+Marcus Fraga Vieira	{"A. F. Kohn": 1}
+Marek Kowal	{"Pawel Filipczuk": 1, "Andrzej Obuchowicz": 1, "Jf3zef Korbicz": 1, "Roman Monczak": 1}
+Marek Kurzynski	{"Pawel Trajdos": 1, "Andrzej Wolczowski": 1, "Maciej Krysmann": 1}
+Margarita Fernandez	{"Minaya Villasana": 1, "Dan Streja": 1}
+Maria Antonietta Pascali	{"Daniela Giorgi": 1, "Pedro Henredquez": 1, "Bogdan J. Matuszewski": 1, "Sara Colantonio": 1, "Luca Bastiani": 1, "E. Buzzigoli": 1, "Maria-Aurora Morales": 1}
+Maria Chiara Carminati	{"Francesco Maffessanti": 1, "Enrico Gianluca Caiani": 1}
+Maria Cristina Bisi	{"Gianni Gnudi": 1, "Rita Stagni": 1}
+Maria Filomena Santarelli	{"Daniele Della Latta": 1, "Vincenzo Positano": 1, "Michele Scipioni": 1, "Luigi Landini": 1}
+Maria Gabriella Tana	{"Roberta Sclocco": 1, "Anna Maria Bianchi": 1}
+Maria Pia Saccomani	{"Leontina D\'Angif2": 1, "Stefania Audoly": 1, "Giuseppina Bellu": 1}
+Maria Romano	{"Mario Sansone": 1, "Mario Cesarelli": 1, "Paolo Bifulco": 1, "Marcello Bracale": 1, "Andrea Di Lieto": 1, "Marianna De Falco": 1, "Marta Campanile": 1}
+Maria Tito	{"Armando Barreto": 1, "Mercedes Cabrerizo": 1, "Ian Miller": 1, "Malek Adjouadi": 1, "Prasanna Jayakar": 1, "Melvin Ayala": 1}
+Marian Kotas	{}
+Marian Uhercik	{"Jan Kybic": 1, "Christian Cachard": 1, "Yue Zhao 0002": 1, "Herve9 Liebgott": 1}
+Marina G. Holyavka	{"A. V. Kabanov": 1, "Vladislav M. Komarov": 1, "Valeriy G. Artyukhov": 1, "A. A. Samchenko": 1, "Maxim S. Kondratyev": 1}
+Marina S. Rebelo	{"Marco Antonio Gutierrez": 1, "Se9rgio Shiguemi Furuie": 1, "E. T. Costa": 1, "L. A. Moura": 1}
+Mario Cesarelli	{"Paolo Bifulco": 2, "Marcello Bracale": 1, "Maria Romano": 2, "Fiammetta Fedele": 1}
+Marion K. Campbell	{"Graeme S. MacLennan": 1, "Sean Thomson": 1, "Craig R. Ramsay": 1, "Jeremy M. Grimshaw": 1}
+Marisol Martinez-Escobar	{"Eliot H. Winer": 2, "Bethany Juhnke": 1, "Kenneth Hisley": 1, "David Eliot": 1, "Joseph Holub": 1, "Jung-Leng Foo": 1}
+Maristella Borges Silva	{"Alcimar Barbosa Soares": 1, "Andrei Nakagawa Silva": 1, "Eduardo Le1zaro Martins Naves": 1, "Evanisi Teresa Palomari": 1}
+Mariya A. Toropova	{"Me1ria Raskove1": 1, "Andrey A. Toropov": 1, "Ivan Raska Jr.": 1}
+Mark A. Nicosia	{}
+Mark A. Rossman	{"Malek Adjouadi": 1, "Ilker Yaylali": 1, "Melvin Ayala": 1}
+Mark H. Milman	{"Roger W. Jelliffe": 1, "F. Jiang": 1}
+Mark Hoogendoorn	{"Zulfiqar Ali Memon": 1, "Jan Treur": 1, "Michel C. A. Klein": 1}
+Mark J. Schroeder	{"Daniel L. Ewert": 1, "Bill Perreault": 1, "Steven C. Koenig": 1}
+Mark M. Stecker	{}
+Mark P. Wachowiak	{"Michel J. Johnson": 1, "Dean C. Hay": 1}
+Mark Sh. Levin	{"Michael A. Firer": 1}
+Markku Siermala	{"Erna Kentala": 1, "Martti Juhola": 2, "Mauno Vihinen": 1}
+Markus J. Barten	{"Axel Rahmel": 1, "Andreas Boldt": 1, "Hartmuth B. Bittner": 1, "Friedrich W. Mohr": 1, "Attila Tarnok": 1, "Jan F. Gummert": 1, "Stefan Dhein": 1}
+Martin Komenda	{"Nabil Zary": 1, "Jan Svancara": 1, "Daniel Schwarz": 1, "Ladislav Dusek": 1, "Christos Vaitsis": 1}
+Martin Kompis	{"Urs Brugger": 1, "Markus Oberli": 1}
+Martin Schmid	{"Helga Prettenthaler": 1, "Christian Weger": 1, "Karl-Heinz Smolle": 1}
+Martin Steinisch	{"Paul R. Torke": 1, "Birgit Hailer": 1, "Silvia Comani": 1, "Dietrich H. W. Grf6nemeyer": 1, "Jens Haueisen": 1, "Peter Van Leeuwen": 1}
+Martin Tabakov	{"Pawel Kozak": 1}
+Martti Juhola	{"Jorma Laurikkala": 1, "Timo Tossavainen": 1, "Harri Siirtola": 1, "Kirsi Penttinen": 1, "Katriina Aalto-Sete4le4": 1, "Jari A. K. Hyttinen": 1, "Howard T. Jacobs": 1, "Youming Zhang": 1, "Jyrki Rasku": 2, "Kati Iltanen": 1, "Heikki Aalto": 1, "Kirsi Varpa": 1, "Jyri Saarikoski": 2, "Henry Joutsijoki": 1, "Heikki Hyyrf6": 1}
+Maruti J. Dhanavade	{"Sagar H. Barage": 1, "Kailas D. Sonawane": 1, "Chidambar B. Jalkute": 1}
+Marvin A. Soriano-Ursúa	{"Jorge O. Ocampo-Lf3pez": 1, "Jose9 G. Trujillo-Ferrara": 1, "Jose9 Correa-Basurto": 1, "Karina Ocampo-Mendoza": 1}
+Maryam Afzali	{"Aboozar Ghaffari": 1, "Hamid Soltanian-Zadeh": 2, "Kost V. Elisevich": 1, "Emad Fatemizadeh": 1}
+Maryam Songhorzadeh	{"Alimorad Mahmoudi": 1, "Karim Ansari-Asl": 1}
+María Elena Díaz	{"L. Martednez-Costa": 1, "Rafael Sebastie1n": 1, "Guillermo Ayala": 1}
+María J. Lado	{"Javier Roca-Pardif1as": 1, "Arturo J. Me9ndez": 1, "Abraham Otero": 1, "Carmen Cadarso-Sue1rez": 1, "Pablo G. Tahoces": 1, "Leandro Rodredguez Lif1ares": 1, "Xose9 Antf3n Vila-Sobrino": 1}
+María Teresa Politi	{"Arthur R. Ghigo": 1, "Ismaefl Khelifa": 1, "Juan Manuel Ferne1ndez": 1, "Jose-Maria Fullana": 1, "Pierre-Yves Lagre9e": 1, "Julien Gaudric": 1}
+María-José Rodríguez-Alvarez	{"Pablo Conde": 1, "A. Orero": 1, "Filomeno Se1nchez": 1, "J. M. Benlloch": 1, "Amadeo Iborra": 1, "Antonio Soriano": 1, "L. F. Vidal": 1, "Laura Moliner": 1, "L. Herne1ndez": 1, "A. J. Gonze1lez": 1}
+Mashhour Bani Amer	{}
+Massimo Bernaschi	{"Filippo Castiglione": 2}
+Mathias Baumert	{"Renaldo Faber": 1, "Michal Javorka": 1, "Prashanthan Sanders": 1, "Andrea Seeck": 1, "Andreas Voss": 1}
+Mathias Bonmarin	{"Fre9de9rique-Anne Le Gal": 1}
+Mathias Haase	{"Gerd Schmalisch": 1, "Beate Meffert": 1}
+Mathias Wagner	{"Vilma Oliveira Frick": 1, "Benjamin Vicinus": 1, "Sherieda T. Muthra": 1, "Claudia Rubie": 1, "Tereza A. Richards": 1, "Frank Weichert": 1, "Roland Linder": 1, "Andreas Groh": 1}
+Matias Fernando Gerard	{"Diego H. Milone": 1, "Georgina Stegmayer": 1}
+Matjaz Sever	{"Marjan Kordas": 1, "Tomaz Podnar": 1, "Franc Runovc": 1}
+Matjaz Veselko	{"Ivan Godler": 1}
+Matteo Franzosi	{"Laura Castiglioni": 1, "Elena Nobili": 1, "Elena Tremoli": 1, "Luigi Sironi": 1, "Enrico G. Caiani": 1, "Uliano Guerrini": 1}
+Matthew D. Blackledge	{"David J. Collins": 1, "Martin O. Leach": 1, "Dow-Mu Koh": 1}
+Matthew D. Sinnott	{"John W. Arkwright": 1, "Paul W. Cleary": 1, "Phil G. Dinning": 1}
+Matthew McCormick 0002	{"David Nordsletten": 1, "Nicolas Smith": 1, "Pablo Lamata": 1}
+Maurilio Marcacci	{"Laura Nofrini": 1, "Mirco Lo Presti": 1, "Alessandro Di Martino": 1, "Simone Bignozzi": 1, "Francesco Iacono": 1}
+Mauro Miazaki	{"Matheus P. Viana": 1, "Cesar H. Comin": 1, "Luciano da F. Costa": 1, "Yaming Wang": 1, "Zhong Yang": 1, "Xiaoyin Xu": 1}
+Mauro Ursino	{"Matteo Ritrovato": 1, "Giuseppe Emiliano La Cara": 1}
+Maxime Yochum	{"Je9re9my Laforeat": 1, "Catherine Marque": 1}
+May T. Chou	{"Richard Tello": 1, "Paul McGinnis": 1}
+Maysam MashhadiMalek	{"Mohammad Ali Ahmadi-Pajouh": 1, "Shahriar Gharibzadeh": 1, "Farzad Towhidkhah": 1, "Verya Daeichin": 1}
+Maziyar Baran Pouyan	{"Javad Birjandtalab": 1, "Matthew Pompeo": 1, "Mehrdad Nourani": 1}
+Md. Jahoor Alam	{"Latika Bhayana": 1, "Gurumayum Reenaroy Devi": 1, "Heisnam Dinachandra Singh": 1, "R. K. Brojen Singh": 1, "B. Indrajit Sharma": 1}
+Md. Rafiul Hassan	{"Yos S. Morsi": 1, "M. Maruf Hossain": 1, "Rezaul K. Begg": 1, "Kotagiri Ramamohanarao": 1}
+Md. Saiful Islam 0001	{"Naif Alajlan": 1, "Hatim Aboalsamh": 1, "Nassim Ammour": 1}
+Megha Agrawal	{"Mugdha Gadgil": 1}
+Megumi Nakao	{"Tetsuo Sato": 1, "Kotaro Minato": 1, "Tadao Sugiura": 1, "Tomomi Nemoto": 1, "Ryosuke Kawakami": 1, "Tetsuya Matsuda": 1, "Kazuaki Sawada": 1, "Kosuke Kurebayashi": 1}
+Megumi Ochi	{"Shohei Kasugai": 1, "Daisuke Sato": 1, "Shigezo Hirano": 1, "Manabu Kanazawa": 1, "Shunsuke Minakuchi": 1}
+Mehdi Ahmadi	{"Rahim Jafari": 1, "Sayed-Amir Marashi": 1, "Ali Farazmand": 1}
+Mehmet Engin	{}
+Mehmet Suleyman Unluturk	{}
+Mehmet Z. Unlu	{"James A. Mandel": 1, "David H. Feiglin": 1, "Alphonso Magri": 1, "Ioana Coman": 1, "Wei Lee": 1, "Karl G. Baum": 1, "Andrzej Krf3l": 1, "Edward Lipson": 1}
+Meina Li	{"Lulu Zhang": 1, "Yangang Zhu": 1, "Chen Xue": 1, "Yuan Liu": 1}
+Melvin Ayala	{"Armando Barreto": 1, "Mercedes Cabrerizo": 1, "Maria Tito": 1, "Malek Adjouadi": 1}
+Meng-Hung Wu	{"George Zouridakis": 1, "Richard E. Frye": 1}
+Meritxell Tortajada	{"Lidia Tortajada": 1, "Jordi Freixenet": 1, "Melcior Senteds": 1, "Reyer Zwiggelaar": 1, "Sergi Ganau": 1, "Arnau Oliver": 1, "Robert Marti": 1}
+Mete Yeginer	{"Yasemin P. Kahya": 2}
+Mi-hye Song	{"Sungpil Cho": 1, "Kyoung-Joung Lee": 1, "Wonky Kim": 1}
+Mia K. Markey	{"Michael Margolis": 1, "Rene Vargas-Voracek": 1, "David M. DeLong": 1, "Carey E. Floyd Jr.": 1, "Joseph Y. Lo": 1, "Georgia D. Tourassi": 2}
+Miaomiao Zhao	{"Dongqing Wei": 1, "Fengfeng Zhou": 1, "Caiwan Zhang": 1, "Jiankui He": 1, "Yanjie Wei": 1, "Yunpeng Cai": 1, "Guanyu Wang": 1}
+Michael A. Khanin	{"Scott H. Kaufmann": 1, "Aleksey N. Lobanov": 1}
+Michael J. Harrison	{"Mathew Zacharias": 1, "Ross Scott-Weekly": 1}
+Michael Lynch	{"Paul F. Whelan": 1, "Ovidiu Ghita": 1}
+Michael Weidenbach	{"Sabine Trochim": 1, "Thomas Berlage": 1, "Gernoth Grunst": 1, "S. Kreutter": 1, "Christian Richter": 1}
+Michael Y. Hu	{"Christos Tsoukalas": 1}
+Michal Drozdzal	{"Santi Segued": 1, "Petia Radeva": 1, "Fernando Azpiroz": 1, "Carolina Malagelada": 1, "Jordi Vitrie0": 1}
+Michal Kruk	{"Stanislaw Osowski": 1, "Robert Koktysz": 1}
+Michal Krzeslak	{"Andrzej Swierniak": 1}
+Michal Walczak	{"Anna Sulikowska-Drozd": 1, "Marcin Binkowski": 1, "Zygmunt Wrf3bel": 1}
+Michalis E. Blazadonakis	{"Michalis E. Zervakis": 1}
+Michelle A. Fortier	{"Ariana Martinez": 1, "Sergio Gago Masague9": 1, "Leonard Sender": 1, "Winnie W. Chung": 1}
+Miguel A. Vera	{"Antonio Bravo": 1, "Rube9n Medina": 1}
+Milica M. Jankovic	{"Strahinja Odalovic": 1, "Ana Koljevic Markovic": 1, "Slobodanka Lj. Beatovic": 1, "Stevan Sekulic": 1, "Nikola Jorgovanovic": 1, "Mila V. Todorovic-Tirnanic": 1, "Boris Pijetlovic": 1, "Vojislav Antic": 1, "Dejan B. Popovic": 1}
+Min Soon Kim	{"E. Neely Atkinson": 1, "Elisabeth K. Beahm": 1, "Mia K. Markey": 1, "Gregory P. Reece": 1, "Michael J. Miller": 1}
+Min-Hung Chen	{"Po-Yuan Chen": 1, "Ching-Hsing Luo": 1}
+Ming-Dar Tsai	{"Shyan-Bin Jou": 1, "Chiung-Hsin Tsai": 1, "Ming-Shium Hsieh": 2}
+Ming-Shium Hsieh	{"Ming-Dar Tsai": 1, "Yi-Der Yeh": 1}
+Minglei Yang	{"Guangzhi Wang": 2, "Lei Zhu": 2, "Jingang Kang": 1, "Hui Ding 0003": 2, "Longfei Cong": 1}
+Miquel Vázquez-Santiago	{"Jose9 Manuel Soria": 1, "Juan Carlos Souto": 1, "Andrey Ziyatdinov": 1, "Nfaria Pujol-Moix": 1, "Helena Brunel": 1, "Agne8s Morera": 1}
+Mira Oh	{"Hyunju Lee": 1, "Bongjun Song": 1}
+Mirjana M. Platisa	{"Zorica Nestorovic": 1, "Ljiljana Gojkovic-Bukarica": 1, "Vera Gal": 1}
+Mirna Moukhtar	{"Wafi Chaar": 1, "Ziad Abdel-Razzak": 1, "Mohamad Khalil": 1, "Samir Taha": 1, "Hala Chamieh": 1}
+Mirza Mansoor Baig	{"Michael J. Harrison": 1, "Hamid Gholamhosseini": 1}
+Miyo Yokota	{"Larry Berglund": 1, "Daniel Moran": 1, "Margaret Kolka": 1, "Samuel Cheuvront": 1, "William Santee": 1, "William Latzka": 1, "Scott Montain": 1}
+Mohamad F. El-Khatib	{}
+Mohamed Adel Serhani	{"Mohamed El-Menshawy": 1, "Abdelghani Benharref": 1}
+Mohamed Meselhy Eltoukhy	{"Samir Brahim Belhaouari": 2, "Ibrahima Faye": 2}
+Mohammad A. Alzubaidi	{"Mwaffaq Otoom": 1, "Abdel-Karim Al-Tamimi": 1}
+Mohammad Faizal Ahmad Fauzi	{"Metin N. Gurcan": 1, "Karen Catignani": 1, "Ibrahim Khansa": 1, "Chandan K. Sen": 1, "Gayle Gordillo": 1}
+Mohammad Nouri	{"Farhang Jalali": 1, "Khalil Zarrabi": 1, "Gholamreza Karimi": 1}
+Mohammad Pourhomayoun	{"Zhanpeng Jin": 1, "Mark L. Fowler": 1}
+Mohammad Rahimi-Gorji	{"Tahereh B. Gorji": 1, "Mofid Gorji-Bandpy": 1}
+Mohammad Rahiminejad	{"Abdalrahman Haghighi": 1, "Omid Abouali": 1, "Mehrdad Farid": 1, "Goodarz Ahmadi": 1, "Alireza Dastan": 1}
+Mohammad Reza Arab	{"Alireza Rezaei Ashtiani": 1, "Amir Abolfazl Suratgar": 1}
+Mohammad Reza Homaeinezhad	{"M. ErfanianMoshiri-Nejad": 1, "H. Naseri": 1}
+Mohammad-Reza Siadat	{"Kost V. Elisevich": 1, "Hamid Soltanian-Zadeh": 1}
+Mohammadmersad Ghorbani	{"Michael Themis": 1, "Annette M. Payne": 1}
+Mohammed Al-Rawi 0001	{"Munib Qutaishat": 1, "Mohammed Arrar": 1}
+Mohammed Bahoura	{}
+Mohsen Keshani	{"Zohreh Azimifar": 1, "Reza Boostani": 1, "Farshad Tajeripour": 1}
+Mojtaba Tousheh	{"Mehran Miroliaei": 1, "Kamran Ghaedi": 1, "Ali Asghar Rastegari": 1, "Adam Matkowski": 1, "Abolghasem Esmaeili": 1}
+Monamorn Precharattana	{"Arthorn Nokkeaw": 1, "Wannapong Triampo": 1, "Darapond Triampo": 1, "Yongwimon Lenbury": 1}
+Monica Marcuzzo	{"Pedro Quelhas": 1, "Ana Maria Mendone7a": 1, "Ana Campilho": 1, "Aure9lio J. C. Campilho": 1}
+Monika N. Bugdol	{"Ewa Pietka": 1}
+Morteza Kouhsar	{"Zaynab Mousavian": 1, "Ali Masoudi-Nejad": 1, "Zahra Razaghi-Moghadam": 1}
+Moshe Brand	{"Michael Ryvkin": 1, "Shmuel Einav": 1, "Idit Avrahami": 1}
+Motahareh Moghtadaei	{"Farshad Almasganj": 1, "Mohammad Reza Hashemi Golpayegani": 1, "Arash Etemadi": 1, "Mohammad R. Akbari": 1, "Reza Malekzadeh": 1}
+Motoki Sakai	{"Daming Wei": 1}
+Muchenxuan Tong	{"Chungui Xu": 1, "Wenbin Ju": 1, "Kun-Hong Liu": 1}
+Muhammad A. Hasan	{"Vijay S. Chauhan": 1, "Sridhar Krishnan 0001": 1}
+Muhammad Abdullah Arafat	{"Md. Kamrul Hasan": 1, "Jubair Sieed": 1}
+Muhammad Faisal	{"Malik Mumtaz Taqi": 1, "Humaira Ismatullah": 1, "Durdana Waseem": 1}
+Muhammad Kabir	{"Maqsood Hayat": 1, "Saeed Ahmad": 1, "Muhammad Iqbal": 1}
+Muhammad Kashif	{"Thomas Martin Deserno": 1, "Daniel Haak": 1, "Stephan M. Jonas": 1}
+Muhammad Mubashir Bhatti	{"Rahmat Ellahi": 1, "Ahmed Zeeshan": 1}
+Muhammad Tayyeb Mirza	{"Muhammad Tahir": 1, "Asifullah Khan": 1, "Yeon Soo Lee": 1}
+Muneer Ahmad	{"Mohammad Al-Amin Bhuiyan": 1, "Low Tang Jung": 1}
+Murat Ceylan	{"Sadik Kara": 1, "Yfcksel d6zbay": 1, "Rahime Ceylan": 1, "Fatma Dirgenali": 1}
+Murat Özgören	{"Onur Bayazit": 1, "Serhat Taslica": 1, "Adile Oniz": 1, "Ugras Erdogan": 1}
+Murilo E. D. Gomes	{"Antf4nio L. P. Ribeiro": 1, "Luis A. Aguirre": 1, "Homero N. Guimare3es": 1}
+Musa H. Asyali	{"Ayse Altinok": 1, "Michael C. K. Khoo": 1, "Richard B. Berry": 1}
+Mustapha Zidi	{"M. Cheref": 1}
+Muthu Rama Krishnan Mookiah	{"Kevin Noronha": 2, "U. Rajendra Acharya": 4, "Eddie-Yin-Kwee Ng": 1, "Hamido Fujita": 2, "Sulatha V. Bhandary": 2, "Chua Kuang Chua": 4, "Jen Hong Tan": 3, "Vinod Chandran": 1, "Choo Min Lim": 3, "Joel E. W. Koh": 2, "Augustinus Laude": 4, "E. Y. K. Ng": 1, "Louis Tong": 3}
+Myung-Eun Lee	{"Soon-Young Park": 1, "Sun-Worl Kim": 1, "Jong Hyo Kim": 1, "Wanhyun Cho": 1}
+Márcio H. Costa	{"Mauredcio Campelo Tavares": 1}
+Márcio Holsbach Costa	{}
+Márton József Tóth	{"Bale1zs Cse9bfalvi": 1, "Le1szlf3 Ruskf3": 1}
+N. C. F. Machado	{"A. A. Martin": 1, "N. G. Azoia": 1, "P. Singh": 1, "Artur Cavaco-Paulo": 1, "Laurita dos Santos": 1, "P. P. Favero": 1, "B. G. Carvalho": 1, "C. A. Te9llez Soto": 1}
+N. M. Shakya	{"Robert W. LeAnder": 1, "S. M. Stricklin": 1, "Ryan K. Rader": 1, "K. A. Hinton": 1, "William V. Stoecker": 1, "Jason R. Hagerty": 1}
+Na Lu	{"Zuren Feng": 1, "Tengfei Li": 1, "Xiaodong Ren": 1, "Jinjin Pan": 1, "Hongyu Miao 0001": 1}
+Nafise Erfanian Saeedi	{"Farshad Almasganj": 2, "Farhad Torabinejad": 1}
+Nagesha	{"G. Hemantha Kumar": 1}
+Nami K. Takano	{"Takeshi Tsutsumi": 1, "Toshiaki Nakajima": 1, "Hiroshi Suzuki": 1, "Yoshiwo Okamoto": 1}
+Nandini Sengupta	{"Md. Sahidullah": 1, "Goutam Saha 0001": 1}
+Nannan Yu	{"Xiaoyan Wang": 1, "Haikuan Liu": 1, "Hanbing Lu": 1}
+Narjeskhatoon Habibi	{"Siti Zaiton Mohd Hashim": 1, "Mohd Shahir Shamsir": 1, "Alireza Norouzi": 1, "Razip Samian": 1}
+Natarajan Sathishkumar	{"Min Jin Woo": 1, "Subramaniyam Sathiyamoorthy": 1, "Veerappan Karpagam": 1, "Deok-Chun Yang": 1, "Yeon-Ju Kim": 1}
+Navid Noroozi	{"Ali Zakerolhosseini": 1}
+Nazife Cevik	{"Cemal Okan Sakar": 1, "Olcay Kursun": 1}
+Neal W. Sanders	{"N. Horace Mann III": 1}
+Necla Togun	{"Abdullah T. Demiryurek": 1, "Mehmet Tarakcioglu": 1, "Ataman Kose": 1, "Nurullah Gunay": 1}
+Necmettin Sezgin	{"M. Emin Tagluk": 1}
+Negar Memarian	{"Sandra Dewar": 1, "Sally Kim": 1, "Richard J. Staba": 1, "Jerome Engel Jr.": 1}
+Nehemiah T. Liu	{"Leopoldo C. Cancio": 1, "Jose9 Salinas": 1, "Andriy I. Batchinsky": 1}
+Neslihan Avcu	{"L. Cavas": 1, "H. Alyfcrfck": 1, "Ferhan Pekergin": 1, "Gfcleser Kalayci Demir": 1, "Cfcneyt Gfczelis": 1}
+Nesrine Zaglam	{"Philippe Jouvet": 1, "Farida Cheriet": 1, "Olivier Flechelles": 1, "Guillaume Emeriaud": 1}
+Nestor Walter Trepode	{"Junior Barrera": 1, "Cle9ver Ricardo Guareis de Farias": 1}
+Niall M. Adams	{"David J. Hand": 1}
+Nicandro Cruz-Ramírez	{"Rocedo-Erandi Barrientos-Martednez": 1, "He9ctor-Gabriel Acosta-Mesa": 1, "Humberto Carrillo-Calvet": 1, "Luis-Alonso Nava-Ferne1ndez": 1}
+Nicholas O. Oleng\'	{"Jaques Reifman": 1, "Andrei V. Gribok": 1}
+Nico Heussner	{"Martin S. Spitzer": 1, "Thorsten Beuth": 1, "Wilhelm Stork": 1, "Lukas Holl": 1, "Timo Nowak": 1}
+Nico Hidajat	{"Roland Felix": 1, "Rlaf J. Schroeder": 1, "Michael Cordes": 1}
+Nicola Francesco Lopomo	{"Andrea Visani": 1, "Maurilio Marcacci": 1, "Sandra Martelli": 1, "Stefano Zaffagnini": 1, "Francesco Iacono": 1, "Simone Bignozzi": 1}
+Nicola T. Shaw	{}
+Niels Wessel	{"Peter Van Leeuwen": 1}
+Nihal Fatma Güler	{"Elif Derya dcbeyli": 1}
+Nikola Kojic	{"A. Fatih Sarioglu": 1, "Daniel A. Haber": 1, "Miljan Milosevic": 1, "Dejan Petrovic": 1, "Milos Kojic": 1, "Velibor Isailovic": 1, "Mehmet Toner": 1}
+Nikolaos Giannakeas	{"Fanis G. Kalatzis": 1, "Petros S. Karvelis": 1, "Themis P. Exarchos": 1, "Dimitrios I. Fotiadis": 1}
+Niloofar Niknam	{"Hossein Naderi-manesh": 1, "Seyed Shahriar Arab": 1, "Hamed Khakzad": 1}
+Nilubon Kurubanjerdjit	{"Yu-Liang Lee": 1, "Ka-Lok Ng": 1, "Jeffrey J. P. Tsai": 1, "Chien-Hung Huang": 1}
+Nima Torbati	{"Ali Kermani": 1, "Ahmad Ayatollahi": 1}
+Ning Dai	{"Yicheng Zhong": 1, "Hao Liu 0029": 1, "Fusong Yuan": 1, "Yuchun Sun": 1}
+Ningning Guo	{"Libo Zeng": 1, "Qiongshui Wu": 1}
+Nini Rao	{"Jianxiu Guo": 1, "Xu Lei": 1, "Hao Huang": 1, "Zhenglong Ren": 1}
+Nizar Bouhlel	{"Sylvie Sevestre-Ghalila": 1}
+Norelle R. Reilly	{}
+Norzieha Mustapha	{"Santabrata Chakravarty": 1, "Norsarahaida Amin": 1, "Prashanta Kumar Mandal": 1}
+Nuno Oliveira 0003	{"R. Bugalho": 1, "Pedro Almeida 0001": 1, "Nuno C. Ferreira": 1, "Nuno Matela": 1}
+Nurettin Acir	{"Cfcneyt Gfczelis": 1}
+Nuri F. Ince	{"Ahmed H. Tewfik": 1, "Sami Arica": 1}
+O. Anwar Bég	{"Assma F. Elsayed": 1, "M. Davoodi": 1, "Joaquedn Zueco": 1, "A. A. Joneidi": 1, "Mahmood Norouzi": 1}
+Obdulia Ley	{"Chinmay V. Deshpande": 1}
+Ofer Barnea	{"Gabriel Gillon": 1}
+Olga Berillo	{"Anatoly Ivashchenko": 1, "Mireille Re9gnier": 1}
+Olivassé Nasario-Junior	{"Jurandir Nadal": 1, "Paulo Roberto Benchimol-Barbosa": 1, "M. Marocolo": 1, "G. A. Trevizani": 1}
+Oliver Bonham-Carter	{"Jay Pedersen": 1, "Dhundy Bastola": 1}
+Oliver Faust	{"U. Rajendra Acharya": 1, "Wenwei Yu": 1}
+Olivier Steichen	{"Marie-Christine Jaulent": 1, "Christel Daniel-Le Bozec": 1, "Maxime Thieu": 1, "Eric Zapletal": 1}
+Onur Osman	{"Serhat Ozekes": 1, "Osman N. Ue7an": 1}
+Oren Tirosh	{"Jenny McGinley": 1, "Richard Baker 0005": 1}
+Oscar Bedoya	{"Irene Tischer": 2}
+Oscar Chávez-Bosquez	{"Pilar Pozos Parra": 1}
+Otávio Augusto Bizetto Penatti	{"Waldir R. de Almeida": 1, "Ricardo da Silva Torres": 1, "Rafael de Oliveira Werneck": 1, "Daniel V. Pazinato": 1, "Pedro Ribeiro Mendes Jfanior": 1, "Bernardo V. Stein": 1, "Anderson Rocha 0001": 1}
+Ouardia Chilali	{"Adil Ouzzane": 1, "Moussa Diaf": 1, "Nacim Betrouni": 1}
+Oya Deniz Koçgil	{"Nazife Baykal": 1}
+P. A. Modesti	{"S. Rapi": 1, "G. E. Cambi": 1, "Marzia Baldereschi": 1, "Luciano Massetti": 1, "M. Bamoshmoosh": 1}
+P. Ajay Babu	{"Naishitha Anaparthy": 1, "Viswa Teja S. S. Colluru": 1}
+P. Anitha	{"Anand Anbarasu": 1, "Sudha Ramaiah": 1}
+P. Bharathi	{"K. S. Jagannatha Rao": 1, "P. Nagabhushan": 1}
+P. Lavanya	{"Harpeet Singh": 1, "Renu Bahadur": 1, "Sudha Ramaiah": 2, "Anand Anbarasu": 2}
+P. M. Gordaliza	{"Manuel Desco": 1, "Paula Montesinos": 1, "Jose9 Mareda Mateos-Pe9rez": 1, "Juan Adan Guzme1n-De-Villoria": 1, "Juan Jose9 Vaquero": 1}
+P. Paramanathan	{"R. Uthayakumar": 1}
+P. T. Krishna Kumar	{"S. Sitharama Iyengar": 1, "P. T. Vinod": 1, "Vir V. Phoha": 2, "S. S. Iyengar 0001": 1, "Puneeth Iyengar": 2}
+P. V. Sudeep	{"Yu Xiaojun": 1, "Xianghong Wang": 1, "Jeny Rajan": 1, "Linbo Liu": 1, "Yuemei Luo": 1, "P. Palanisamy": 1, "S. Issac Niwas": 1}
+Padmapriya Praveenkumar	{"Rengarajan Amirtharajan": 1, "Karuppuswamy Thenmozhi": 1, "John Bosco Balaguru Rayappan": 1}
+Pallab Kanti Roy	{"Kim Lee": 1, "Tien Yin Wong": 1, "Alauddin Bhuiyan": 1, "Kotagiri Ramamohanarao": 1}
+Panagiota Spyridonos	{"Georgios Gaitanis": 1, "Ioannis D. Bassukas": 1, "Margaret Tzaphlidou": 1}
+Paola Casti	{"Fabio Felice Mangieri": 1, "Arianna Mencattini": 1, "Maria Luisa Pepe": 1, "Marcello Salmeri": 1, "Antonietta Ancona": 1, "Rangaraj M. Rangayyan": 1}
+Paolo Andreini	{"Monica Bianchini": 1, "Simone Bonechi": 1, "Alessandro Mecocci": 1, "Andrea Garzelli": 1}
+Paolo Castiglioni	{}
+Paris A. Mastorocostas	{"John B. Theocharis": 1}
+Pascal Laugier	{"Guillaume Haiat": 1, "Fre9de9ric Padilla": 1}
+Pascale Beliveau	{"Stasia A. Anderson": 1, "Joni Taylor": 1, "Farida Cheriet": 1, "Li-yueh Hsu": 1, "Andrew E. Arai": 1}
+Pasi Luukka	{"Tapio Leppe4lampi": 1}
+Pasquale Delogu	{"Maria Evelina Fantacci": 1, "Alessandra Retico": 1, "Parnian Kasae": 1}
+Patrick M. Boyle	{"Thomas V. Karathanos": 2, "Natalia A. Trayanova": 2, "Emilia Entcheva": 2}
+Patrícia Cardoso Perez	{"Fernanda Canduri": 1, "Walter Filgueira de Azevedo Jr.": 1, "Rafael A. Caceres": 1}
+Paul H. Chappell	{"Paul N. Taylor": 1}
+Paul P. Lunkenheimer	{"Colin W. Cryer": 1, "Siew Y. Ho": 1, "Frank Wfcbbeling": 1, "Wolfgang Konertz": 1, "Klaus Redmann": 1, "Randas JV. Batista": 1, "Robert H. Anderson": 1}
+Paul W. de Bruin	{"Albert M. Vossepoel": 1, "Frits H. Post": 1, "Geert J. Streekstra": 1, "Frans M. Vos": 1, "V. J. Dercksen": 1}
+Paul Walsh	{"John M. Carroll": 1, "Roy D. Sleator": 1}
+Paula Pinto	{"Ce9lia Amorim-Costa": 1, "Joe3o Bernardes": 1, "Maria Silva": 1, "Diogo Ayres-de-Campos": 1, "Cristina Costa-Santos": 1}
+Paulo Guilherme de Lima Freire	{"Ricardo Jose9 Ferrari": 1}
+Pawel Badura	{"Ewa Pietka": 1}
+Pawel Kuklik	{"Lukasz Szumowski": 1, "Christopher X. Wong": 1, "Prashanthan Sanders": 2, "Jan J. Zebrowski": 2, "Anthony Brooks": 1}
+Pawel Szychta	{"Jan Rykala": 1, "Ken Stewart": 1, "Marek Zadrozny": 1, "Henryk Witmanowski": 1, "Mark Butterworth": 1, "Cameron Raine": 1}
+Pedram Ataee	{"Hossein A. Noubari": 1, "Guy Albert Dumont": 1, "W. Thomas Boyce": 1, "Jin-Oh Hahn": 1}
+Pedro Henrique Bugatti	{"Daniel S. Kaster": 1, "Caetano Traina Jr.": 1, "Marcelo Ponciano-Silva": 1, "Paulo M. Azevedo-Marques": 1, "Agma J. M. Traina": 1}
+Pedro J. García-Laencina	{"Pedro Henriques Abreu": 1, "Miguel Henriques Abreu": 1, "Noe9mia Afonoso": 1}
+Pedro Miguel Dinis Almeida	{}
+Pega Zarjam	{"Fang Chen 0001": 1, "Julien Epps": 1, "Nigel H. Lovell": 1}
+Pegah Khosravi	{"Yazdan Asgari": 1, "Mehdi Sadeghi": 1, "Brian Law": 1, "Vahid H. Gazestani": 1, "Bahram Goliaei": 1}
+Pei-I Tsai	{"San-Yuan Chen": 1, "Chih-Chieh Huang": 1, "Ching-Chi Hsu": 1, "Tsung-Han Wu": 1}
+Peicong Yu	{"Chueh-Loo Poh": 1}
+Peirui Bai	{"Shenghua Teng": 1, "Qingyi Liu": 1, "Maoyong Cao": 1, "Jing Li": 1, "Lei Li": 1}
+Pejman Farhadi Ghalati	{"Omid Abouali": 1, "Abolhassan Faramarzi": 1, "Alireza Shakibafard": 1, "Erfan Keshavarzian": 1, "Jiyuan Tu": 1}
+Pelin Görgel	{"Ahmet Sertbas": 1, "Osman N. Ue7an": 1}
+Pelin Kus	{"Irfan Karagoz": 1}
+Peng Xu 0001	{"Xiao Hu 0002": 1, "Dezhong Yao 0001": 3}
+Peter Buzzacott	{"Kate Lambrechts": 1, "Qiong Wang": 1, "Frane7ois Guerrero": 1, "Costantino Balestra": 1, "Aleksandra Mazur": 1, "Michael Theron": 1, "Virginie Papadopoulou": 1}
+Peter Drotár	{"Juraj Gazda": 1, "Zdenek Sme9kal": 1}
+Peter O. Ajemba	{"Nelson G. Durdle": 1, "V. James Raso": 1, "Doug L. Hill": 1}
+Peter Tikuisis	{"Dragan Brajkovic": 1, "Michel B. Ducharme": 1}
+Peter Van Leeuwen	{"Dietrich H. W. Grf6nemeyer": 1, "Friedrich Edelhe4user": 1, "Dirk Cysarz": 1, "Anna Vodf": 1}
+Petr Gebouský	{"Miroslav Ke1rnfd": 1, "Hana Kredzove1": 1, "Martin Wald": 1}
+Petra Jelínková	{"Jana Benesova": 1, "Monika Duskova": 1, "Ivo Studensky": 1}
+Phan Tran Ho Truc	{"Sungyoung Lee": 1, "Young-Koo Lee": 1, "Tae-Seong Kim": 1}
+Philip Ian Terrill	{"David M. Cooper": 1, "Stephen James Wilson": 1, "Carolyn Dakin": 1, "Sadasivam Suresh": 1}
+Philipp Urbauer	{"Birgit Pohn": 1, "Stefan Sauermann": 1, "Mathias Forjan": 1, "Matthias Frohner": 1, "Alexander Mense": 1}
+Piergiorgio Marini	{"Caterina Guiot": 1, "Pietro Gabriele": 1, "Barbara Baiotto": 1}
+Pierre E. Chauvet	{"Daniel Schang": 1, "Alain Cle9ment": 1, "Sylvie Nguyen The Tich": 1}
+Pieter Van Gorp	{"Uzay Kaymak": 1, "Marco Comuzzi": 1, "Andreas Jahnen": 1, "Blackford Middleton": 1}
+Ping Shi	{"Hongliu Yu": 1, "Sijung Hu": 1}
+Piotr Suwalski	{"Grzegorz Suwalski": 1, "Piotr Scislo": 1, "Janusz Kochanowski": 1, "Kazimierz Suwalski": 1, "Julita Switaj": 1, "Eulalia Welk": 1, "Andrzej Kurowski": 1}
+Plamen Bokov	{"Bruno Mahut": 1, "Patrice Flaud": 1, "Christophe Delclaux": 1}
+Polina Reshetova	{"Age K. Smilde": 1, "Antoine H. C. van Kampen": 1, "Johan A. Westerhuis": 1}
+Pooja Rajdev	{"Jenna L. Rickus": 1, "Robert M. Worth": 1, "Pedro Irazoqui": 1, "Matthew P. Ward": 1}
+Pradeep Chowriappa	{"U. Rajendra Acharya": 1, "M. Muthu Rama Krishnan": 1, "Sumeet Dua": 1}
+Prasun Dastidar	{"Milko Van Meer": 1, "Erkki Laasonen": 1, "Tomi Heinonen": 2, "Tapio Kuoppala": 1, "Juhani Me4enpe4e4": 1, "Ge1bor Molne1r": 1, "Mervi Jehkonen": 1, "Jukka-Pekka Ahonen": 1, "Reijo Punnonen": 1}
+Praveen Gupta	{"Kamlesh Kumar Sharma": 1, "Shiv Dutt Joshi": 1}
+Primoz Trunk	{"Roman Trobec": 2, "Jaka Mocnik": 1, "Borut Gersak": 2}
+Priyanka Kumari	{"Radha Chaube": 1, "Abhigyan Nath": 1}
+Puneet Kumar Jain	{"Anil Kumar Tiwari": 1}
+Qi Shao	{"Daniel N. Bassett": 1, "Thomas S. Buchanan": 1, "Kurt Manal": 1}
+Qi Shen	{"Bao-Xian Ye": 1, "Zhen Mei": 1}
+Qian Wang 0009	{"Darryl N. Davis": 1, "Jiadong Ren": 1}
+Qian Zheng	{"Minghui Zhang": 1, "Qianjin Feng": 1, "Zhentai Lu": 1, "Wei Yang 0006": 1, "Wufan Chen": 1}
+Qiang Chen 0004	{"Quan-Sen Sun": 1, "De-Shen Xia": 1}
+Qing Pan	{"Feng Li 0008": 1, "Jing Yan": 1, "Yihua Yu": 1, "Gongzhan Zhou": 1, "Ruofan Wang": 1, "Gangmin Ning": 1, "Luping Fang": 1}
+Qing Zeng-Treitler	{"Samah J. Fodeh": 1}
+Qing Zhang	{"Yong Li 0012": 1, "Hong Yu 0001": 1, "Yanming Zhu 0002": 1, "Yonggang Cao": 1, "Yong Cao": 1, "Samuel S. M. Sun": 1, "Dianjing Guo": 1}
+Qing-Bin Gao	{"Jia He": 1, "Jian Lu": 1, "Cheng Wu": 1, "Yu Kong": 1, "Zheng Fu": 1, "Zhi-Chao Jin": 1}
+Qinghong Guo	{"Mrinal K. Mandal 0001": 1, "Katherine M. Kavanagh": 1, "Gang Liu": 1}
+Qiwen Dong	{"Lei Lin 0001": 1, "Xiaolong Wang 0001": 1}
+Quan Zou 0001	{"Tuo Zhao": 1, "Yaozong Mao": 1, "Yang Liu 0006": 1, "Lingling Hu": 1, "Yunfeng Wu": 1, "Maozu Guo 0001": 1, "Zhi-Liang Ji": 1}
+Quansheng Xu	{"Datian Ye": 1, "Wenzhi Wang": 1, "Lijuan Yu": 1, "Kehong Yuan": 1, "Kangning Xie": 1}
+R. A. Welikala 0001	{"D. P. Strachan": 1, "Sarah A. Barman": 1, "P. J. Foster": 1, "Christopher G. Owen": 1, "Peter Whincup": 1, "M. M. Fraz": 1, "Alicja R. Rudnicka": 1}
+R. H. Abhilash	{"Sunita Chauhan": 1}
+R. Hren	{"B. Milan Hore1cek": 1}
+R. J. Lapeer	{"R. S. Rowland": 1, "S. K. Shah": 1}
+R. Jothi	{"Sraban Kumar Mohanty": 1, "Aparajita Ojha": 1}
+R. Nigam	{"S. Liang": 1}
+R. P. Channing Rodgers	{}
+R. Shyamsunder	{"Natarajan Sriraam": 1, "C. Eswaran": 1}
+R. Sturm	{"W. Hofmann": 1}
+R. Visakh	{"K. A. Abdul Nazeer": 1}
+Raafat George Saadé	{"George Tsoukas": 1, "John Caminis": 1}
+Radoslav Bortel	{"Pavel Sovka": 1}
+Radoslaw Zajdel 0002	{"Dariusz Nowak": 1}
+Rafael M. Terol	{"Patricio Martednez-Barco": 1, "Manuel Palomar": 1}
+Raffy Dotan	{}
+Rahman Ali	{"Sungyoung Lee": 1, "Maqbool Hussain": 1, "Muhammad Hameed Siddiqi": 1, "Maqbool Ali": 1, "Muhammad Afzal": 1, "Byeong Ho Kang 0001": 1}
+Rainer Lindemuth	{"Klaus Schimrigk": 1, "Dieter Mink": 1, "Christine Ernzerhof": 1}
+Rajan Dua	{"Suman Chakraborty": 1}
+Rajaraman Suryakumar	{"William R. Bobier": 1, "Derek Kwok": 1, "Sheldon Fernandez": 1}
+Rajasvaran Logeswaran	{"Chikkannan Eswaran": 1}
+Rajeev Agrawal	{"Karmeshu": 1}
+Ramon Clèries	{"Miguel Lf3pez de Heredia": 1, "Meritxell Espino": 1, "Virginia Nunes": 1, "Josepa Ribes Puig": 1, "Jordi Galvez": 1}
+Ranjit A. Thuraisingham	{}
+Ranu Sharma	{"C. G. Suresh": 1}
+Raquel Cervigón	{"Julie1n Pe9rez-Villacastedn": 1, "J. Mateo 0001": 1, "Jose9 Millet": 1, "Francisco Castells": 1, "Ce9sar Se1nchez": 1, "Javier Moreno 0002": 1}
+Rasoul Khayati	{"Seyed Massood Nabavi": 1, "Mansur Vafadust": 1, "Farzad Towhidkhah": 1}
+Rathinaswamy B. Govindan	{"An N. Massaro": 1, "Nickie Niforatos": 1, "Adre9 du Plessis": 1}
+Raul Llinares	{"Jorge Igual": 1, "Julio Mirf3-Borre1s": 1}
+Ray B. Huffaker	{"James N. Weiss": 1, "Richard Samade": 1, "Boris Kogan": 1}
+Rayapadi G. Swetha	{"Dinesh Kumar Kala Sekar": 1, "Anand Anbarasu": 1, "Sudha Ramaiah": 1, "Kanagaraj Sekar": 1}
+Raúl Alcaraz	{"Jose9 Joaquedn Rieta": 1}
+Raúl Correa	{"Max E. Valentinuzzi": 1, "Lorena Sabrina Correa": 1, "Pedro David Arini": 1, "Eric Laciar": 1}
+Rebecca Bauer	{"Jacques Le Bras": 1, "France Mentre9": 1, "Halima Kaddouri": 1, "Herve9 Le Nagard": 1}
+Rebecca Landes McNamee	{"Mingui Sun": 1, "Robert J. Sclabassi": 1}
+Reinier Kop	{"Mark Hoogendoorn": 1, "Annette ten Teije": 1, "Pauline Slottje": 1, "Leon M. G. Moons": 1, "Frederike L. Bfcchner": 1, "Mattijs E. Numans": 1}
+Ren Togo	{"Kenta Ishihara": 1, "Miki Haseyama": 1, "Takahiro Ogawa": 1}
+Rena Hale	{"Roger V. Gonzalez": 1, "Jerome G. Hausselle": 1}
+Renata Coelho Borges	{"Me1rcio Holsbach Costa": 1}
+Renata Smolíkova	{"Mark P. Wachowiak": 1, "Jacek M. Zurada": 1}
+Renaud Lopes	{"Marc Steinling": 1, "P. Dubois": 1, "Nacim Betrouni": 1, "Salah Maouche": 1, "William Szurhaj": 1}
+Revanth Reddy Garlapati	{"Grand Roman Joldes": 1, "Adam Wittek": 1, "Barry Doyle": 1, "Karol Miller": 1, "Ahmed Mostayed": 1}
+Ricardo Dunia	{"Thomas F. Edgar": 1}
+Ricardo Garcí	{"Carlos Se1ez": 1, "Verf3nica Muf1oz-Soler": 1, "Ricardo Garceda-de-Lef3n-Gonze1lez": 1, "Juan M. Garceda-Gf3mez a-de-Lef3n-Gonze1lez": 1}
+Ricardo García-de-León-Chocano	{"Carlos Se1ez": 1, "Verf3nica Muf1oz-Soler": 1, "Ricardo Garceda-de-Lef3n-Gonze1lez": 1, "Juan Miguel Garceda-Gf3mez": 1}
+Richard Cooper	{"Cosmin Cardan": 1, "Robert Allen": 1}
+Richard E. Frye	{"Meng-Hung Wu": 1}
+Richard H. Luecke	{"Walter D. Wosilait": 1, "Daniel R. Doerge": 1, "John F. Young": 1, "Bruce A. Pearce": 1, "William Slikker Jr.": 1}
+Richard I. Han	{"Thomas M. Wheeler": 1, "Alan B. Lumsden": 1, "Gerald M. Lawrie": 1, "Gerd Brunner": 1, "K. Jane Grande-Allen": 1, "Joel D. Morrisett": 1, "Michael J. Reardon": 1}
+Richard L. Summers	{"Janice V. Meck": 1, "David S. Martin": 1, "Thomas G. Coleman": 1}
+Richard M. Spencer	{"Ted B. Martonen": 1, "Jeffry D. Schroeter": 1}
+Rimantas Barauskas	{"Giedrius Barauskas": 1, "Tomas Vanagas": 1, "Antanas Gulbinas": 1}
+Riqing Chen	{"Yingsong Huang": 1, "Jian Wu": 1}
+Rob Kooper	{"Peter Bajcsy": 1, "Sang-Chul Lee": 1, "Andrew Shirk": 1, "Amy Lin": 1, "Robert Folberg": 1}
+Robert B. Goldstein	{"Eli Peli": 1, "Russell L. Woods": 1}
+Robert Koprowski	{"Zygmunt Wrf3bel": 4, "Slawomir Teper": 1, "Slawomir Wilczynski": 3, "Damian Siedlecki": 1, "Edward Wylegala": 3, "Anita Lyssek-Boron": 1, "Anna Nowinska": 3, "Henryk Kasprzaz": 1, "Barbara Blonska-Fajfrowska": 1, "Pawel Olczyk": 1, "Renato Ambrf3sio Jr.": 1, "Beata Weglarz": 1}
+Robert L. Chatburn	{"Eduardo Mireles-Cabodevila": 1, "Madhu Sasidhar": 1}
+Robert P. Gilbert	{"Jing Li": 1, "Philippe Guyenne": 1}
+Robert S. Bradley	{"Philip J. Withers": 1}
+Robert S. Ledley	{}
+Robert S. Shapiro	{"Sheldon Jacobson": 1, "Patrick P. Ko": 1, "Agata Stancato-Pasik": 1, "Stephanie E. Sims": 1}
+Robert Salat	{"Kinga Salat": 1}
+Robert Smith 0001	{"Dan Ventura": 1}
+Robert Sturm	{"Werner Hofmann": 1}
+Roberto M. Rodríguez	{"Teresa E. Alarcf3n": 1, "Oriana Pacheco": 1}
+Roberto Rodríguez	{"Valia Guerra": 1, "Ebroul Izquierdo": 1, "Ana G. Suarez": 1, "Juan Humberto Sossa Azuela": 1, "Patricio J. Castillo": 1}
+Roberto Vega	{"Elizabeth Guevara": 1, "Gildardo Se1nchez-Ante": 1, "Luis Falcf3n-Morales": 1, "Humberto Sossa": 1}
+Robi Polikar	{"John Kounios": 1, "Apostolos Topalis": 1, "Deborah Green": 1, "Christopher M. Clark": 1}
+Rodrigo Capobianco Guido	{"Jose Carlos Pereira": 1}
+Rodrigo Varejão Andreão	{"Sandra M. T. Muller": 1, "Je9rf4me Boudy": 1, "Bernadette Dorizzi": 1, "Teodiano Freire Bastos Filho": 1, "Me1rio Sarcinelli Filho": 1}
+Roger W. Jelliffe	{"Pascal Maire": 1}
+Rohit Bavi	{"Minky Son": 1, "Keun Woo Lee": 1, "Hyong-Ha Kim": 1, "Seok Ju Park": 1, "Raj Kumar": 1, "Shailima Rampogu": 1, "Jung-Keun Suh": 1, "Ayoung Baek": 1, "Chanin Park": 1}
+Rohit Dutt	{"A. K. Madan": 1}
+Roland Norcen	{"M. Podesser": 1, "H.-P. Schmidt": 1, "Andreas Pommer": 1, "Andreas Uhl": 1}
+Roland Pilgram	{"Volker Kuhn 0001": 1, "Werner Jaschke": 1, "Michael Blauth": 1, "Rainer Schubert": 1, "Claudia Walch": 1}
+Roman Trobec	{"Matjaz Depolli": 1, "Matjaz Veselko": 1, "Said AlMawed": 1, "Marjan Sterk": 1}
+Ronald M. Nelson	{"Mats E. Pettersson": 1}
+Ronaldo Correia da Silva	{"Jerf4nimo Lameira": 1, "Nelson Alberto N. de Alencar": 1, "Cle1udio Nahum Alves": 1}
+Rong-Chin Lo	{"Yu-Ming Fan": 1, "Wen-Lin Huang": 1}
+Rong-Ho Lin	{"Chun-Ling Chuang": 1}
+Ronnarit Cheirsilp	{"Rebecca Bascom": 1, "William E. Higgins": 1, "Thomas W. Allen": 1}
+Roozbeh Behroozmand	{"Farshad Almasganj": 1}
+Rose Dieng-Kuntz	{"Olivier Corby": 1, "Laurent Alamarguy": 1, "David Minier": 1, "Marek Ruzicka": 1, "Fre9de9ric Corby": 1}
+Rosfuzah Roslan	{"Hishammuddin Asmuni": 1, "Razib M. Othman": 1, "Shahreen Kasim": 1, "Zuraini Ali Shah": 1, "Zalmiyah Zakaria": 1, "Jumail Taliba": 1, "Rohayanti Hassan": 1}
+Roshan Joy Martis	{"Hojjat Adeli": 1, "U. Rajendra Acharya": 1}
+Rositsa Raikova	{"Hristo T. Aladjov": 2, "Piotr Krutki": 1, "Jan Celichowski": 1}
+Rossana Muscillo	{"Silvia Conforto": 1, "Maurizio Schmid": 1, "Tommaso D\'Alessio": 1}
+Ru-Ping Liang	{"Shao-Ping Shi": 1, "Shu-Yun Huang": 1, "Sheng-Bao Suo": 1, "Jian-Ding Qiu": 1, "Xing-Yu Sun": 1}
+Rukiye Karakis	{"Irem c7apraz": 1, "Inan Gfcler": 1, "Erhan Bilir": 1}
+Ruqayya Awan	{"Kashif Rajpoot": 1}
+Russell J. Fischer	{}
+Ryuji Shigemitsu	{"Nobuhiro Yoda": 1, "Keiichi Sasaki": 1, "Toru Ogawa": 1, "Tetsuo Kawata": 1, "Kiyohiro Ikeda": 1, "Yoshinori Gunji": 1, "Yuki Yamakawa": 1}
+S. Berga	{"V. Rolando": 2, "Faiza Bourhaleb": 2, "M. Hamal": 2, "J. Derkaoui": 2, "R. Cirio": 2, "S. Viscomi": 2, "B. Gallice": 2, "F. Marchetto": 2}
+S. Hyun	{"J. P. Archie Jr.": 1, "Clement Kleinstreuer": 1}
+S. M. Debbal	{"Fethi Bereksi-Reguig": 2}
+S. R. Kannan	{"K. Takezawa": 1, "R. Devi": 1, "S. Ramathilagam": 2, "R. Pandiyarajan": 1, "A. Sathya": 1}
+S. Ramtani	{"Jose9 Manuel Garceda Aznar": 1, "E. Fernandes-Morin": 1, "D. Geiger": 1, "Manuel Doblare9": 1}
+Sabina Frljak	{"Roman Trobec": 1, "Toshimi Ujiie": 1, "Viktor Avbelj": 1, "B. Meglic": 1, "Borut Gersak": 1}
+Sadik Kara	{"Semra Kemaloglu": 1, "Semra Ie7er": 1, "Aysegfcl Gfcven": 4, "Sfckrfc Okkesim": 1, "Mustafa Okandan": 1, "Ayse d6ztfcrk d6ner": 1, "Nuri Erdogan": 1, "Fatma Dirgenali": 2}
+Saeed Shakibfar	{"Egon Toft": 1, "Lars Holger Ehlers": 1, "Johannes J. Struijk": 1, "Jf8rgen K. Kanters": 1, "Claus Graff": 1}
+Safdar Ali	{"Abdul Majid": 1, "Syed Gibran Javed": 1, "Mohsin Sattar": 1}
+Sahar Ahmad	{"Muhammad Faisal Khan": 1}
+Sahar Moghimi	{"Mohammad Hossein Miran Baygi": 1, "Giti Torkaman": 1}
+Saima Rathore	{"Mutawarra Hussain": 2, "Asifullah Khan": 1, "Muhammad Aksam Iftikhar": 1, "Abdul Jalil": 1}
+Saime Akdemir Akar	{"Sadik Kara": 1, "Vedat Bilgie7": 1, "Sfcmeyra Agambayev": 1}
+Sako Mirzaie	{"Zargham Sepehrizadeh": 1, "Fatemeh Rafii": 1, "Katsuaki Yasunaga": 1, "Ahmad Reza Shahverdi": 1, "Yu Tonegawa": 1, "Kunie Yoshunaga": 1, "Shinji Kanno": 1}
+Sakshi Agrawal	{"Anubha Gupta": 1}
+Salah Naili	{"Marc Thiriet": 1}
+Samad Jahandideh	{"Mina Jahandideh": 2, "Somayyeh Hoseini": 2, "Afsaneh Hoseini": 2, "AliSalehzadeh Yazdi": 2}
+Saman Sargolzaei	{"Mercedes Cabrerizo": 1, "Mohammed Goryawala": 1, "Anas Salah Eddin": 1, "Malek Adjouadi": 1}
+Samar Allouch	{"Khalil Ben-Mansour": 1, "Fre9de9ric Marin": 1, "Rafic Younes": 1, "Sofiane Boudaoud": 1}
+Sameer Alsmadi	{"Yasemin P. Kahya": 1}
+Sami Arica	{"Abdi Bozkurt": 1, "Ahmed H. Tewfik": 1, "Nuri Firat Ince": 1, "Ahmet Birand": 1}
+Sami Dhahbi	{"Walid Barhoumi": 1, "Ezzeddine Zagrouba": 1}
+Samit Ari	{"Manab Kumar Das": 1, "Anil Chacko": 1}
+Samjin Choi	{"Gi-Ja Lee": 1, "Zhongwei Jiang": 1, "Hun-Kuk Park": 1, "Tur Urtnasan": 1, "Seung-Jae Hong": 1, "Ki-Ho Park": 1}
+Samuel J. Wang	{"Hamish S. F. Fraser": 1, "R. Lee Kennedy": 1, "Lucila Ohno-Machado": 1}
+Samuel K. Handelman	{"Jacob M. Aaronson": 1, "Jesse J. Kwiek": 1, "Michal Seweryn": 1, "Daniel A. Janies": 1, "Wolfgang Sadee": 1, "Igor Voronkin": 1, "Joseph S. Verducci": 1}
+Sandra Martelli	{"Nicola Francesco Lopomo": 1, "Stefano Zaffagnini": 1, "Andrea Visani": 1, "Simone Bignozzi": 1}
+Sandrine de Ribaupierre	{"Timothy D. Wilson": 1}
+Santa Di Cataldo	{"Elisa Ficarra": 1, "Enrico Macii": 1}
+Santi Seguí	{"Carolina Malagelada": 1, "Petia Radeva": 1, "Guillem Pascual": 1, "Jordi Vitrie0": 1, "Fernando Azpiroz": 1, "Michal Drozdzal": 1}
+Sarabjeet Singh Mehta	{"Nitin Shivappa Lingayat": 1}
+Sarah K. Mullin	{"Peter J. Taylor": 1}
+Sareh Zendehrouh	{"Shahriar Gharibzadeh": 1, "Fatemeh Bakouie": 1}
+Satoshi Yamaguchi	{"Hiromi T. Tanaka": 2, "Shigehiro Morikawa": 1, "Nick Tovar": 1, "Yen-Wei Chen 0001": 1, "Koji Satake": 2, "Junpei Yamauchi": 1, "Kihei Tsutsui": 1, "Yoshiaki Shirai": 1, "Van P. Thompson": 1, "Yoshio Yamaji": 1, "Satoshi Imazato": 1, "Paulo G. Coelho": 1}
+Saurabh Pal	{"Madhuchhanda Mitra": 1}
+Saurabh Vyas	{"Philippe Burlina": 1, "Jon Meyerle": 1}
+Sebastian Hegenbart	{"Andreas Ve9csei": 1, "Andreas Uhl": 1}
+Sebastian Schäfer	{"Odd Helge Gilja": 1, "Radovan Jiredk": 1, "Martin Me9zl": 1, "Fredrik Se6vik": 1, "Georg Dimcevski": 1, "Trond Engjom": 1, "Kim Nylund": 1, "Klaus D. Tf6nnies": 1}
+Sejin Nam	{"Victoria Ngo": 1, "Sang-Kyun Kim": 1, "Senator Jeong": 1, "Hong-Gee Kim": 1, "Nansu Zong": 1}
+Sejong Oh	{}
+Selvaraaju Murugesan	{"Pierre Faou": 1, "Ira Cooke": 1, "David B. H. Tay": 1}
+Semih Ergin	{"Onur A. Kilic": 1}
+Semra Içer	{"Sadik Kara": 1}
+Semra Kemaloglu	{"Sadik Kara": 1, "Nuri Erdogan": 1}
+Senlin Luo	{"Tiemei Zhang": 1, "Yue Wang": 1, "Longfei Han": 1, "Limin Pan": 1, "Songjing Chen": 1, "Qamas Gul Khan Safi": 1}
+Senol Piskin	{"M. Serdar Celebi": 1}
+Sepideh Babaei	{"Amir Geranmayeh": 1}
+Sepideh Hatamikia	{"Ali Motie Nasrabadi": 1}
+Sepideh Jabbari	{"Hassan Ghassemian": 1}
+Seral Sahan	{"Halife Kodaz": 1, "Salih Gfcnes": 1, "Kemal Polat": 1}
+Sergey M. Plis	{"Andy R. Mayer": 1, "Vincent P. Clark": 1, "Terran Lane": 1, "Tom Eichele": 1, "Eswar Damaraju": 1, "Michael P. Weisend": 1, "Vince D. Calhoun": 1}
+Sergey Vaisman	{"Amir B. Geva": 1, "Shimrit Yaniv Salem": 1, "Gershon Holcberg": 1}
+Sergio Romero	{"Miguel Angel Maf1anas": 1, "Manel J. Barbanoj": 1}
+Serkan Kiranyaz	{"Johanna c4rje": 1, "Kristian Meissner": 1, "Moncef Gabbouj": 1, "Turker Ince": 1, "Jenni Pulkkinen": 1, "Martti Juhola": 1, "Tuomas Turpeinen": 1, "Ville Tirronen": 1, "Salme Ke4rkke4inen": 1}
+Seung-Kyu Chung	{"Gyehwan Jo": 1, "Yang Na": 1}
+Seyed Abdolmotalleb Izad Shenas	{"Bijan Raahemi": 1, "Craig E. Kuziemsky": 1, "Mohammad Hossein Tekieh": 1}
+Seyed Esmail Razavi	{"Arman Seyed Ahmadi": 1}
+Seyed Morteza Hosseini	{"Ahmad Reza Naghsh-Nilchi": 1}
+Seyed Roholah Ghodsi	{"Vahid Esfahanian": 1, "Seyed Mohammad Ghodsi": 1, "Rahim Shamsodini": 1, "Goodarz Ahmadi": 1}
+Seyed Saeid Khalafvand	{"Liang Zhong": 1, "E. Y. K. Ng": 1, "Tin-Kan Hung": 1}
+Seyyed Mostafa Mirkhalili	{"Ahmad Ramazani S. A.": 1, "Saeed Nazemidashtarjandi": 1}
+Shabnam Shamriz	{"Hamideh Ofoghi": 1, "Nasrin Moazami": 1}
+Shadnaz Asgari	{"Alireza Mehrnia": 1, "Maryam Moussavi": 1}
+Shady Elmasry	{"Francesco Travascio": 1, "Shihab Asfour": 1, "Juan Pablo de Rivero Vaccari": 1}
+Shah Md. Abdur Rauf	{"Kamlesh Kumar Sahu": 1, "Hideyuki Tsuboi": 1, "Michihisa Koyama": 1, "Hiromitsu Takaba": 1, "Carlos Adriel Del Carpio": 1, "Momoji Kubo": 1, "Nozomu Hatakeyama": 1, "Akira Miyamoto": 1, "Ai Suzuki": 1, "Mohamed Ismael": 1, "Akira Endou": 1}
+Shahreen Kasim	{"Safaai Deris": 1, "Razib M. Othman": 1}
+Shanwen Zhang	{"De-Shuang Huang": 1, "Shu-Lin Wang": 1}
+Shao-Fu Huang	{"Lun-Jou Lo": 1, "Chun-Li Lin": 1}
+Shao-Hu Peng	{"Myung-Kwan Lim": 1, "Seok-Lyong Lee": 1, "Deok-Hwan Kim": 1}
+Shaurya Jauhari	{"S. A. M. Rizvi": 1}
+Shayne M. Plourde	{"Zachary Smith": 1, "Andre Khalil": 1, "Kendra A. Batchelder": 1, "Brian C. Toner": 1, "Zach Marin": 1}
+Shazzat Hossain	{"Farah A. Mohammadi": 1}
+Shigeru Takasaki	{}
+Shih-Yen Ku	{"Yuh-Jyh Hu": 1}
+Shin Huh	{"Kwanghoon Sohn": 1, "Chulhee Lee": 1, "Terence A. Ketter": 1}
+Shinta Yamamoto	{"Ana Jokanovic": 1, "Manabu Kanazawa": 2, "Toshio Arakida": 1, "Daisuke Hirayama": 1, "Toshinari Nakamura": 1, "Maiko Iwaki": 1, "Shunsuke Minakuchi": 2}
+Shital C. Shah	{"Michael A. O\'Donnell": 1, "Andrew Kusiak": 3}
+Shiue Kee Chong	{"Safaai Deris": 1, "Mohd Saberi Mohamad": 1, "Yee Wen Choon": 1, "Abdul Hakim Mohamed Salleh": 1, "Chuii Khim Chong": 1}
+Shiwen Shen	{"Jason Cong": 1, "William Hsu": 1, "Alex A. T. Bui": 1}
+Shu Zhou	{"Ying-Lan Zhao": 1, "Lin-Li Li": 1, "Huan-Zhang Xie": 1, "Guo-Bo Li": 1, "Lu-Yi Huang": 1, "Sheng-Yong Yang": 1, "Yu Zong Chen": 1}
+Shu-Lin Wang	{"De-Shuang Huang": 1, "Shanwen Zhang": 1, "Xueling Li": 1, "Jie Gui": 1}
+Shu-Yen Wan	{"William E. Higgins": 1, "Erik L. Ritman": 1}
+Shubhajit Roy Chowdhury	{"Hiranmay Saha": 1}
+Shufang Li	{"Dongmei Cai": 1, "Shujuan Geng": 1, "Qi Yuan": 1, "Weidong Zhou": 1}
+Shuh-Ping Sun	{"Jing-Shyr Chen": 1, "Ko-Wen Hsu": 1}
+Shuicai Wu	{"Xiaofeng Gao": 1, "Chunlan Yang": 1, "Zhuhuang Zhou": 1, "Yanni Shen": 1, "Yanping Bai": 1, "Yanjun Zeng": 1, "Haomin Li": 1, "Lan Lin": 1, "Peijie Jiang": 1}
+Sijie Niu	{"Qiang Chen 0004": 1, "Qinghuai Liu": 1, "Daniel L. Rubin": 1, "Luis de Sisternes": 1, "Weiwei Zhang": 1}
+Silvia Ruiz-España	{"David Moratal": 1, "Estanislao Arana": 1}
+Silvio Antonio Carro	{"Jacob Scharcanski": 1}
+Silvio Cavalcanti	{"Silvia Cavani": 1, "Andrea Ciandrini": 1, "Guido Avanzolini": 1}
+Sima Soltani	{"Amin Mahnam": 1}
+Simeone Marino	{"A. V. Greco": 1, "A. de Gaetano": 1, "G. Mingrone": 1, "A. Giancaterini": 1, "Melania Manco": 1, "D. Giordano": 1}
+Simona Ferrante	{"Francesco Pinciroli": 1, "Stefano Bonacina": 1}
+Simone Morganti	{"Eloisa Arbustini": 1, "Fabiana I. Gambarin": 1, "Alessandra Serio": 1, "Valentina Favalli": 1, "Adele Valentini": 1, "Laura Mazzocchi": 1, "Ferdinando Auricchio": 1, "Massimo Massetti": 1, "Danila Vella": 1}
+Sina Shamekhi	{"Ali Gooya": 1, "Bahareh Azarian": 1, "Mohammad Hossein Miran Baygi": 1}
+Siripit Pitchuanchom	{"Arthur J. Olson": 1, "Chantana Boonyarat": 1, "Chavi Yenjai": 1, "Stefano Forli": 1}
+Sjur Urdson Gjerald	{"Reidar Brekken": 1, "Toril A. Nagelhus Hernes": 1, "Torbjf8rn Hergum": 1, "Lars Eirik Bf8": 1}
+Slawomir Wilczynski	{"Barbara K. Wiernek": 1, "Barbara Blonska-Fajfrowska": 1, "Robert Koprowski": 1}
+Soham Ghosh	{"Tamal Das": 1, "Sarit K. Das": 1, "Suman Chakraborty": 1}
+Somayeh Raiesdana	{"Seyed Mohammad Reza Hashemi Golpayegani": 1, "Seyed Mohammad P. Firoozabadi": 1, "Jafar Mehvari Habibabadi": 1}
+Somchai Sriyab	{"Charin Modchang": 1, "Paisan Kanthang": 1, "Narin Nuttavut": 1, "Wannapong Triampo": 1, "Yongwimon Lenbury": 1, "Waipot Ngamsaad": 1, "Jiraporn Yojina": 1, "Chartchai Krittanai": 1}
+Somnath Tagore	{"Rajat K. De": 1}
+Somsak Rakkeitwinai	{"Chatchawit Aporntewan": 1, "Chidchanok Lursinsap": 1, "Apiwat Mutirangura": 1}
+Songfeng Zheng	{"Weixiang Liu": 1}
+Songhe Lu	{"Yongqiang Zhang": 1, "Junrui Zhang": 1, "Dezhong Xu": 1, "Yingying Sun": 1, "Tao Li": 1, "Chunlei Lu": 1}
+Songmao Zhang	{"Olivier Bodenreider": 1}
+Sonia Charleston-Villalobos	{"Ramf3n Gonze1lez-Camarena": 2, "Jose9 G. Carrillo": 1, "A. Torres-Jime9nez": 1, "Tome1s Aljama-Corrales": 2, "Georgina Chi-Lem": 2, "G. Martinez-Hernandez": 1}
+Soo Yeol Lee	{"Gyu Won Kim": 1, "Byung H. Han": 1, "Min Hyoung Cho": 1}
+Soo-Mi Choi	{"Myoung-Hee Kim": 1, "Yu-Kyung Lee": 1}
+Soojeong Lee	{"Voicu Z. Groza": 1, "Chee-Hyun Park": 1, "Sreeraman Rajan": 1, "Joon-Hyuk Chang": 1, "Hilmi R. Dajani": 1}
+Sook Sam Leong	{"U. Rajendra Acharya": 1, "Kwan Hoong Ng": 1, "Anushya Vijayananthan": 1, "Nur Adura Yaakup": 1, "Mehmet Bilgen": 1, "Nazri Shah": 1}
+Soudeh Saien	{"Hamid Abrishami Moghaddam": 1, "Abdol Hamid Pilevar": 1}
+Sourya Bhattacharyya	{"Suchandra Mukherjee": 1, "Arunava Biswas": 1, "Bandana Majumdar": 1, "Arun K. Majumdar": 1, "Jayanta Mukherjee 0001": 1, "Arun Kumar Singh": 1}
+Srinivasan Vairavan	{"Rathinaswamy B. Govindan": 1, "Hari Eswaran": 1, "Umit D. Ulusar": 1, "Hubert Preissl": 1, "James D. Wilson": 1, "Curtis L. Lowery": 1, "S. S. Mckelvey": 1}
+Sriparna Saha 0001	{"Asif Ekbal": 1, "Kshitija Gupta": 1, "Sanghamitra Bandyopadhyay": 1}
+Stanislaw Osowski	{"Krzysztof Siwek": 1, "Robert Siroic": 1}
+Stefan Raith	{"Christine Keul": 1, "Naeema Anees": 1, "Jan-Frederik Gfcth": 1, "Horst Fischer": 1, "Daniel Edelhoff": 1, "Eric Per Vogel": 1}
+Stefanie Demirci	{"Maximilian Baust": 1, "Nassir Navab": 1, "Oliver Kutter": 1, "Frode Manstad-Hulaas": 1, "Hans-Henning Eckstein": 1}
+Stefano Bonacina	{"Francesco Pinciroli": 1, "Sara Marceglia": 1, "Michele Bertoldi": 1}
+Stefano Zaffagnini	{"Sandra Martelli": 1, "F. Acquaroli": 1}
+Stelmo Magalhães Barros Netto	{"Rodolfo Acatauassu Nunes": 1, "Aristf3fanes Correaa Silva": 1, "Marcelo Gattass": 1}
+Stephan Jacobs	{"David Holzhey": 1, "Volkmar Falk": 1, "Friedrich W. Mohr": 1}
+Stephen J. Leslie	{"Roger Slack": 1, "Martin A. Denvir": 1, "Catrin Meurig": 1, "Mark Hartswood": 1, "Sinead P. McKee": 1, "Rob Procter": 1}
+Steven C. Bellinger	{"Peter N. Steinmetz": 1, "Jong M. Rho": 1}
+Steven Lawrence Fernandes	{"G. Josemin Bala": 1}
+Stevin van Wyk	{"Lisa Prahl Wittberg": 2, "Le1szlf3 Fuchs": 2}
+Styliani A. Taplidou	{"Leontios J. Hadjileontiadis": 2}
+Stéphanie Buchaillard	{"Yohan Payan": 1, "S. H. Ong 0001": 1, "Kelvin Weng Chiong Foong": 1}
+Su Hyun Youn	{"Jinsung Song": 1, "Il Kwon Lee": 1, "Ki Young Shin": 1, "Joung Hwan Mun": 1, "Ahnryul Choi": 1, "Hyun Mu Heo": 1, "Daeweon Lee": 1, "Taeyong Sim": 1}
+Subhasish Saha	{"Nooruddin Thajuddin": 1, "Aravindh Priyadharshini": 1, "Govindasamy Chandramohan": 1, "Saravanan Chandraleka": 1, "Dharumadurai Dhanasekaran": 1, "Annamalai Panneerselvam": 1}
+Subhojit Ghosh	{}
+Sucharita Mitra	{"Bidyut Baran Chaudhuri": 1, "Mandar Mitra": 1}
+Sudeshna Sil Kar	{"Santi P. Maity": 1}
+Sukhwinder Singh	{"H. K. Verma": 1, "Vinod Kumar": 1}
+Suleyman Sevinc	{"Erdem Goker": 1, "Ulus Ali Sanli": 1}
+Suman Kundu	{"Jayanta Mukherjee 0001": 1, "Bandana Majumdar": 1, "Arun K. Majumdar": 1, "Sirsendu Sekhar Ray": 1}
+Sun Kim	{"Jeongmi Kim": 1, "Byoung-Tak Zhang": 1}
+Sun Young Lee	{"Keun Ho Ryu": 1, "Kwang Su Jung": 1, "Jong Yun Lee": 1}
+Sun Zheng	{"Han Duoduo": 1, "Wang Jianjian": 1, "Yuan Yuan": 1, "Yan Qi": 1}
+Sung-Nien Yu	{"Ming-Yuan Lee": 1}
+Sungwook Choi	{"Kyungsook Han": 1}
+Sunil G. Babu	{"Dinesh Kumar": 1, "Sangeeta Saxena": 1, "Sanket Singh Ponia": 1}
+Sunita Chauhan	{"Ping Wang": 1, "Chu Sing Lim": 1, "V. Anantharaman": 1}
+Supratik Kar	{"Kunal Roy": 1}
+Supriya D. Beedkar	{"Ragini G. Bodade": 1, "Aruna S. Vinchurkar": 1, "C. N. Khobragade": 1}
+Surapong Rattanalappaiboon	{"Thongchai Bhongmakapat": 1, "Panrasee Ritthipravat": 1}
+Surya Pavan Yenamandra	{"Ramakrishna Sompallae": 1, "George Klein": 1, "Elena Kashuba": 1}
+Svein Ohm Linge	{"Glenn Terje Lines": 1, "Aslak Tveito": 1, "Joakim Sundnes": 1}
+Svetlana Bunimovich-Mendrazitsky	{"Eugene Kashdan": 1, "Vladimir Pisarev": 1}
+Swati Singh	{"Veda P. Pandey": 1, "Priyanka Singh": 1, "Huma Naaz": 1, "Upendra N. Dwivedi": 1}
+Syam B. Nair	{"G. Krishnamurthy Rajanikant": 1, "Mahesh Kumar Teli": 1, "Hanumanthappa Pradeep": 1}
+Syed Ali Gohar Naqvi	{"Muhammad Faisal Zafar 0002": 1, "Ihsan ul Haq": 1}
+Sylvie Charbonnier	{"Luke1s Zoubek": 1, "Suzanne Lesecq": 1, "Florian Chapotot": 1}
+Szi-Wen Chen	{"Ya-Ju Chang": 1, "Li-Ling Chuang": 1, "Jiunn-Woei Liaw": 1, "Chun-Tse Chien": 1}
+Sándor M. Szilágyi	{"Le1szlf3 Szile1gyi": 1}
+Sándor Szénási	{}
+Sébastien Baiotto	{"Mustapha Zidi": 1, "Be9atrice Labat": 1, "Laurence Vico": 1}
+Süleyman Bilgin	{"Evren Arslan": 1, "Sele7uk c7f6mleke7i": 1, "Sedat Yildiz": 1, "Selami Akkus": 1, "Hasan Rifat Koyuncuoglu": 1, "Etem Kf6klfckaya": 1, "Gfcrkan Bilgin": 1, "Onur Elmas": 1, "Omer Halil c7olak": 1}
+T. Eugene Day	{"Ann Brugh": 1, "Nathan Ravi": 1, "Hong Xian": 1}
+Tadashi Araki	{"Nobutaka Ikeda": 1, "Harman S. Suri": 1, "Jasjit S. Suri": 1, "Vimal K. Shrivastava": 1, "Ayman El-Baz": 1, "Andrew Nicolaides": 1, "Luca Saba": 1, "John R. Laird": 1, "Ajay Gupta": 1, "Pankaj K. Jain": 1, "Shoaib Shafique": 1, "Narendra D. Londhe": 1}
+Taeho Kim	{"Euiyong Kim": 1, "Seok-Ju Park": 1, "Hyun Joo": 1}
+Taek-Hee Lee	{"Jeongjin Lee": 1, "Heewon Kye": 1, "Yeong-Gil Shin": 1, "Soo-Hong Kim": 1, "Ho Lee": 1}
+Tai Nguyen-Ky	{"Peng Wen": 2, "Mel Malan": 1, "Yan Li 0002": 2}
+Takahiro Kikuchi	{"Tetsu Kamiya": 1, "Yukihiro Michiwaki": 1, "Seiichi Koshizuka": 1, "Yoshio Toyama": 1}
+Takehiro Yamamoto	{"Masashi Oya": 1, "Chie Emura": 1}
+Tamara Skoric	{"Omer Mohamoud": 1, "Nina Japundzic-Zigon": 1, "Branislav Milovanovic": 1, "Dragana Bajic": 1}
+Tanawut Tantimongcolwat	{"Thanakorn Naenna": 1, "Chartchalerm Isarankura-Na-Ayudhya": 1, "Mark J. Embrechts": 1, "Virapong Prachayasittikul": 1}
+Tao Liu	{"Lingli Han": 1, "Dongju Zhang": 1, "Zhangyu Yu": 1, "Chengbu Liu": 1}
+Tara L. Alvarez	{"John L. Semmlow": 1, "Claude Pedrono": 1}
+Tarik Ozkul	{"Murat Haluk Ozkul": 1}
+Tarik Zouagui	{"Christophe Odet": 1, "Marc Janier": 1, "Emmanuel Chereul": 1}
+Tarun Pal	{"Varun Jaiswal": 1, "Rajinder S. Chauhan": 1}
+Tasawar Hayat	{"Anum Tanveer": 1, "Ahmed Alsaedi": 1, "Hina Zahir": 1}
+Tatiana Shelyakova	{"Alessandro Russo 0004": 1, "Valentin Alek Dediu": 1, "Maurilio Marcacci": 1, "Andrea Visani": 1}
+Taylan Kav	{"Bulent Sivri": 1, "Cenk Sokmensuer": 1}
+Teodor Buchner	{"Pawel Kuklik": 1, "Jakub Pietkun": 1}
+Teresa Rocha	{"Sime3o Paredes": 1, "Jorge Henriques": 1, "Paulo Carvalho 0001": 1}
+Teresa Sousa	{"Urbano Nunes": 1, "Aniana Cruz": 1, "Gabriel Pires": 1, "Sirvan Khalighi": 1}
+Teruaki Watabe	{"Yoshiyasu Okuhara": 1, "Yusuke Sagara": 1}
+Thea Pretorius	{"Gordon Giesbrecht": 1, "Lisa M. Lix": 1}
+Themis P. Exarchos	{"George Spanoudakis": 1, "Leen Maes": 1, "Christos Nikitas": 1, "Dimitrios I. Fotiadis": 2, "Dina Baga": 1, "Berina Ihtijarevic": 1, "Maria Diakou": 1, "Athanasios Bibas": 1, "George Rigas": 1, "Dimitra Chaloglou": 1, "Sofia Tsouli": 1, "Nora Macdonald": 1, "Doris Eva Bamiou": 1, "Floris L. Wuyts": 1, "Alexandros T. Tzallas": 1, "Spiros Konitsiotis": 1, "Dimitrios Kikidis": 1, "Massimo Cenciarini": 1, "Marios Prasinos": 1, "Dimitris Koutsouris": 1, "Linda Luxon": 1, "Christoph Maurer": 1}
+Thi Anh Ngoc Nguyen	{"Sun-Hee Kim": 1, "Hyung-Jeong Yang": 1}
+Thomas Conlon	{"Heather J. Ruskin": 1, "Martin Crane": 1}
+Thomas E. Vanhecke	{"Sandor Shoichet": 1, "Michael A. Barnes": 1, "Janet Zimmerman": 1}
+Thomas Mazzocco	{"Amir Hussain": 1, "Sajid Hussain": 1, "Amir A. Shah": 1}
+Thomas Penzel	{"Maik Riedl": 1, "Alexander Suhrbier": 1, "Ingo Fietze": 1, "Jfcrgen Kurths": 1, "Hagen Malberg": 1, "Andrej Gapelyuk": 1, "Georg Bretthauer": 1, "Jf6rg Heitmann": 1, "Niels Wessel": 1, "Christoph Schf6bel": 1}
+Tian-Gang Li	{"Supin Wang": 1, "Nan Zhao 0002": 1}
+Tianchi Liu 0001	{"Pin Pin Pek": 1, "Zhiping Lin": 1, "Yong Kiang Yeo": 1, "Andrew Fu Wah Ho": 1, "Marcus Eng Hock Ong": 1, "Zhixiong Koh": 1, "Nan Liu 0003": 1, "Beom-Seok Oh": 1}
+Tijana Djukic	{"Nenad Filipovic": 1, "Vesna Mandic": 1}
+Tim W. Nattkemper	{"Helge J. Ritter": 1, "Thorsten Twellmann": 1, "Walter Schubert": 1}
+Timothy D. Ross	{}
+Timothy M. Ellmore	{"Katarina Cruz": 1, "Richard J. Castriotta": 1, "Sara M. Murphy": 1, "Mya C. Schiess": 1}
+Ting Li 0002	{"Hong Tang 0001": 1, "Tianshuang Qiu": 1}
+Tingting Mu	{"Asoke K. Nandi": 1, "Rangaraj M. Rangayyan": 1}
+Tito Bassani	{"Stefano Guzzetti": 1, "Valentina Magagnin": 1, "Giuseppe Baselli": 1, "Alberto Porta": 1, "Giuseppe Citerio": 1}
+Tobias Böhler	{"Doerte van Straaten": 1, "Heinz-Otto Peitgen": 1, "Stefan Wirtz": 1}
+Tobias Rausch	{"Julio C. Facelli": 1, "Alun Thomas": 1, "Lisa A. Cannon-Albright": 1, "Nicola J. Camp": 1}
+Todd M. Jenkins	{"C. Ralph Buncher": 1, "Rosemary Miller": 1, "Rachel Akers": 1, "Carolyn Powers": 1, "Jennifer Andringa": 1, "Yanhong Liu": 1, "Tawny Wilson Boyce": 1}
+Tomas Koutny	{}
+Tomasz Gambin	{"Maciej Sykulski": 1, "Pawel Stankiewicz": 1, "Anna Gambin": 1}
+Tomasz Hachaj	{"Marek R. Ogiela": 1}
+Tomasz Latkowski	{"Stanislaw Osowski": 1}
+Tomaz Podnar	{"Marjan Kordas": 2, "Irina Milisav": 1, "Franc Runovc": 2}
+Tomoaki Suzuki	{"Kouichi Shinohara": 1, "Hiroyuki Takao": 1, "Yukihiko Fujii": 1, "Hidemoto Fujiwara": 1, "Masato Watanabe": 1, "Takashi Suzuki": 1, "Yuichi Murayama": 1, "Mitsuyoshi Watanabe": 1, "Chiheb Dahmani": 1, "Yukinao Kambayashi": 1, "Shinji Nakazato": 1, "Makoto Yamamoto": 1}
+Tomohiro Sawa	{"Lucila Ohno-Machado": 1}
+Tomás Kulhánek	{"Jired Kofre1nek": 1, "Marek Matejak": 1}
+Tomé Rodrigues Matos	{"Cristina Vallez": 1, "Manuel Prado-Velasco": 1, "Juan Martedn Navarro": 1}
+Tony Wei	{"Philip L. Smith": 1, "Peter Grossman": 1, "Jason P. Kirkness": 1, "Susheel P. Patil": 1, "Alan R. Schwartz": 1, "Markus A. Erlacher": 1, "Brian McGinley": 1, "Hartmut Schneider": 1, "Evan B. Leitner": 1}
+Toshiaki Takayanagi	{}
+Toshihiro Ishibashi	{"Hiroyuki Takao": 1, "Takashi Suzuki": 1, "Kostadin Karagiozov": 1, "Yuichi Murayama": 1, "Shogo Kaku": 1, "Ichiro Yuki": 1, "Mitsuyoshi Watanabe": 1, "Kengo Nishimura": 1, "Issei Kan": 1, "Tomoaki Suzuki": 1}
+Toshimi Ujiie	{}
+Toshimichi Ishiguro	{"Yoshifumi Yasuda": 1, "Allan Kardec Barros": 1, "Satoshi Horihata": 1, "Akihito Umezu": 1}
+Toyomi Fujita	{"Claudio M. Privitera": 1, "Lawrence W. Stark": 1}
+Trilce Estrada	{"Michela Taufer": 1, "Boyu Zhang 0002": 1, "Roger S. Armen": 1, "Pietro Cicotti": 1}
+Tuan D. Pham	{}
+Turker Tekin Erguzel	{"Cumhur Tas": 1, "Merve Cebi": 1}
+Tzu-Yi Yu	{"Hsu-Hua Ho": 1}
+U. Baysal	{"K. Durgut": 1, "Jens Haueisen": 1, "Mehmet Demirci": 1}
+U. Rajendra Acharya	{"Joel E. W. Koh": 3, "Kevin Noronha": 1, "Sulatha V. Bhandary": 2, "Chua Kuang Chua": 2, "Nahrizul Adib Kadri": 1, "Lim Choo Min": 1, "U. C. Niranjan": 1, "K. Vidya Sudarshan": 1, "Anushya Vijayananthan": 1, "Wenwei Yu": 1, "Yuki Hagiwara": 3, "Hamido Fujita": 2, "Jasjit S. Suri": 1, "Augustinus Laude": 2, "Jen Hong Tan": 3, "P. Subbanna Bhat": 2, "A. Krishna Rao": 2, "Kwan Hoong Ng": 1, "Anjan Gudigar": 1, "Muthu Rama Krishnan Mookiah": 2, "U. Raghavendra": 1, "Chai Hong Yeong": 1, "Oliver Faust": 1, "M. Sathish Kumar": 1}
+Ulas Bagci	{"Kirsten Miller-Jaster": 1, "Daniel J. Mollura": 1, "Kenneth N. Olivier": 1, "Jianhua Yao": 1}
+Ulrich Parlitz	{"Alexander Schirdewan": 1, "Niels Wessel": 1, "Jfcrgen Kurths": 1, "Stefan Luther": 1, "Sebastian Berg": 1}
+Umberto Morbiducci	{"Giacomo Di Benedetto": 1, "Marco A. Deriu": 1, "Alexandra Kautzky-Willer": 1, "Andrea Tura": 2, "Mauro Grigioni": 1, "Giovanni Pacini": 1}
+Umit D. Ulusar	{}
+Umut Orhan	{}
+Urszula Malinowska	{"Piotr J. Durka": 1, "Waldemar Szelenberger": 1, "Jaroslaw Zygierewicz": 1, "Andrzej Wakarow": 1}
+Uçman Ergün	{"Inan Gfcler": 1, "Selami Serhatlioglu": 1, "Firat Hardalae7": 1}
+V. I. Thajudin Ahamed	{"Paul K. Joseph": 1, "N. G. Karthick": 1}
+V. Sapthagirivasan	{"M. Anburajan": 1}
+V. V. Krishnan	{}
+V. W. Zhang	{"Bradley McPherson": 1, "Y. S. Hung": 1, "Yong Hu 0003": 1, "Z. G. Zhang 0001": 1}
+Valerio Freschi	{"Arcangelo Liso": 1, "Alessandro Bogliolo": 1}
+Vanessa Díaz-Zuccarini	{"Jacques LeFe8vre": 1}
+Vangelis Sakkalis	{}
+Vasileios Korfiatis	{"Pantelis A. Asvestas": 1, "Konstantinos K. Delibasis": 1, "George K. Matsopoulos": 1}
+Vasiliki E. Markaki	{"Pantelis A. Asvestas": 1, "George K. Matsopoulos": 1}
+Vassilis Tsiaras	{"Eduardo M. Castillo": 1, "Roozbeh Rezaie": 1, "Andrew C. Papanicolaou": 1, "Eleftherios Garyfallidis": 1, "Panagiotis G. Simos": 1, "Bhavin R. Sheth": 1}
+Veerappan Karpagam	{"Periannan Rasappan": 1, "Samuel Shila": 1, "Subramaniyam Sathiyamoorthy": 1, "Yeon-Ju Kim": 1, "Deok-Chun Yang": 1, "Natarajan Sathishkumar": 1}
+Vera Gal	{"Milica Labudovic Borovic": 1, "Zorica Nestorovic": 1, "Ljiljana Gojkovic-Bukarica": 1, "Mirjana M. Platisa": 1, "Vesna Vuksanovic": 1}
+Vida Harati	{"Rasoul Khayati": 1, "Abdolreza Farzan": 1}
+Vijay Pappu	{"Prosenjit Bagchi": 1}
+Viktor Avbelj	{"Roman Trobec": 1, "Jurij Matija Kalisnik": 1, "Borut Gersak": 1}
+Viktor Szabó	{"Ge1bor Hale1sz": 1, "Tibor Gondos": 1}
+Vimal K. Shrivastava	{"Narendra D. Londhe": 2, "Rajendra S. Sonawane": 2, "Jasjit S. Suri": 2}
+Vincent Carriou	{"Je9re9my Laforeat": 1, "Fouaz Sofiane Ayachi": 1, "Sofiane Boudaoud": 1}
+Vincent Jacquemet	{}
+Vincent T. Y. Ng	{"Benny Y. M. Fung": 1, "Tim K. Lee": 1}
+Vincenzo Positano	{"Cristina Salvatori": 1, "Luigi Landini": 1, "Carla Cirotto": 1, "Pier Paolo Bitti": 1, "Antonella Meloni": 1, "Alessia Pepe": 1, "Maria Filomena Santarelli": 1, "Daniele De Marchi": 1, "Calogera Gerardi": 1}
+Vineet Sunil Gattani	{"Kiran Kumar Vupparaboina": 1, "Ashutosh Richhariya": 1, "Soumya Jana": 1, "Ameya Patil": 1, "Jay Chhablani": 1}
+Virginia González-Vélez	{"J. Rafael Godednez-Ferne1ndez": 1}
+Virginie Le Rolle	{"Alfredo I. Herne1ndez": 1, "Jean-Paul Praud": 1, "Alain Beuchee": 1, "Nathalie Samson": 1, "Patrick Pladys": 1}
+Vladimir Kulish	{"Alexei Sourin": 1, "Olga Sourina": 1}
+Vladimir Kurbalija	{"Danilo Schmidt": 1, "Gabriela Lindemann von Trzebiatowski": 1, "Carl Hinrichs": 1, "Hans-Dieter Burkhard": 1, "Mirjana Ivanovic": 1, "Milos Radovanovic": 1}
+Vladimira Kubicova	{"Ivo Provaznik": 1}
+Volker Metzler	{"Thomas Martin Lehmann": 1, "Klaus Spitzer 0001": 1, "Khosrow Mottaghy": 1, "Hans Bienert": 1}
+Víctor M. García-Molla	{"Antonio M. Vidal": 1, "Jose9 Millet": 1, "Alejandro Liberos": 1, "Mareda de la Salud Guillem": 1, "Francisco-Jose Martednez-Zaldedvar": 1, "Andreu M. Climent": 1, "Alberto Gonze1lez 0001": 1}
+W. Wang	{"A. De Stefano": 1, "R. Allen": 1}
+Wadim Wojciechowski	{"Adrian Molka": 1, "Zbislaw Tabor": 1}
+Wagner Coelho A. Pereira	{"Andre9 V. Alvarenga": 1, "Leonardo Macrini": 1, "Antonio Fernando C. Infantosi": 1, "Carlos Eduardo Pedreira": 1}
+Wanmao Ni	{"Xiangmin Tong": 1, "Jie Jin": 1, "Hongchan Zhao": 1, "Wenbin Qian": 1}
+Warren Halberstadt	{"Tania S. Douglas": 1}
+Watshara Shoombuatong	{"Francis Barin": 1, "Sayamon Hongjaisee": 1, "Tanawan Samleerat": 1, "Jeerayut Chaijaruwanich": 1}
+Wayne Newhauser	{"Warren Newhauser": 1, "Andy Halloran": 1, "Rui Zhang": 1, "Mark Cilia": 1, "Timothy Jones 0003": 1, "Robert Carver": 1, "Stuart Swerdloff": 1}
+Wayne W. Wakeland	{"Brahm Goldstein": 1}
+Wei Chen 0064	{"Hao Lin 0001": 1}
+Wei Liu 0010	{"Ling Chen 0005": 1, "Hanwu Chen": 1}
+Wei Qian	{"Robert A. Clark": 1, "Xuejun Sun": 1, "Ravi Sankar": 1, "Xiaoshan Song": 1}
+Wei Yang	{"Wenying Li": 1, "Yazhu Chen": 1, "Yaqing Chen": 1, "Su Zhang 0001": 1}
+Wei-Yen Hsu	{}
+Weijia Lu	{"Daming Wei": 1, "Cuiwei Yang": 1, "Xin Zhu 0001": 1, "Zuxiang Fang": 1, "Xingpeng Liu": 1}
+Wen Zhong	{"Michelle Alfa": 1, "Rosemarie Howie": 1, "Sheryl Zelenitsky": 1}
+Wen-Ling Chan	{"Jan-Gowth Chang": 1, "Yung-fu Chen": 1, "Yung-Kuan Chan": 1, "Yen-Ping Chu": 1}
+Wen-Tsai Sung	{"Yu-Feng Liu": 1}
+Wenbo Zhu	{"Lianfang Tian": 1, "Bin Li 0024": 1, "Qing-Lin Chen": 1, "Xiangxia Li": 1}
+Wenda He	{"Arne Juette": 1, "Reyer Zwiggelaar": 1, "Peter Hogg": 1, "Erika R. E. Denton": 1}
+Wener Borges de Sampaio	{"Edgar Moraes Diniz": 1, "Marcelo Gattass": 1, "Anselmo Cardoso de Paiva": 1, "Aristf3fanes Correaa Silva": 1}
+Weng Howe Chan	{"Nazar Zaki": 1, "Hany Al Ashwal": 1, "Safaai Deris": 1, "Shahreen Kasim": 1, "Juan Manuel Corchado": 1, "Mohd Saberi Mohamad": 1, "Sigeru Omatu": 1}
+Weng-Kong Tam	{"Hsi-Jian Lee": 1}
+Wengang Zhou	{"Julie A. Dickerson": 1}
+Wenyan Jia	{"Jiamin Wu": 1, "Di Gao": 1, "Hao Wang": 1, "Mingui Sun": 1}
+Wilfrido Gómez-Flores	{"Wagner Coelho de Albuquerque Pereira": 1}
+William C. Shoemaker	{"Kevin Lu": 1, "Linda S. Chan": 1, "Charles C. J. Wo": 1, "David S. Bayard": 1, "Demetrios Demetriades": 1, "Andreas Botnen": 1, "Li-Chien Chien": 1, "Howard Belzberg": 1, "Roger W. Jelliffe": 1}
+Wojciech Tylman	{"Andrzej Napieralski": 1, "Pawel Marciniak": 1, "Radoslaw Tomala": 1, "Marek Kaminski": 1, "Maciej Wenerski": 1, "Rafal Kotas": 1, "Tomasz Waszyrowski": 1, "Tamara Trafidlo": 1, "Zbigniew Kulesza": 1}
+Wolfgang Fuhl	{"Thiago Santini": 1, "Daniel Claus": 1, "Enkelejda Kasneci": 1, "Alois Herkommer": 1, "Carsten Reichert": 1, "Siegfried Wahl": 1, "Katharina Rifai": 1, "Hamed Bahmani": 1}
+Wolfgang H. Zangemeister	{"Thomas Liman": 1}
+Wolfgang Jacquet	{"Edgard Nyssen": 1, "P. de Groen": 1, "Peter Bottenberg": 1, "Bart Truyen": 1}
+Won Man Park	{"Yoon Hyuk Kim": 1, "Kyungsoo Kim": 1}
+Won-Jin Yi	{"Sun-Bok Lee": 1, "Min-Suk Heo": 1, "Soon-Chul Choi": 1, "Kyung-Hoe Huh": 1, "Sam-Sun Lee": 1}
+Woojin Park	{"Seongho Song": 1, "Ronald L. Huston": 1, "Devender P. Singh": 1}
+Wook Lee	{"Kyungsook Han": 1, "Byungkyu Park": 1}
+Woowon Jeong	{"Kyehan Rhee": 3, "Moon Hee Han": 1, "Moon June Kim": 1}
+Wu Qu	{"Haifeng Sui": 1, "Bingru Yang": 1, "Wenbin Qian": 1}
+Wufang Wu	{"Jianyong Chen": 1, "Changyan Lin": 1, "Hua Zhang": 1, "Jing Chen": 1}
+X. George Xu	{"Yong Hum Na": 1, "Tiantian Zhang": 1}
+X. L. Yang	{"J. M. Yang": 1, "Yang Liu": 1, "R. M. C. So": 1}
+Xi Long	{"Y. Lawrence Yao": 2, "W. Louis Cleveland": 2}
+Xi Mei	{"Jian-sheng Mei": 1, "Jing Wang": 1, "Hong Zhang": 1, "Zhen-xi Zhang": 1}
+Xia Wang	{"Yongqing Zhang": 1, "Yanzhi Guo": 1, "Cuicui Wang": 1, "Gang Mi": 1, "Menglong Li": 1, "Juan Li": 1, "Xuemei Pu": 1}
+Xiang Wang	{"Christian Schulte zu Berge": 1, "Se9verine Habert": 1, "Pascal Fallavollita": 1, "Nassir Navab": 1}
+Xiangqin Jin	{"Minghao Jin": 1, "Lianxi Sheng": 1}
+Xiangyuan Zhu	{"Kenli Li 0001": 1, "Ahmad Salah": 1}
+Xiangzhi Bai	{"Cai Meng": 1, "Fugen Zhou": 1, "Yu Zhang": 1, "Peng Wang 0084": 1, "Changming Sun": 1}
+Xiao-Qing Liu	{"Xiaohua Yang": 1, "Yuhua Yao": 1, "Cong Wang": 1, "Qi Dai": 1}
+Xiao-yu Zhao	{"Qiang Li": 1, "Jin Zhang": 1, "Liang-Yun Zhang": 1, "Tao Yang": 1, "Yuan-yuan Chen": 1, "Cong Pian": 1}
+Xiaobai Zhang	{"Huanping Zhang": 1, "Huinan Wang": 1, "Xiaofeng Song": 1}
+Xiaobo Xie	{"Hongyan Cui": 1, "Shengpu Xu": 1, "Yong Hu 0003": 1}
+Xiaofeng Liu	{"Supin Wang": 1, "Huan Qi": 1, "Mingxi Wan": 1}
+Xiaofeng Song	{"Xuejiang Guo": 1, "Yi-Ping Phoebe Chen": 2, "Ping Han": 2, "Tao Zhou 0005": 1, "Jiahao Sha": 1, "Xiaobai Zhang": 1, "Huating Wang": 1, "Lei Cheng": 1, "Minghao Wang": 1, "Hao Sun 0001": 1}
+Xiaohong Wang	{"Xiaoyang Li": 2}
+Xiaojiang Xu	{"Gordon Giesbrecht": 1, "Peter Tikuisis": 1, "Richard Gonzalez": 1}
+Xiaoli Li 0002	{"Jin Li 0005": 1, "Xin Yao 0001": 1}
+Xiaoliang Li	{"Jie Yang 0002": 1, "Kai Xie": 1, "Yue Min Zhu": 1}
+Xiaomu Song	{"Suk-Chung Yoon": 1}
+Xiaotong Jiang	{"Hao Liu 0029": 1, "Qingjin Peng": 1, "Xiaosheng Cheng": 1, "Ning Dai": 1, "Jun Wang 0039": 1, "Cheng Cheng": 1}
+Ximing Wang	{"Brent J. Liu": 1, "Clarisa Martinez": 1, "Carolee J. Winstein": 1, "Xuejun Zhang": 1}
+Xin Chai	{"Yongping Zhao": 1, "Ou Bai": 1, "Xin Liu": 1, "Qisong Wang": 1, "Yongqiang Li": 1}
+Xin Wang 0023	{"Tulio A. Valdez": 1, "Jinbo Bi": 1}
+Xindong Wu 0001	{"Xingquan Zhu": 1, "Yu He": 1, "Abdullah N. Arslan": 1}
+Xingen Wu	{"Jun Duan": 1, "Sharon A. Spencer": 1, "John B. Fiveash": 1, "Ivan A. Brezovich": 1, "Sui Shen": 1}
+Xinsheng Li	{"Shuzhong Wang": 1, "Shuqi Cui": 1, "Jing Bai": 1}
+Xinxin Zhu	{"James J. Cimino": 1}
+Xinying Ren	{"Jianhua Zhang": 1, "Zhiyong Peng": 1, "Shuicai Wu": 1, "Qingning Zeng": 1, "Chaonan Peng": 1, "Yanjun Zeng": 1}
+Xu Lei	{"Antao Chen": 1, "Peng Xu 0001": 1, "Dezhong Yao 0001": 1}
+Xu Xue	{"Jing Liu": 1, "Zhi Zhu He": 1}
+Xuan Liu	{"Lijie Zhao": 1, "Qiwen Dong": 1}
+Xuan S. Yang	{"Wei Sun": 1, "Jihong Pei": 1}
+Xuan Zhou 0002	{"Zhanchao Li": 1, "Xiaoyong Zou": 1, "Zong Dai": 1}
+Xue Xiao	{"Xia Li 0004": 1, "Lei Gao": 1, "Dongguo Li": 1, "Shaojun Zhang": 1, "Zhicheng Liu": 1, "Qianghu Wang": 1}
+Xuwen Tong	{"Jiyuan Tu": 1, "Yidan Shang": 1, "Kiao Inthavong": 1, "Jingliang Dong": 1}
+Ya-Hui Shiao	{"Chun-Yuan Chen": 1, "Tzong-Jer Chen": 1, "Keh-Shih Chuang": 1}
+Ya-Ting Lee	{}
+Yagnaseni Roy	{"Sarit K. Das": 2, "Vivek Sivathanu": 2}
+Yahya T. Qassim	{"Daniel Arthur James": 1, "Tim R. H. Cutmore": 1, "David D. Rowlands": 1}
+Yakup Kutlu	{"Damla Kuntalp": 1}
+Yalcin Isler	{"Mehmet Kuntalp": 1}
+Yan Cui	{"Jian Yang 0003": 1, "Chun-Hou Zheng": 1, "Wen Sha": 1}
+Yan Ji	{"Jing Liu": 1}
+Yan Li	{"Lei Zhang": 1, "Jianjun Chen": 1, "Xue Rui": 1, "Shuyu Li": 1, "Jipeng Liu": 1, "Fang Pu": 1, "Weiguo Wang": 1, "Shaofeng Zhang": 1}
+Yan Sun	{"Kap Luk Chan": 1, "Shankar Muthu Krishnan": 1}
+Yan Ye	{"Xiaodi Diao": 1, "Dong Yang": 1, "Gang Du": 1, "Zhibin Jiang": 1}
+Yan Zhang 0033	{"Vishal Gupta": 1, "William W. Liou": 1}
+Yanfeng Li	{"Yongyi Yang": 1, "Houjin Chen": 1, "Lin Cao": 1, "Lin Cheng": 1}
+Yang Yu 0014	{"Jun Jiang": 1, "Dewen Hu": 1, "Erwei Yin": 1, "Jingsheng Tang": 1, "Zongtan Zhou": 1, "Yadong Liu": 1}
+Yang-Ming Zhu	{}
+Yanga Byun	{"Kyungsook Han": 1, "Sanghoon Moon": 1}
+Yannis Almirantis	{"Christoforos Nikolaou": 1}
+Yannis Marinakis	{"Jan Jantzen": 1, "Georgios Dounias": 1}
+Yanping Xiang	{"Kim-Leng Poh": 1}
+Yanxin Zhang	{"Sheng Quan Xie": 1, "Guangyu Liu": 1}
+Yanyan Yu	{"Yimin Chen": 1, "Bernard Chiu": 1}
+Yao-Huei Huang	{}
+Yasuhiro Inoue	{"Taiji Adachi": 1, "Yoshitaka Shimada": 1, "Masaki Hojo": 1, "Takeji Deji": 1}
+Yavuz Unal	{"Kemal Polat": 1, "H. Erdinc Kocer": 1}
+Yazdan Batmani	{"Hamid Khaloozadeh": 1}
+Ye Chen	{"Ning An": 1, "Huitong Ding": 1, "Lili Jiang": 1, "Yabo Li": 1, "Aiguo Wang": 1, "Xia Que": 1}
+Ye Ma	{"Sheng Quan Xie": 1, "Yanxin Zhang": 1}
+Yen-Chen Chen	{"Hung-Wen Chiu": 1, "Wan-Chi Ke": 1}
+Yeny Yim	{"Namkug Kim": 1, "Helen Hong": 2, "Yeong-Gil Shin": 1, "Eun Jin Chae": 1, "Joon Beom Seo": 1}
+Yi Liu 0007	{"Hong Shangguan": 1, "Huazhong Shu": 1, "Quan Zhang 0002": 1, "Hongqing Zhu": 1, "Zhiguo Gui": 1}
+Yi Wu	{"Qing Zheng": 1}
+Yi Zheng	{"Daming Wei": 1, "Koji Fukuda": 1, "Xin Zhu 0001": 1, "Hiroaki Shimokawa": 1, "Wenxi Chen": 1}
+Yi-Hsuan Kao	{"Yi-Ju Chen": 1, "Yi-Tzu Kao": 1, "Feng-Chi Chang": 1, "Michael Mu Huo Teng": 1, "Chen-Hsin Wu": 1, "Wen-Chun Chen": 1, "Fang-Ying Chiu": 1}
+Yi-Nung Chung	{"Haw-Chang Lan": 1, "Cheng-Nan Chou": 1, "Wen-Hsin Ho": 1}
+Yi-Zeng Hsieh	{"Chen-Hsu Wang": 1, "Mu-Chun Su": 1, "Pa-Chun Wang": 1}
+Yi-Zhuo Zhang	{"Jing Wang 0067": 1, "Lin Liang": 1, "Guanghua Xu": 1}
+Yihui Liu	{}
+Yilmaz Muslu	{}
+Yiming Zhang	{"Shuting Wang": 1, "Quan Jin": 1, "Ren Ren": 1}
+Yin-Fu Huang	{"Ching-Ping Liang": 1, "Sing-Wu Liou": 1}
+Ying He	{"Ryutaro Himeno": 2, "Zhigang Sun": 1, "Junko Sunaga": 1, "Hideo Yokota": 1, "Nobunori Kakusho": 1, "Minoru Shirazaki": 1, "Hao Liu 0016": 2}
+Ying Zhang	{"Wei Qian": 1, "Ravi Sankar": 1}
+Ying-Che Tsai	{"Hsi-Jian Lee": 1, "Michael Yu-Chih Chen": 1}
+Ying-Fei Sun	{"Xiaodan Fan": 1, "Yan-Da Li": 1}
+Yinhui Deng	{"Yuanyuan Wang 0001": 1, "Jinhua Yu": 1, "Ping Chen": 1}
+Yinsheng Zhang	{"Huilong Duan": 1, "Haomin Li": 1, "Yinhong Zhao": 1}
+Yiyu Cai	{"Chee-Kong Chui": 1, "Zhong Fan": 1, "Xiuzi Ye": 1, "James H. Anderson": 1}
+Yogender Aggarwal	{"Bhuwan Mohan Karan": 1, "Barda Nand Das": 1, "Rakesh Kumar Sinha": 1}
+Yoichi Hayashi	{"Rudy Setiono": 1}
+Yoichi Yamazaki	{"Yoshimi Kamiyama": 1}
+Yong Hu 0003	{"Keith Dip-Kei Luk": 1, "John Chiyan Leong": 1, "Benny S. C. Lam": 1, "William Weijia Lu": 2, "C. Q. Chang": 1, "Francis H. Y. Chan": 1, "Keith D. K. Luk": 1}
+Yonggang Ren	{"Fenglin Lv 0002": 1, "Xiangjun Kong": 1, "Yuanchao Li": 1, "Qingwu Yang": 1, "Yuzhu Pan": 1, "Bin Wu": 1, "Xiaoli Luo": 1}
+Yonghong Peng	{}
+Yongjun Chang	{"Namkug Kim": 1, "Jonghyuck Lim": 1, "Young Kyung Lee": 1, "Youngjoo Lee": 1, "Joon Beom Seo": 1}
+Yongjun Piao	{"Keun Ho Ryu": 1, "Minghao Piao": 1}
+Yongkweon Jeon	{"Hyeyoung Min": 1, "Eesuk Jung": 1, "Eui-Young Chung": 1, "Sungroh Yoon": 1}
+Yoon Jae Kim	{"Kwang Suk Park": 1, "Jeong Heo": 1, "Sungwan Kim": 1}
+Yoon-Chul Kim	{"Yeon Hyeon Choe": 1, "Sung Mok Kim": 1}
+Yoshihiro Ujihara	{"Shigeo Wada": 1, "Masatsugu Soga": 1, "Masanori Nakamura": 1, "Kenichiro Koshiyama": 1, "Hiroshi Miyazaki": 1}
+Yoshiyuki Yabuuchi	{"Junzo Watada": 1, "Takayuki Kawaura": 1}
+You-Shyang Chen	{"Cheng-Yi Hsu": 1, "Chien-Jung Lai": 1, "Ching-Hsue Cheng 0001": 2, "Han-Jhou Syu": 1}
+Younes Ghasemi	{"Fatemeh Dabbagh": 1, "Afshin Borhani Haghighi": 1, "Sara Rasoul-Amini": 1, "Mohammad Hossein Morowvat": 1}
+Young Gyung Shin	{"Hyeong Ju Kwon": 1, "Jung Hwa Hong": 1, "Hye Sun Lee": 1, "Kyunghwa Han": 1, "Hee Jung Moon": 1, "Jaeheung Yoo": 1, "Eun-Kyung Kim": 1, "Jung Hyun Yoon": 1, "Ji-Young Kwak": 1}
+Youngchan Song	{"Jeongjin Lee": 1, "Yeong-Gil Shin": 1, "Juneseuk Shin": 1, "Hyunna Lee": 1, "Ho Chul Kang": 1, "Gil-Sun Hong": 1, "Seong Ho Park": 1}
+Younghak Shin	{"Sung Chan Jun": 1, "Heung-No Lee": 1, "Minkyu Ahn": 1, "Hohyun Cho": 1, "Seungchan Lee": 1}
+Youngjoo Lee	{"Namkug Kim": 1, "Jonghyuck Lim": 1, "Young Kyung Lee": 1, "Yongjun Chang": 1, "Joon Beom Seo": 1}
+Youngjun Kim	{"Yong Hum Na": 1, "Rena Lee": 1, "Se Hyung Park": 1, "Lei Xing": 1}
+Youngsul Shin	{"Yunja Choi": 1, "Woo Jin Lee": 1}
+Yu Shi	{"Bingquan Zhu": 1, "Guozheng Yan": 1, "Wenwen Chen": 1}
+Yu-Bu Lee	{"Yoo-Joo Choi": 1, "Myoung-Hee Kim": 1}
+Yu-Feng Chung	{"Chung-Shing Hu": 1, "Ching-Hsing Luo": 1, "Cheng-Chang Yeh": 1}
+Yuan Gao 0015	{"Beth Jelfs": 1, "Yuk Fai Leung": 1, "Robert Carmer": 1, "Mohammad Ghadami": 1, "Skye A. Brown": 1, "Prahatha Venkatraman": 1, "Rosa H. M. Chan": 1, "Gaonan Zhang": 1, "Mingzhi Zhang": 1, "Chi-Pui Pang": 1}
+Yuan-Zhi Song	{"Ji-Min Xie": 1, "Yong Ye": 2, "Yang Song": 1, "Feng-Xia Zhu": 1, "Jian-Feng Zhou": 2, "Jiming Xie": 1}
+Yuanpeng Zhang	{"Li Wang": 1, "Xingyun Geng": 1, "Dengfu Yao": 1, "Danmin Qian": 1, "Jiancheng Dong": 1}
+Yuehui Chen	{"Yaou Zhao": 1, "Jingru Xu": 1, "Wenxing He": 1, "Bin Yang": 1}
+Yueyang Teng	{"Tie Zhang": 1}
+Yugyung Lee	{"James Geller": 1, "Kaustubh Supekar": 1}
+Yuh-Jyh Hu	{"Tien-Hsiung Ku": 1}
+Yuma Miki	{"Takeshi Hara": 1, "Hiroshi Fujita 0001": 1, "Tatsuro Hayashi": 1, "Chisako Muramatsu": 1, "Xiangrong Zhou": 1, "Akitoshi Katsumata": 1}
+Yung-Heng Lee	{"Chih-Wei Wang": 1, "Yao-Te Peng": 1, "Chun-Ting Li": 1, "Chih-Hsien Chen": 1, "Yen-Nien Chen": 1, "Chih-Han Chang": 1, "Chi-Jen Chung": 1}
+Yunhua Chen	{"Ling Zhang": 1, "Weijian Liu": 1, "Mingyu Yan": 1, "Yanjun Zeng": 1}
+Yuwei Zhou	{"Ozgfcr Dandin": 1, "Onur Osman": 1, "Uygar Teomete": 1, "Ulas Bagci": 1, "Taner Dandinoglu": 1, "Weizhao Zhao": 1}
+Yuwen Sun	{"Allen C. Cheng": 1}
+Yüksel Özbay	{"Rahime Ceylan": 1, "Murat Ceylan": 1, "Bekir Karlik": 1}
+Z. Hilal Inan	{"Mehmet Kuntalp": 1}
+Z. Lian	{"C.-K. Chui": 1, "S.-H. Teoh": 1}
+Z. Y. Chen	{"X. L. Zhang": 1, "X. P. Guo": 1, "W. J. Cram": 1, "Z. W. Li": 1}
+Zahra Zinati	{"Amir Hossein KayvanJoo": 1, "Mansour Ebrahimi": 1, "Esmaeil Ebrahimie": 1, "Mahdi Ebrahimi": 1, "Manijeh Mohammadi Dehcheshmeh": 1, "Fatemeh Zamansani": 1}
+Zakariya Yahya Algamal	{"Muhammad Hisyam Lee": 1}
+Ze Wang	{"Feng Wan": 1, "Chiman Wong": 1, "Liming Zhang 0002": 1}
+Zehava Ovadia-Blechman	{"Shmuel Einav": 1, "David Castel": 1, "Michael Eldar": 1, "Uri Zaretsky": 1}
+Zhan Ye	{"Daniel Wall": 1, "Simon M. Lin": 1, "Elizabeth McPherson": 1, "Christopher Kadolph": 1, "Robert Strenn": 1}
+Zhancheng Zhang	{"Kup-Sze Choi": 1, "Xiaoqing Luo": 1, "Jun Dong": 1, "Xiaojun Wu": 1}
+Zhanle Wang	{"Raman Paranjape": 1}
+Zhao-Hui Qi	{"Meng-Zhe Jin": 1, "Su-Li Li": 1, "Jun Feng": 2, "Ming-Hui Du": 1, "Li-Juan Zheng": 1, "Ling Li": 1, "Xiao-Qin Qi": 3}
+Zhen Ma	{"Teresa Mascarenhas": 1, "Joe3o Manuel R. S. Tavares": 1, "Renato M. Natal Jorge": 1}
+Zhen Yang	{"Xueshuai Wan": 1, "Xiaobo Yang": 1, "Ruoyu Miao": 1, "Haitao Zhao": 1, "Haohai Zhang": 1, "Zhuoya Gu": 1, "Yang Zhong": 1, "Lian He": 1}
+Zhenghong Xu	{"Yinbin Jin": 1, "Zhen-xi Zhang": 1, "Jing Wang": 1}
+Zhenwei Zhang	{"Jessie VanSwearingen": 1, "Jennifer S. Brach": 1, "Ervin Sejdic": 1, "Subashan Perera": 1}
+Zhi-ying Long	{"Mingqi Hui": 1, "Rui Li 0025": 1, "Zhen Jin 0003": 1, "Li Yao 0002": 1}
+Zhiguo Zhou	{"Shuang Wang 0001": 1, "Lingling Li 0002": 1, "Fang Liu 0001": 1, "Xiao-Dong Wang 0011": 1, "Licheng Jiao": 1, "Shuiping Gou": 1}
+Zhisong Wang	{"Hualou Liang": 1, "David A. Leopold": 1, "Nikos K. Logothetis": 1, "Alexander Maier": 1}
+Zhixiong Guo	{"Jinpin Ying": 1, "Stanley M. Dunn": 1, "John L. Semmlow": 1, "Siew Kan Wan": 1, "David A. August": 1}
+Zhiyuan Xie	{"Jing-Fang Wang": 1, "Dongqing Wei": 1, "Tao Zhang": 1, "Kuo-Chen Chou": 1}
+Zhong Ni	{"Rongzhong Jin": 1, "Xianfu Lin": 1, "Huayou Chen": 1}
+Zhong Zhang 0005	{"Zhi-Qiang Liu": 1, "Hiroaki Kawabata": 1}
+Zhong-Shan Deng	{"Jing Liu": 1}
+Ziad Sankari	{"Hojjat Adeli": 1}
+Ziming Zeng	{"Bernie Tiddeman": 1, "Jue Wang": 1, "Reyer Zwiggelaar": 1}
+Zixin Zhang	{"Michael Braun 0001": 1}
+Ziye Yan	{"Cuifen Li": 1, "Yao Lu": 1, "Junhai Wen": 1}
+Zlatko Fras	{"Mitja Lainscak": 1}
+Zoe Falomir	{"Francisco Maduef1o": 1, "d3scar Coltell": 1, "Dolores Corella": 1, "Mareda Arregui": 1}
+Zohreh Azimifar	{"Mahsa Mohaddesi": 1}
+Zorica Sarac	{"Zorica Z. Stojanovic-Radic": 1, "Ana M. Dzamic": 1, "Petar D. Marin": 1, "Jovana B. Veselinovic": 1, "Srdjan Bojovic": 1, "Jelena S. Matejic": 1}
+Zsolt László Kovács	{}
+Zuned Hajiali	{"Payman Jalali": 1, "Nic Debusschere": 1, "Mahsa Dabagh": 1, "Matthieu De Beule": 1}
+Zuzana Visnovcova	{"Michal Mestanik": 1, "Andrea Mestanikova": 1, "Michal Ge1la": 1, "Ingrid Tonhajzerova": 1}
+Zuzanna Miodonska	{"Michal Krecichwost": 1, "Marcin D. Bugdol": 1}
+Árpád Farkas	{"Imre Bale1she1zy": 1}
+Øyvind Nordbø	{"Nicolas Smith": 1, "Ivar Sjaastad": 1, "Espen W. Remme": 1, "Pablo Lamata": 1, "Jan M. Aronsen": 1, "Harald Martens": 1, "Arne B. Gjuvsland": 1, "Sander Land": 1, "Steven A. Niederer": 1, "Mae9le8ne Lohezic": 1, "William E. Louch": 1, "Kristin Tf8ndel": 1, "Stig W. Omholt": 1, "Jfcrgen E. Schneider": 1, "Hans Torp": 1, "Jon Olav Vik": 1}

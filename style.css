@@ -1,0 +1,13 @@
+body {
+  padding: 32px;
+}
+
+.container-fluid {
+  border-radius: 8px;
+  border: 1px solid rgb(222, 226, 230);
+}
+
+.dropdown-menu {
+  height: 500px;
+  overflow-y: scroll;
+}
